@@ -4,7 +4,7 @@
     - name: Full Name
       value: Dietmar Fackelmann
     - name: Date of Birth
-      value: 01 Jan 1974
+      value: 1974
     - name: Languages
       value: English, German, Spanish
 
@@ -12,8 +12,8 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Munich, Germany
+      year: 2001
       description:
         - Description 1.
         - Description 2.
