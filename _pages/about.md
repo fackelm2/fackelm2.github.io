@@ -9,7 +9,7 @@ profile:
   image: DF2021.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p></p>
+    <p>Dietmar Fackelmann</p>
     <p></p>
     <p></p>
 
@@ -20,5 +20,9 @@ social: true # includes social icons at the bottom of the page
 
 
 Hi, i am a computer scientist since 2001.
+My main research interests are Android Forensics. 
 I love linux, android forensic and network forensic.
-Actual focusing on Android, Python, SQLite, GIT, PyCharm and Github.
+
+
+
+

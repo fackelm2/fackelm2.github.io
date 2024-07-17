@@ -5,7 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Using github.io first time.
-Static website builder al-folio from alshedivat.
-URL is https://github.com/alshedivat/al-folio/.
+using al-folio for static website generator hosting on "github.io"
 

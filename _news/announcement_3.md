@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-using pycharm from Jetbrains :sparkles
+using PyCharm from JetBrains :sparkles:
 
