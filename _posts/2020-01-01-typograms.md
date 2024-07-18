@@ -1,7 +1,7 @@
 ---
 layout: post
-title: time management with the pomodoro technique 
-date: 2024-04-29 23:36:10
+title: example post - time management with the pomodoro technique 
+date: 2020-01-01 23:36:10
 description: this is what included typograms code could look like
 tags: formatting diagrams
 categories: sample-posts

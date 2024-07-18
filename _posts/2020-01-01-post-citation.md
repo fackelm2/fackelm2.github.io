@@ -1,7 +1,7 @@
 ---
 layout: post
-title: smartphone samsung s24 ultra
-date: 2024-04-28 15:06:00
+title: example post - smartphone samsung s24 ultra
+date: 2020-01-01 15:06:00
 description: this is what a post that can be cited looks like
 tags: formatting citation
 categories: sample-posts

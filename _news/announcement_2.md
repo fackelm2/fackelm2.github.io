@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Python as programming language
+using of python as programming language
 
 ---
 
@@ -23,8 +23,3 @@ to learn Python i can recommend "Anthony Writes Code"
 
 ---
 
-more text .. 
-
-> Programming language
-
-more text ..
