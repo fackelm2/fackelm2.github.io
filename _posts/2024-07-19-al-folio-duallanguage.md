@@ -5,16 +5,16 @@ date: 2024-07-19 12:28:00
 description: Using the Al-Folio Theme with more languages
 tags: linux al-folio jekyll tool
 categories: linux
-featured: true
+featured: false
 ---
 
-Al-Folio is a Jekyll theme for academics.
+At this moment the Jekyll Al-Folio Theme does not support dual languages. 
 
-Al-Folio ist ein Jekyll-Theme für Akademiker.
-
+For Dual Language support there are some solutions:
 - <a href="https://github.com/kurtsson/jekyll-multiple-languages-plugin">https://github.com/kurtsson/jekyll-multiple-languages-plugin</a>
 - <a href="https://george-gca.github.io/blog/2022/dual-language-al-folio/">https://george-gca.github.io/blog/2022/dual-language-al-folio/</a>
 
+until now i do not use dual languages ..
 
 
 
