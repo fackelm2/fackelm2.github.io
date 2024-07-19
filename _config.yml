@@ -108,7 +108,7 @@ wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: https://www.nmit.de # work page URL
 x_username: # your X handle
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: dietmarfackelmann1049 # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
@@ -305,8 +305,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: ["linux", "python", "android", "links", "notice"] # these tags will be displayed on the front page of your blog
+display_categories: ["python", "linux"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

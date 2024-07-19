@@ -4,7 +4,7 @@ title: Dual Language in the Jekyll Al-Folio Theme
 date: 2024-07-19 12:28:00
 description: Using the Al-Folio Theme with more languages
 tags: linux al-folio jekyll tool
-categories: al-folio
+categories: linux
 featured: true
 ---
 

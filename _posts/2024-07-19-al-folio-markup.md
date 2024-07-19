@@ -4,7 +4,7 @@ title: Markup for the Jekyll Al-Folio Theme
 date: 2024-07-19 10:39:00
 description: Using the Github Flavored Markdown in the Al-Folio Theme
 tags: linux al-folio jekyll tool
-categories: al-folio
+categories: linux
 featured: true
 ---
 https://de.wikipedia.org/wiki/Jekyll_(Software):

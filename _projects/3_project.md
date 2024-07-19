@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
+title: android
 description: a project that redirects to another website
 img: assets/img/pomodoro-clock-02.png
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: test
 ---
 
 Every project has a beautiful feature showcase page.
