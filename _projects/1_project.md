@@ -1,21 +1,22 @@
 ---
 layout: page
-title: project apkid
-description: Android Package ID
-img: assets/img/12.jpg
+title: apkinfo.py
+description: Android App Klassifizierung
 importance: 1
 category: work
 related_publications: false
+img: /assets/img/smartphone_app_install-2.png
 ---
 
-Android Package ID are uniqe identifiers ..
+Android Package IDs are unique identifiers of an Android Package (apk).
+Android Package IDs are the unique package identifiers for Android packages. 
+For example the messenger app threema has the apkid: "ch.threema.app".
+You can use the unique apkid to search for the intention of the app.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Android Package IDs (APK IDs) sind eindeutige Bezeichner für Android-Pakete (APKs). Zum Beispiel hat 
+die Messenger-App Threema die APK ID: "ch.threema.app".
+Diese eindeutige APK ID kann verwendet werden, um die Funktion und Absicht der App zu recherchieren.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: python - venv
+title: Using Virtual Environment in Python
 date: 2024-07-19 05:10:00
-description: using venv in python ..
-tags: formatting code
-categories: sample-posts
+description: cheatsheat for using venv in python
+tags: code python
+categories: python
 featured: true
 ---
 
@@ -67,3 +67,12 @@ string myString;
 }
 
 {% endhighlight %}
+
+Markdown style:
+```python
+import pandas as pd
+
+numbers = []
+for i in numbers:
+    echo i
+```
