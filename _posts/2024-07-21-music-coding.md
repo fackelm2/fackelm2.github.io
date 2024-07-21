@@ -5,7 +5,7 @@ date: 2024-07-21 14:00:00
 description: linux music links and stuff
 tags: music
 categories: music
-featured: false
+featured: true
 ---
 
 ### SUPERCOLLIDER
@@ -19,7 +19,7 @@ SuperCollider features three major components:
 - scide – An editor for sclang with an integrated help system
 
 Links
-<a href="https://supercollider.github.io/">https://supercollider.github.io/</a>
-<a href="https://sccode.org/">https://sccode.org/</a>
-<a href="https://vimeo.com/20241649">https://vimeo.com/20241649</a>
+- <a href="https://supercollider.github.io/">https://supercollider.github.io/</a>
+- <a href="https://sccode.org/">https://sccode.org/</a>
+- <a href="https://vimeo.com/20241649">https://vimeo.com/20241649</a>
 
