@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-using al-folio for static website generator hosting on "github.io"
-
+Started using al-folio to host a static website on GitHub Pages (github.io).

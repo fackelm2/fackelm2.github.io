@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-using PyCharm from JetBrains as IDE :sparkles:
+Started using PyCharm from JetBrains as my IDE for Python programming. :sparkles:
 

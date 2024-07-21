@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-using i3wm as window manager for linux (debian)
-
+Started using i3wm as the window manager for Linux (Debian).

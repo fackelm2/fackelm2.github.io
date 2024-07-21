@@ -10,7 +10,8 @@ using of python as programming language
 
 ---
 
-to learn Python i can recommend "Anthony Writes Code" 
+I started programming more intensively with the Python programming language.
+
 
 #### Links 
 
