@@ -11,7 +11,7 @@ using of python as programming language
 ---
 
 I started programming more intensively with the Python programming language.
-
+  
 
 #### Links 
 
