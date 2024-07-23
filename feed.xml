@@ -1,4 +1,196 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://fackelm2.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://fackelm2.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2024-07-23T18:31:34+00:00</updated><id>https://fackelm2.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">Chess (TODO)</title><link href="https://fackelm2.github.io/blog/2024/hobby-schach/" rel="alternate" type="text/html" title="Chess (TODO)"/><published>2024-07-23T17:01:13+00:00</published><updated>2024-07-23T17:01:13+00:00</updated><id>https://fackelm2.github.io/blog/2024/hobby-schach</id><content type="html" xml:base="https://fackelm2.github.io/blog/2024/hobby-schach/"><![CDATA[<p>TODO</p> <p>GM Hammer: best opening for beginners</p> <ul> <li>manchend “menschend”</li> <li>french opening</li> </ul>]]></content><author><name></name></author><category term="hobby"/><category term="hobby"/><category term="chess"/><summary type="html"><![CDATA[Chess]]></summary></entry><entry><title type="html">Linux Remote (TODO)</title><link href="https://fackelm2.github.io/blog/2024/linux-remote/" rel="alternate" type="text/html" title="Linux Remote (TODO)"/><published>2024-07-23T17:01:13+00:00</published><updated>2024-07-23T17:01:13+00:00</updated><id>https://fackelm2.github.io/blog/2024/linux-remote</id><content type="html" xml:base="https://fackelm2.github.io/blog/2024/linux-remote/"><![CDATA[<p>TODO</p> <p>Linux Remote Session</p> <ul> <li>ssh / sshd (client / server)</li> <li>xrdp (server)</li> <li>remina (client)</li> </ul>]]></content><author><name></name></author><category term="linux"/><category term="linux"/><category term="remote"/><summary type="html"><![CDATA[Tipps for Linux Remote]]></summary></entry><entry><title type="html">QNAP NAS Informations (TODO)</title><link href="https://fackelm2.github.io/blog/2024/operation-qnap/" rel="alternate" type="text/html" title="QNAP NAS Informations (TODO)"/><published>2024-07-23T17:01:13+00:00</published><updated>2024-07-23T17:01:13+00:00</updated><id>https://fackelm2.github.io/blog/2024/operation-qnap</id><content type="html" xml:base="https://fackelm2.github.io/blog/2024/operation-qnap/"><![CDATA[<p>TODO</p> <p>HDD SUPPORT QNAP TS-659 Pro HD SUPPORT Bis zu 6 TB https://www.qnap.com/de-de/compatibility/?model=58&amp;category=1&amp;filter[type]=1</p> <p>WD WD60EFRX (Red NASware 3.0) NAS Drives SATA 6Gb/s (SATA III) Non-SED 82.00A82 6 TB Toshiba MC04ACA600E Enterprise Drives SATA 6Gb/s (SATA III) Non-SED FP2A 6 TB Toshiba MC04ACA600E Enterprise Drives SATA 6Gb/s (SATA III) Non-SED FP3A 6 TB Seagate ST6000NM0024 Enterprise Drives Seagate Enterprise Capacity SATA 6Gb/s (SATA III) Non-SED SN02 6 TB</p> <p>4TB WD WD4001FFSX (Red Pro NASware 3.0) Enterprise Drives SATA 6Gb/s (SATA III) Non-SED 81.00A81 4 TB WD WD4000F9YZ (Se) Enterprise Drives SATA 6Gb/s (SATA III) Non-SED 01.01A01 4 TB WD WD4000FYYZ (WD Re) Enterprise Drives SATA 6Gb/s (SATA III) Non-SED 01.01K01 4 TB Seagate ST4000VM000 Desktop Drives Video SATA 6Gb/s (SATA III) Non-SED 4 TB Seagate ST4000NC000 (Terascale HDD) Enterprise Drives Terascale SATA 6Gb/s (SATA III) Non-SED CE02 4 TB</p>]]></content><author><name></name></author><category term="operation"/><category term="operation"/><category term="qnap"/><summary type="html"><![CDATA[Compatibility Harddisks for QNAP]]></summary></entry><entry><title type="html">Android Messenger Matrix (TODO)</title><link href="https://fackelm2.github.io/blog/2024/android-matrix/" rel="alternate" type="text/html" title="Android Messenger Matrix (TODO)"/><published>2024-07-22T17:37:00+00:00</published><updated>2024-07-22T17:37:00+00:00</updated><id>https://fackelm2.github.io/blog/2024/android-matrix</id><content type="html" xml:base="https://fackelm2.github.io/blog/2024/android-matrix/"><![CDATA[<p>TODO ..</p> <p>Matrix Chat</p> <p>Linux: neochat</p>]]></content><author><name></name></author><category term="android"/><category term="android"/><category term="messenger"/><summary type="html"><![CDATA[Android Messenger Matrix]]></summary></entry><entry><title type="html">Linux NVIDIA (TODO)</title><link href="https://fackelm2.github.io/blog/2024/linux-nvidia/" rel="alternate" type="text/html" title="Linux NVIDIA (TODO)"/><published>2024-07-22T17:37:00+00:00</published><updated>2024-07-22T17:37:00+00:00</updated><id>https://fackelm2.github.io/blog/2024/linux-nvidia</id><content type="html" xml:base="https://fackelm2.github.io/blog/2024/linux-nvidia/"><![CDATA[<p>TODO …</p> <p>NVIDIA moeglichst nur über die Distri installieren!! aptitude nvidia-driver oder apt-get install nvidia-driver</p> <p>alles deinstallieren hat nur funktioniert mit: apt-get purge <em>nvidia</em></p> <p>(Kernelquellen muessen vorhanden sein ..) root@mutterschiff:~# uname -r 6.1.0-18-amd64 root@mutterschiff:~# apt install –reinstall linux-headers-$(uname -r)</p> <p>03.03.2024 NVIDIA Treiber von NVIDIA heruntergeladen und über das RUN Script installiert.</p> <p>######</p> <p>check nvidia driver installed https://linuxconfig.org/how-to-check-nvidia-driver-version-on-your-linux-system</p> <p>root@mutterschiff:/home/fackelm2# nvidia-smi Sun Mar 3 13:06:21 2024 <br/> +—————————————————————————————–+ | NVIDIA-SMI 550.54.14 Driver Version: 550.54.14 CUDA Version: 12.4 | |—————————————–+————————+———————-+ | GPU Name Persistence-M | Bus-Id Disp.A | Volatile Uncorr. ECC | | Fan Temp Perf Pwr:Usage/Cap | Memory-Usage | GPU-Util Compute M. | | | | MIG M. | |=========================================+========================+======================| | 0 NVIDIA GeForce GTX 1060 6GB Off | 00000000:01:00.0 On | N/A | | 45% 41C P0 26W / 120W | 394MiB / 6144MiB | 0% Default | | | | N/A | +—————————————–+————————+———————-+</p> <p>+—————————————————————————————–+ | Processes: | | GPU GI CI PID Type Process name GPU Memory | | ID ID Usage | |=========================================================================================| | 0 N/A N/A 733 G /usr/lib/xorg/Xorg 208MiB | | 0 N/A N/A 1430 G firefox-esr 183MiB | +—————————————————————————————–+</p> <p>Please note that both above solutions will work only if the actual NVIDIA module is loaded.</p> <p>Another place where to find NVIDIA driver version is to consult Xorg X server log files: root@mutterschiff:/home/fackelm2# more /var/log/Xorg.0.log | grep “X Driver” [ 6.031] (II) NVIDIA dlloader X Driver 550.54.14 Thu Feb 22 01:31:16 UTC 2024</p> <p>Retrieve module version If all above commands fail because you are unable to load NVIDIA module you can always see NVIDIA version number by directly retrieving nvidia.ko module version using modinfo command. The below command will check for NVIDIA driver version under your currently running kernel:</p> <p>root@mutterschiff:/home/fackelm2# find /usr/lib/modules -name nvidia.ko /usr/lib/modules/6.1.0-18-amd64/updates/dkms/nvidia.ko</p> <p>#####</p> <p>debian nvidida prorietary driver https://wiki.debian.org/NvidiaGraphicsDrivers</p> <p>$ lspci -nn | egrep -i “3d|display|vga”</p> <h1 id="apt-install-linux-headers-amd64">apt install linux-headers-amd64</h1> <p>change /etc/apt/source.list contrib non-free</p> <h1 id="apt-update">apt update</h1> <h1 id="apt-install-nvidia-driver-firmware-misc-nonfree">apt install nvidia-driver firmware-misc-nonfree</h1> <p>#########</p> <p>anon21050130 Juli 2022</p> <p>When I open the folder, where the driver is, in the terminal and type “./NVIDIA-Driver.run” (this is the name I gave to the file) this appears:</p> <p>You appear to be running an X server; please exit X before installing. For further details, please see the section INSTALLING THE NVIDIA DRIVER in the README available on the Linux driver download page at www.nvidia.com 312.</p> <p>In section 4 - Installing the NVIDIA Driver on the Readme page it says to exit the X server, but it doesn’t say how to do that.</p> <p>I typed these two commands in the terminal, the first one the screen went black and my PC restarted and when it came back I tried it and the same error appeared. The second, nothing happened and after the retry, the same error.</p> <p>systemctl stop display-manager systemctl stop lightdm.service</p> <p>Now it’s up to you, friends, it’s you I’m counting on.</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>I gave up installing by the runfile installer. I preferred to install with this command: sudo apt-get install nvidia-driver-515 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://fackelm2.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://fackelm2.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2024-07-23T20:53:54+00:00</updated><id>https://fackelm2.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">Android Forensic - Android Path Description (TODO)</title><link href="https://fackelm2.github.io/blog/2024/android-paths/" rel="alternate" type="text/html" title="Android Forensic - Android Path Description (TODO)"/><published>2024-07-23T19:35:13+00:00</published><updated>2024-07-23T19:35:13+00:00</updated><id>https://fackelm2.github.io/blog/2024/android-paths</id><content type="html" xml:base="https://fackelm2.github.io/blog/2024/android-paths/"><![CDATA[<p>TODO</p> <p><a href="https://github.com/RealityNet/Android-Forensics-References"> https://github.com/RealityNet/Android-Forensics-References</a></p> <p>for example:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/log/batterystats
+    Cellebrite CTF 2021 - Heisenberg's Android
+    https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-heisenbergs-android.html
+    Part 1: Walk-Through of Answers to the 2021 CTF – Investigating Heisenberg’s Android Device
+    https://cellebrite.com/en/part-1-walk-through-of-answers-to-the-2021-ctf-investigating-heisenbergs-android-device/
+    Artefacts of Android device power off due to depleted battery
+    https://instatronic.com/artefacts-of-android-device-power-off-due-to-depleted-battery
+</code></pre></div></div> <p>ALEAPP https://github.com/abrignoni/ALEAPP Android Logs Events And Protobuf Parser</p> <p>Autopsy Plugin Android extraction and analysis framework with an integrated Autopsy Module. Dump easily user data from a device and generate powerful reports for Autopsy or external applications. https://github.com/labcif/FAMA</p> <p>Android Forensic Bash Script (extract data from Android Smartphone bash script) <a href="https://github.com/RealityNet/android_triage">https://github.com/RealityNet/android_triage</a></p> <p>Excel Attack Vector (TODO) https://github.com/RealityNet/attack-coverages</p> <p>Teleparser (Telegram Parser) 2020 https://github.com/RealityNet/teleparser</p> <p>Amdroid Forensic https://blog.digital-forensics.it/</p> <ul> <li>Dissecting the Android WiFiConfigStore.xml for forensic analysis</li> <li>A first look at Android 14 forensics</li> <li>Analysis of Android settings during a forensic investigation</li> <li>Has the user ever used the XYZ application? aka traces of application execution on mobile devices</li> </ul> <p>https://github.com/orgs/nowsecure/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse</p> <p>SQLite Queries https://github.com/kacos2000/Queries?tab=readme-ov-file</p> <p>Google Drive</p> <ul> <li>Query Google Drive’s snapshot.db found at the ‘\AppData\Local\Google\Drive\user@’ folder .</li> <li>Query Google Drive’s cloud_graph.db found at the ‘\AppData\Local\Google\Drive\user@\cloud_graph’ folder</li> </ul> <p>Android</p> <ul> <li>Android 7 Calllog.db (Call history)</li> <li>Android 7 Contacts2.db (Contacts)</li> <li>Android 9 Contacts2.db (Call history)</li> <li>Android logs.db (Samsung Calls/messages)</li> </ul> <p>example Logs_db.sql:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>-- sec = (Samsung Electronics Corporation)
+-- <span class="se">\d</span>ata<span class="se">\c</span>om.sec.android.provider.logsproviders<span class="se">\l</span>ogs.db
+
+Select 
+	logs._id as 'id',
+	logs.geocoded_location||' ('||logs.countryiso||')' as 'Location',
+	logs.name,
+	logs.number,
+	case logs.numbertype 
+		when 1 then 'Home'
+		when 2 then 'Mobile'
+		when 3 then 'Work'
+		when 4 then 'Fax_Work'
+		when 5 then 'Fax_Home'
+		when 6 then 'Pager'
+		when 7 then 'Other'
+		when 8 then 'Callback'
+		when 9 then 'Car'
+		when 10 then 'Company_Main'
+		when 11 then 'ISDN'
+		when 12 then 'Main'
+		when 13 then 'Other_Fax'
+		when 14 then 'Radio'
+		when 15 then 'Telex'
+		when 16 then 'TTY_TDD'
+		when 17 then 'Work_Mobile'
+		when 18 then 'Work_Pager'
+		when 19 then 'Assistant'
+		when 20 then 'MMS'
+		else logs.numbertype
+		end as 'numbertype',
+	case logs.presentation
+		when 1 then 'allowed' --Number is allowed to display for caller id
+		when 2 then 'restricted' --Number is blocked by user
+		when 3 then 'unknown'  --Number is not specified or unknown by network
+		when 4 then 'pay phone' --Number is a pay phone
+		else logs.presentation
+		end as 'CallerID',	
+	datetime(logs.date/1000, 'unixepoch') as 'lDate',
+	case 
+		when logs.duration != 0
+		then Time(logs.duration, 'unixepoch') 
+		end as 'Duration',--The duration of the call in seconds
+	case logs.type
+		when 1 then 'incoming' --incoming calls
+		when 2 then 'outgoing' --outgoing calls
+		when 3 then 'missed' --missed calls
+		when 4 then 'voicemail' --Call log type for voicemails
+		when 5 then 'rejected' --rejected by direct user action
+		when 6 then 'blocked' --calls blocked automatically
+		when 7 then 'answered externally' --call which was answered on another device
+		else logs.type
+	end as 'type',	
+	case 
+		when logs.logtype in (100)
+		then 'Call ('||logs.logtype||')'
+		when logs.logtype in (300)
+		then 'SMS ('||logs.logtype||')'
+		when logs.logtype in (400)
+		then 'Email ('||logs.logtype||')'
+		else 'Other ('||logs.logtype||')'
+		end as 'logtype',
+	logs.messageid,		
+	case logs.is_read
+		when 0 then 'No'
+		when 1 then 'Yes'
+		end as 'IsRead',
+	logs.m_subject as 'MessageSubject',
+	logs.m_content as 'MessageContent',
+	case logs."new"
+		when 1 then 'Yes'
+		end as 'New',
+	logs.contactid,
+	logs.raw_contact_id,
+	logs.lookup_uri,
+	logs.photo_id,
+	logs.account_name||' ('||logs.account_id||')' as 'Account'
+from logs
+order by lDate desc
+</code></pre></div></div> <p>calllog_db.sql</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>-- references: 
+-- https://developer.android.com/reference/android/provider/CallLog.Calls.html
+<span class="gh">-- https://developer.android.com/reference/android/provider/ContactsContract.CommonDataKinds.Phone
+--
+</span>--
+-- Costas Katsavounidis © 06/2019 
+
+SELECT
+calls._id,
+number, --The phone number as the user entered it.
+case presentation
+	when 1 then 'allowed' --Number is allowed to display for caller id
+	when 2 then 'restricted' --Number is blocked by user
+	when 3 then 'unknown'  --Number is not specified or unknown by network
+	when 4 then 'pay phone' --Number is a pay phone
+	else presentation
+	end as 'CallerID',
+case calls.new -- Whether or not the call has been acknowledged
+	when 1 then 'yes'
+	else ''
+	end as 'New',
+case type
+	when 1 then 'incoming' --incoming calls
+	when 2 then 'outgoing' --outgoing calls
+	when 3 then 'missed' --missed calls
+	when 4 then 'voicemail' --Call log type for voicemails
+	when 5 then 'rejected' --rejected by direct user action
+	when 6 then 'blocked' --calls blocked automatically
+	when 7 then 'answered externally' --call which was answered on another device
+	else type
+	end as 'type',
+-- ISREAD &gt;&gt; Unlike the NEW field, which requires the user to have acknowledged the existence of the entry, 
+-- this implies the user has interacted with the entry. 
+case is_read -- Whether this item has been read or otherwise consumed by the user. 
+	when 1 then 'yes'
+	else ''
+	end as 'is read',
+case features
+	when 0 then 'None'
+	when 1 then 'Call had Video'
+	when 2 then 'Call was pulled externally'
+	when 4 then 'HD Call'
+	when 8 then 'Call was WIFI call'
+	when 32 then 'Call was on RTT at some point'
+	else features
+	end as 'features',
+operator||' ('||countryiso||')' as 'Operator',
+geocoded_location, --The string represents a city, state, or country associated with the number associated with this call 
+matched_number,
+case numbertype --cached number type (Home, Work, etc) associated with the phone number
+	when 1 then 'Home'
+	when 2 then 'Mobile'
+	when 3 then 'Work'
+	when 4 then 'Fax_Work'
+	when 5 then 'Fax_Home'
+	when 6 then 'Pager'
+	when 7 then 'Other'
+	when 8 then 'Callback'
+	when 9 then 'Car'
+	when 10 then 'Company_Main'
+	when 11 then 'ISDN'
+	when 12 then 'Main'
+	when 13 then 'Other_Fax'
+	when 14 then 'Radio'
+	when 15 then 'Telex'
+	when 16 then 'TTY_TDD'
+	when 17 then 'Work_Mobile'
+	when 18 then 'Work_Pager'
+	when 19 then 'Assistant'
+	when 20 then 'MMS'
+	else numbertype
+	end as 'numbertype',
+formatted_number,
+post_dial_digits, --post-dial portion of a dialed number
+name,
+time(duration,'unixepoch') as 'duration', --The duration of the call in seconds 
+datetime(date/1000, 'unixepoch','localtime') as 'call_date', --The date the call occured, in milliseconds since the epoch 
+datetime(last_modified/1000, 'unixepoch','localtime') as 'lastmodified',--The date the row is last inserted, updated, or marked as deleted, in milliseconds since the epoch
+photo_id,
+photo_uri,
+via_number, -- the via number indicates which of the numbers associated with the SIM was called
+phone_account_address, --The identifier for the account used to place or receive the call
+subscription_id as 'sid', --The identifier for the account used to place or receive the call,
+case phone_account_hidden 
+	when 0 then 'No'
+	when 1 then 'Yes'
+	end as 'hidden',
+subscription_component_name as 'component',
+calls._data as 'data',
+case has_content
+	when 1 then 'Yes'
+	end as 'has content',
+data_usage,
+source_package,	
+transcription, --only be populated for call log entries of type VOICEMAIL_TYPE that have valid transcriptions
+mime_type,
+case dirty
+	when 1 then 'yes'
+	end as 'dirty',
+case deleted 
+	when 0 then 'no' 
+	when 1 then 'yes' 
+	end as 'deleted'
+from calls
+order by calls._id desc
+
+</code></pre></div></div> <p>ADB Chat ADB Chat is a LangChain Agent-based chat application that allows the user to execute Android Debug Bridge commands using a natural language chat interface. https://github.com/jgordley/chat-adb</p> <p>Messegner Signal https://github.com/AvillaDaniel/Signal-Forensics</p> <p>apkqf (APK Quick Forensics) is an Android application to simplify the acquisition of relevant forensic data from Android devices. It is inspired on androidqf. https://github.com/penserbjorne/apkqf</p> <p>AndroidForensics</p> <p>LiME, Volatility and custom Python wrapper script for android forensic analysis Description This project contains files and custom scripts to extract processes from Android devices using LiME and Volatility. The main file androidforensics.py can be run using the command python androidforensics.py https://github.com/devopscrazy/AndroidForensics</p> <p>Mobile Investigation Tools https://github.com/salvinmirza/Mobile-App-forensic-tools-analysis</p> <p>VALFE08 ( Vishwa’s Android Log File Extractor ) https://github.com/code-reaper08/VALFE08</p> <p>OpenMF is an open source forensic tool for Android smartphones that helps digital forensic investigators throughout the life cycle of digital forensic investigation. https://github.com/c2siorg/OpenMF</p> <p>ADB: Dump Memory https://github.com/aishee/andump</p> <p>App Gmail gmail-android-forensic-analysis https://github.com/paologrossetti/gmail-android-forensic-analysis</p> <p>https://github.com/paologrossetti/Cryptot00l This project aims to learn notions about the most important encryption algorithms. Thanks to Python library pycryptodome, simple examples involving the following algorithm have been defined:</p> <ul> <li>AES</li> <li>RSA</li> <li>Salsa20</li> <li>Chacha20</li> </ul> <p>SecCheats is a collection of cheat sheets for various topics in security. https://github.com/paologrossetti/SecCheats?tab=readme-ov-file</p> <p>Databases Diagrams related to the Running applications of the paper “Digital Footprints on the Run: A Forensic Examination of Android Running Workout Applications” https://github.com/labcif/Running-Databases</p> <ul> <li>Nike Run</li> <li>Pumatrac</li> <li>Runkeeper</li> </ul>]]></content><author><name></name></author><category term="android"/><category term="android"/><category term="forensic"/><summary type="html"><![CDATA[Android Path Description and links to references]]></summary></entry><entry><title type="html">Chess (TODO)</title><link href="https://fackelm2.github.io/blog/2024/hobby-schach/" rel="alternate" type="text/html" title="Chess (TODO)"/><published>2024-07-23T17:01:13+00:00</published><updated>2024-07-23T17:01:13+00:00</updated><id>https://fackelm2.github.io/blog/2024/hobby-schach</id><content type="html" xml:base="https://fackelm2.github.io/blog/2024/hobby-schach/"><![CDATA[<p>TODO</p> <p>GM Hammer: best opening for beginners</p> <ul> <li>manchend “menschend”</li> <li>french opening</li> </ul>]]></content><author><name></name></author><category term="hobby"/><category term="hobby"/><category term="chess"/><summary type="html"><![CDATA[Chess]]></summary></entry><entry><title type="html">Linux Remote (TODO)</title><link href="https://fackelm2.github.io/blog/2024/linux-remote/" rel="alternate" type="text/html" title="Linux Remote (TODO)"/><published>2024-07-23T17:01:13+00:00</published><updated>2024-07-23T17:01:13+00:00</updated><id>https://fackelm2.github.io/blog/2024/linux-remote</id><content type="html" xml:base="https://fackelm2.github.io/blog/2024/linux-remote/"><![CDATA[<p>TODO</p> <p>Linux Remote Session</p> <ul> <li>ssh / sshd (client / server)</li> <li>xrdp (server)</li> <li>remina (client)</li> </ul>]]></content><author><name></name></author><category term="linux"/><category term="linux"/><category term="remote"/><summary type="html"><![CDATA[Tipps for Linux Remote]]></summary></entry><entry><title type="html">QNAP NAS Informations (TODO)</title><link href="https://fackelm2.github.io/blog/2024/operation-qnap/" rel="alternate" type="text/html" title="QNAP NAS Informations (TODO)"/><published>2024-07-23T17:01:13+00:00</published><updated>2024-07-23T17:01:13+00:00</updated><id>https://fackelm2.github.io/blog/2024/operation-qnap</id><content type="html" xml:base="https://fackelm2.github.io/blog/2024/operation-qnap/"><![CDATA[<p>TODO</p> <p>HDD SUPPORT QNAP TS-659 Pro HD SUPPORT Bis zu 6 TB https://www.qnap.com/de-de/compatibility/?model=58&amp;category=1&amp;filter[type]=1</p> <p>WD WD60EFRX (Red NASware 3.0) NAS Drives SATA 6Gb/s (SATA III) Non-SED 82.00A82 6 TB Toshiba MC04ACA600E Enterprise Drives SATA 6Gb/s (SATA III) Non-SED FP2A 6 TB Toshiba MC04ACA600E Enterprise Drives SATA 6Gb/s (SATA III) Non-SED FP3A 6 TB Seagate ST6000NM0024 Enterprise Drives Seagate Enterprise Capacity SATA 6Gb/s (SATA III) Non-SED SN02 6 TB</p> <p>4TB WD WD4001FFSX (Red Pro NASware 3.0) Enterprise Drives SATA 6Gb/s (SATA III) Non-SED 81.00A81 4 TB WD WD4000F9YZ (Se) Enterprise Drives SATA 6Gb/s (SATA III) Non-SED 01.01A01 4 TB WD WD4000FYYZ (WD Re) Enterprise Drives SATA 6Gb/s (SATA III) Non-SED 01.01K01 4 TB Seagate ST4000VM000 Desktop Drives Video SATA 6Gb/s (SATA III) Non-SED 4 TB Seagate ST4000NC000 (Terascale HDD) Enterprise Drives Terascale SATA 6Gb/s (SATA III) Non-SED CE02 4 TB</p>]]></content><author><name></name></author><category term="operation"/><category term="operation"/><category term="qnap"/><summary type="html"><![CDATA[Compatibility Harddisks for QNAP]]></summary></entry><entry><title type="html">Android Messenger Matrix (TODO)</title><link href="https://fackelm2.github.io/blog/2024/android-matrix/" rel="alternate" type="text/html" title="Android Messenger Matrix (TODO)"/><published>2024-07-22T17:37:00+00:00</published><updated>2024-07-22T17:37:00+00:00</updated><id>https://fackelm2.github.io/blog/2024/android-matrix</id><content type="html" xml:base="https://fackelm2.github.io/blog/2024/android-matrix/"><![CDATA[<p>TODO ..</p> <p>Matrix Chat</p> <p>Linux: neochat</p>]]></content><author><name></name></author><category term="android"/><category term="android"/><category term="messenger"/><summary type="html"><![CDATA[Android Messenger Matrix]]></summary></entry><entry><title type="html">Linux NVIDIA (TODO)</title><link href="https://fackelm2.github.io/blog/2024/linux-nvidia/" rel="alternate" type="text/html" title="Linux NVIDIA (TODO)"/><published>2024-07-22T17:37:00+00:00</published><updated>2024-07-22T17:37:00+00:00</updated><id>https://fackelm2.github.io/blog/2024/linux-nvidia</id><content type="html" xml:base="https://fackelm2.github.io/blog/2024/linux-nvidia/"><![CDATA[<p>TODO …</p> <p>NVIDIA moeglichst nur über die Distri installieren!! aptitude nvidia-driver oder apt-get install nvidia-driver</p> <p>alles deinstallieren hat nur funktioniert mit: apt-get purge <em>nvidia</em></p> <p>(Kernelquellen muessen vorhanden sein ..) root@mutterschiff:~# uname -r 6.1.0-18-amd64 root@mutterschiff:~# apt install –reinstall linux-headers-$(uname -r)</p> <p>03.03.2024 NVIDIA Treiber von NVIDIA heruntergeladen und über das RUN Script installiert.</p> <p>######</p> <p>check nvidia driver installed https://linuxconfig.org/how-to-check-nvidia-driver-version-on-your-linux-system</p> <p>root@mutterschiff:/home/fackelm2# nvidia-smi Sun Mar 3 13:06:21 2024 <br/> +—————————————————————————————–+ | NVIDIA-SMI 550.54.14 Driver Version: 550.54.14 CUDA Version: 12.4 | |—————————————–+————————+———————-+ | GPU Name Persistence-M | Bus-Id Disp.A | Volatile Uncorr. ECC | | Fan Temp Perf Pwr:Usage/Cap | Memory-Usage | GPU-Util Compute M. | | | | MIG M. | |=========================================+========================+======================| | 0 NVIDIA GeForce GTX 1060 6GB Off | 00000000:01:00.0 On | N/A | | 45% 41C P0 26W / 120W | 394MiB / 6144MiB | 0% Default | | | | N/A | +—————————————–+————————+———————-+</p> <p>+—————————————————————————————–+ | Processes: | | GPU GI CI PID Type Process name GPU Memory | | ID ID Usage | |=========================================================================================| | 0 N/A N/A 733 G /usr/lib/xorg/Xorg 208MiB | | 0 N/A N/A 1430 G firefox-esr 183MiB | +—————————————————————————————–+</p> <p>Please note that both above solutions will work only if the actual NVIDIA module is loaded.</p> <p>Another place where to find NVIDIA driver version is to consult Xorg X server log files: root@mutterschiff:/home/fackelm2# more /var/log/Xorg.0.log | grep “X Driver” [ 6.031] (II) NVIDIA dlloader X Driver 550.54.14 Thu Feb 22 01:31:16 UTC 2024</p> <p>Retrieve module version If all above commands fail because you are unable to load NVIDIA module you can always see NVIDIA version number by directly retrieving nvidia.ko module version using modinfo command. The below command will check for NVIDIA driver version under your currently running kernel:</p> <p>root@mutterschiff:/home/fackelm2# find /usr/lib/modules -name nvidia.ko /usr/lib/modules/6.1.0-18-amd64/updates/dkms/nvidia.ko</p> <p>#####</p> <p>debian nvidida prorietary driver https://wiki.debian.org/NvidiaGraphicsDrivers</p> <p>$ lspci -nn | egrep -i “3d|display|vga”</p> <h1 id="apt-install-linux-headers-amd64">apt install linux-headers-amd64</h1> <p>change /etc/apt/source.list contrib non-free</p> <h1 id="apt-update">apt update</h1> <h1 id="apt-install-nvidia-driver-firmware-misc-nonfree">apt install nvidia-driver firmware-misc-nonfree</h1> <p>#########</p> <p>anon21050130 Juli 2022</p> <p>When I open the folder, where the driver is, in the terminal and type “./NVIDIA-Driver.run” (this is the name I gave to the file) this appears:</p> <p>You appear to be running an X server; please exit X before installing. For further details, please see the section INSTALLING THE NVIDIA DRIVER in the README available on the Linux driver download page at www.nvidia.com 312.</p> <p>In section 4 - Installing the NVIDIA Driver on the Readme page it says to exit the X server, but it doesn’t say how to do that.</p> <p>I typed these two commands in the terminal, the first one the screen went black and my PC restarted and when it came back I tried it and the same error appeared. The second, nothing happened and after the retry, the same error.</p> <p>systemctl stop display-manager systemctl stop lightdm.service</p> <p>Now it’s up to you, friends, it’s you I’m counting on.</p> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>I gave up installing by the runfile installer. I preferred to install with this command: sudo apt-get install nvidia-driver-515 
 
 erstellt
 Juli 2022
@@ -15,4 +207,4 @@ Benutzer
 3
 </code></pre></div></div> <p>generix Top Contributor Juli 2022</p> <p>You shouldn’t use the runfile installer at all, please use the driver from the repo of your distribution. sudo systemctl isolate multi-user.target should turn off graphics. anon21050130 Aug. 2022</p> <p>I gave up installing by the runfile installer. I preferred to install with this command:</p> <p>sudo apt-get install nvidia-driver-515</p>]]></content><author><name></name></author><category term="linux"/><category term="linux"/><category term="nvidia"/><summary type="html"><![CDATA[Linux NVIDIA]]></summary></entry><entry><title type="html">Linux Printer (TODO)</title><link href="https://fackelm2.github.io/blog/2024/linux-printer/" rel="alternate" type="text/html" title="Linux Printer (TODO)"/><published>2024-07-22T17:37:00+00:00</published><updated>2024-07-22T17:37:00+00:00</updated><id>https://fackelm2.github.io/blog/2024/linux-printer</id><content type="html" xml:base="https://fackelm2.github.io/blog/2024/linux-printer/"><![CDATA[<p>TODO …</p> <p>LÖSUNG Samsung M2525W</p> <p>a) Drucker eingerichtet mit CUPS unter http://localhost:631/admin b) Fehler bei Drucken -&gt; error log -&gt; /var/log/cups/error_log D [05/May/2024:13:12:40 +0200] [Job 21] Samsung_ML-2525W_Series_on_192.168.178.91: error while loading shared libraries: libcupsimage.so.2: cannot open shared object file: No such file or directory c) install libcupsimage d) restart e) first print with samsung printer M2525W over Network</p> <p>TIPPS GUT : https://www.javatpoint.com/linux-print DRUCKER STATUS</p> <p>fackelm2@mutterschiff:~/PDF$ lpstat -p -d Drucker PDF ist im Leerlauf. Aktiviert seit So 05 Mai 2024 12:20:32 CEST Drucker Samsung_ML-2525W_Series ist im Leerlauf. Aktiviert seit So 05 Mai 2024 12:26:48 CEST Rendering completed systemvoreingestelltes Ziel: PDF</p> <p>DRUCKEN EINER DATEI fackelm2@mutterschiff:~/PDF$ lpr -P Samsung_ML-2525W_Series ../MERKE/merke-android.txt</p> <p>SET DEFAULT PRINTER lpoptions -d &lt; printer name&gt;</p> <p>TIPPS https://www.zdv.uni-mainz.de/zdv-drucker-unter-linux-einrichten/</p> <p>Error Messages var/log/cups/error.log</p> <p>#Verwaltungsschnittstelle CUPS http://localhost:631/admin</p>]]></content><author><name></name></author><category term="linux"/><category term="linux"/><category term="printer"/><summary type="html"><![CDATA[Linux Printer]]></summary></entry><entry><title type="html">Music with Linux (TODO)</title><link href="https://fackelm2.github.io/blog/2024/hobby-music/" rel="alternate" type="text/html" title="Music with Linux (TODO)"/><published>2024-07-21T14:00:00+00:00</published><updated>2024-07-21T14:00:00+00:00</updated><id>https://fackelm2.github.io/blog/2024/hobby-music</id><content type="html" xml:base="https://fackelm2.github.io/blog/2024/hobby-music/"><![CDATA[<h3 id="supercollider">SUPERCOLLIDER</h3> <p>“A PLATFORM FOR AUDIO SYNTHESIS AND ALGORITHMIC COMPOSITION, USED BY MUSICIANS, ARTISTS AND RESEARCHERS WORKING WITH SOUND. FREE AND OPEN SOURCE SOFTWARE FOR WINDOWS, MACOS AND LINUX.”</p> <h3 id="features">Features</h3> <p>SuperCollider features three major components:</p> <ul> <li>scsynth – A real-time audio server</li> <li>sclang – An interpreted programming language</li> <li>scide – An editor for sclang with an integrated help system</li> </ul> <p>Links</p> <ul> <li><a href="https://supercollider.github.io/">https://supercollider.github.io/</a></li> <li><a href="https://sccode.org/">https://sccode.org/</a></li> <li><a href="https://vimeo.com/20241649">https://vimeo.com/20241649</a></li> </ul>]]></content><author><name></name></author><category term="hobby"/><category term="hobby"/><category term="music"/><summary type="html"><![CDATA[linux music links and stuff]]></summary></entry><entry><title type="html">Markup for the Jekyll Al-Folio Theme</title><link href="https://fackelm2.github.io/blog/2024/al-folio-markup/" rel="alternate" type="text/html" title="Markup for the Jekyll Al-Folio Theme"/><published>2024-07-19T20:39:00+00:00</published><updated>2024-07-19T20:39:00+00:00</updated><id>https://fackelm2.github.io/blog/2024/al-folio-markup</id><content type="html" xml:base="https://fackelm2.github.io/blog/2024/al-folio-markup/"><![CDATA[<p>What is Markdown?</p> <p>Markdown is a plain text format for writing structured documents, based on conventions for indicating formatting in email and usenet posts. It was developed by John Gruber (with help from Aaron Swartz) and released in 2004 in the form of a syntax description and a Perl script (Markdown.pl) for converting Markdown to HTML. In the next decade, dozens of implementations were developed in many languages. Some extended the original Markdown syntax with conventions for footnotes, tables, and other document elements. Some allowed Markdown documents to be rendered in formats other than HTML. Websites like Reddit, StackOverflow, and GitHub had millions of people using Markdown. And Markdown started to be used beyond the web, to author books, articles, slide shows, letters, and lecture notes. <a href="https://github.github.com/gfm/#introduction">https://github.github.com/gfm/#introduction</a></p> <p>Al-folio Markup (Default: GitHub Flavored Markdown - GFM) <a href="https://github.github.com/gfm/">https://github.github.com/gfm/</a></p>]]></content><author><name></name></author><category term="linux"/><category term="linux"/><category term="al-folio"/><category term="jekyll"/><category term="tool"/><summary type="html"><![CDATA[Using the Github Flavored Markdown in the Al-Folio Theme]]></summary></entry><entry><title type="html">Markup for the Jekyll Al-Folio Theme</title><link href="https://fackelm2.github.io/blog/2024/al-folio-jekyll/" rel="alternate" type="text/html" title="Markup for the Jekyll Al-Folio Theme"/><published>2024-07-19T19:39:00+00:00</published><updated>2024-07-19T19:39:00+00:00</updated><id>https://fackelm2.github.io/blog/2024/al-folio-jekyll</id><content type="html" xml:base="https://fackelm2.github.io/blog/2024/al-folio-jekyll/"><![CDATA[<p>What is Jekyll? <a href="https://de.wikipedia.org/wiki/Jekyll_(Software)">https://de.wikipedia.org/wiki/Jekyll_(Software)</a></p> <p>Jekyll ist eine in der Programmiersprache Ruby geschriebene Software, die zur Erstellung statischer Webseiten dient. Dabei kombiniert sie vereinfachte Markup-Texte mit Designvorlagen und erzeugt für jede Teilseite ein statisches Abbild als HTML-Datei.</p> <p>Der Jekyll-Quellcode wird unter der MIT-Lizenz als Open Source bereitgestellt.</p> <p>Häufig eingesetzt wird Jekyll zur Erstellung von Blogs, aber auch Softwaresysteme wie GitHub oder andere Content-Management-Systeme nutzen Jekyll im Hintergrund zur Erstellung von Webseiten.</p> <p>to use the Al-Folio Theme you must follow the instructions on the Al-Folio github site:</p> <ul> <li>download /home/user/PycharmProjects/<name>.github.io</name></li> <li>change informations, text and images etc.</li> <li>start local <name>.github.io$</name></li> </ul> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo docker-compose up
 </code></pre></div></div> <p>Use a Browser to connect to your instance</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>localhost:8080
-</code></pre></div></div> <p>also a good instruction site on medium.com:<br/> <a href="https://medium.com/@carlbettosi/create-a-personal-academic-website-easily-with-github-pages-and-jekyll-minimal-coding-f1115eeb5ab7"> https://medium.com/@carlbettosi/create-a-personal-academic-website-easily-with-github-pages-and-jekyll-minimal-coding-f1115eeb5ab7</a></p>]]></content><author><name></name></author><category term="linux"/><category term="linux"/><category term="al-folio"/><category term="jekyll"/><category term="tool"/><summary type="html"><![CDATA[Using the Github Flavored Markdown in the Al-Folio Theme]]></summary></entry><entry><title type="html">Artificial Intelligenz (TODO)</title><link href="https://fackelm2.github.io/blog/2024/ai/" rel="alternate" type="text/html" title="Artificial Intelligenz (TODO)"/><published>2024-07-19T18:35:13+00:00</published><updated>2024-07-19T18:35:13+00:00</updated><id>https://fackelm2.github.io/blog/2024/ai</id><content type="html" xml:base="https://fackelm2.github.io/blog/2024/ai/"><![CDATA[<p>TODO</p> <p>Links</p> <ul> <li>sharing ai models: https://huggingface.co/</li> <li>ollama ollama.ai <ul> <li>to load llama on linux</li> </ul> </li> <li>Youtube <a href="https://www.youtube.com/watch?v=Wjrdr0NU4Sk">https://www.youtube.com/watch?v=Wjrdr0NU4Sk</a></li> <li>Youtube <a href="https://www.youtube.com/watch?v=WxYC9-hBM_g">https://www.youtube.com/watch?v=WxYC9-hBM_g</a></li> </ul>]]></content><author><name></name></author><category term="linux"/><category term="linux"/><summary type="html"><![CDATA[Links AI]]></summary></entry></feed>
+</code></pre></div></div> <p>also a good instruction site on medium.com:<br/> <a href="https://medium.com/@carlbettosi/create-a-personal-academic-website-easily-with-github-pages-and-jekyll-minimal-coding-f1115eeb5ab7"> https://medium.com/@carlbettosi/create-a-personal-academic-website-easily-with-github-pages-and-jekyll-minimal-coding-f1115eeb5ab7</a></p>]]></content><author><name></name></author><category term="linux"/><category term="linux"/><category term="al-folio"/><category term="jekyll"/><category term="tool"/><summary type="html"><![CDATA[Using the Github Flavored Markdown in the Al-Folio Theme]]></summary></entry></feed>
