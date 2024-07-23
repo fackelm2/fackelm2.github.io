@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux Printer
+title: Linux Printer (TODO)
 date: 2024-07-22 17:37:00
 description: Linux Printer
 tags: linux printer
@@ -9,7 +9,6 @@ featured: false
 ---
 
 TODO ...
-
 
 LÖSUNG
 Samsung M2525W
@@ -20,9 +19,6 @@ D [05/May/2024:13:12:40 +0200] [Job 21] Samsung_ML-2525W_Series_on_192.168.178.9
 c) install libcupsimage
 d) restart
 e) first print with samsung printer M2525W over Network
-
-
-
 
 TIPPS GUT : https://www.javatpoint.com/linux-print
 DRUCKER STATUS
@@ -38,7 +34,6 @@ fackelm2@mutterschiff:~/PDF$ lpr -P Samsung_ML-2525W_Series ../MERKE/merke-andro
 
 SET DEFAULT PRINTER
 lpoptions -d < printer name>
-
 
 TIPPS
 https://www.zdv.uni-mainz.de/zdv-drucker-unter-linux-einrichten/

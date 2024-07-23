@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux NVIDIA
+title: Linux NVIDIA (TODO)
 date: 2024-07-22 17:37:00
 description: Linux NVIDIA
 tags: linux nvidia
@@ -9,7 +9,6 @@ featured: false
 ---
 
 TODO ...
-
 
 NVIDIA moeglichst nur über die Distri installieren!!
 aptitude nvidia-driver

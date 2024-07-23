@@ -8,7 +8,6 @@ categories: linux
 featured: false
 ---
 
-
 ### ldconfig not found
 
 ````markup

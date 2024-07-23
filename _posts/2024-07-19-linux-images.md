@@ -14,7 +14,6 @@ $thunnar
 ````
 
 ### linux tools 
-
 - geeqie https://www.linux-community.de/ausgaben/linuxuser/2010/10/bilder-anzeigen-und-organisieren-mit-geeqie/3/
 - gThumb https://wiki.ubuntuusers.de/gThumb/
 - Gwenview (KDE)
