@@ -10,6 +10,8 @@ featured: false
 
 TODO 
 
-hammer: best opening for beginners (Tipp GM Hammer)
-a) manchend "menschend"
-b) french opening
+GM Hammer: best opening for beginners
+- manchend "menschend"
+- french opening
+
+

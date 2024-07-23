@@ -3,9 +3,9 @@ layout: post
 title: Music with Linux 
 date: 2024-07-21 14:00:00
 description: linux music links and stuff
-tags: music
-categories: music
-featured: true
+tags: hobby music
+categories: hobby
+featured: false
 ---
 
 ### SUPERCOLLIDER

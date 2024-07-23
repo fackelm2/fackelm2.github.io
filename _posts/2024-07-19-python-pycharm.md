@@ -5,7 +5,7 @@ date: 2024-07-19 05:01:13
 description: Tipps for Pycharm on Linux Debian
 tags: python pycharm
 categories: python
-featured: true
+featured: false
 ---
 
 TODO 
