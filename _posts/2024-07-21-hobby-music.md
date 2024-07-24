@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Music with Linux (TODO)
+title: Music with Linux (Entwurf)
 date: 2024-07-21 14:00:00
 description: linux music links and stuff
 tags: hobby music
 categories: hobby
 featured: false
 ---
+
+Entwurf
 
 ### SUPERCOLLIDER
 "A PLATFORM FOR AUDIO SYNTHESIS AND ALGORITHMIC COMPOSITION, USED BY MUSICIANS, ARTISTS AND RESEARCHERS WORKING WITH SOUND.

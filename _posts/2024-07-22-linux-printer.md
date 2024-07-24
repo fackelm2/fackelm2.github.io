@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux Printer (TODO)
+title: Linux Printer (Entwurf)
 date: 2024-07-22 17:37:00
 description: Linux Printer
 tags: linux printer
@@ -8,7 +8,7 @@ categories: linux
 featured: false
 ---
 
-TODO ...
+Entwurf
 
 LÖSUNG
 Samsung M2525W

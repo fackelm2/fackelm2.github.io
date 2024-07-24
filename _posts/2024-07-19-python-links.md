@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python links collection (TODO)
+title: Python links collection (Entwurf)
 date: 2024-07-19 05:09:00
 description: A collection of useful Python links
 tags: python links
@@ -8,7 +8,7 @@ categories: python
 featured: false
 ---
 
-Todo ..
+Entwurf
 
 VENV Link
 <a href="https://python.land/virtual-environments/virtualenv#Python_venv_activation">https://python.land/virtual-environments/virtualenv#Python_venv_activation</a>

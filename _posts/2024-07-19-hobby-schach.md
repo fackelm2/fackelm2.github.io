@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chess (TODO)
+title: Chess (Entwurf)
 date: 2024-07-23 17:01:13
 description: Chess
 tags: hobby chess
@@ -8,7 +8,7 @@ categories: hobby
 featured: false
 ---
 
-TODO 
+Entwurf 
 
 GM Hammer: best opening for beginners
 - manchend "menschend"
