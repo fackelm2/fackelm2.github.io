@@ -75,6 +75,12 @@ Command line driven CI frontend and development task automation tool.
 tox aims to automate and standardize testing in Python. It is part of a larger vision of easing the packaging, 
 testing and release process of Python software (alongside pytest and devpi).
 
+Links:
+- https://tox.wiki/en/latest/user_guide.html#basic-example
+- https://www.youtube.com/watch?v=SFqna5ilqig
+
+
+
 
 Markdown style:
 ```python
