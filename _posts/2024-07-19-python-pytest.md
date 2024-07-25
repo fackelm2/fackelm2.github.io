@@ -34,11 +34,6 @@ Which allows you to simply run:
 make test
 ````
 
-
-
-
-
-
 Pytest Links
 - https://www.youtube.com/watch?v=mzlH8lp4ISA&t=76s
 - https://www.youtube.com/@anthonywritescode/search?query=pytest
@@ -73,6 +68,12 @@ Others
 - https://www.youtube.com/watch?v=cHYq1MRoyI0  Pytest Tutorial – How to Test Python Code (freeCodeCamp.org)
 
 
+TOX (anthonywritescode)
+Command line driven CI frontend and development task automation tool. 
+<a href="https://github.com/tox-dev/tox">https://github.com/tox-dev/tox</a>
+
+tox aims to automate and standardize testing in Python. It is part of a larger vision of easing the packaging, 
+testing and release process of Python software (alongside pytest and devpi).
 
 
 Markdown style:
@@ -83,3 +84,4 @@ numbers = []
 for i in numbers:
     echo i
 ```
+
