@@ -39,6 +39,15 @@ $ pytest -s
 ````
 
 
+<hr><br>
+pytest for python cli (argparser)
+
+capsys (capture system output)
+
+````markdown
+def test_main(capsys):
+````
+
 
 
 <hr><br>
