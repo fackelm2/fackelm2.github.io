@@ -9,29 +9,97 @@ featured: true
 ---
 
 <hr><br>
+pytest support tests in tree or out of tree ..
+
+[how organize your tests]: https://youtu.be/mzlH8lp4ISA?si=udu_GKCNWIqJYYug&t=623
+[how organize your tests]
+
+
+<hr><br>
+Pytest is quiet so use "-v"
+````markdown
+$ pytest -v 
+````
+
+to print print statements in prog_test.py or prog.py file use "pytest -s"
+````markdown
+@pytest.mark.parametrize(
+        ('input_n', 'expected'),
+        (
+                (7, 49),
+                (8, 64)
+        )
+)
+
+def test_square2(input_n, expected):
+        print(f'{input_n=}')        # print output in pytest file
+        assert t.square(input_n) == expected
+
+$ pytest -s 
+````
+
+
+
+
+<hr><br>
 Troubleshooting Pytest Error: 
 ````markdown
 E   ModuleNotFoundError: No module named 
 ````
 
-Solution: use the PYTHONPATH env. var (see on [stackoverflow pythonpath])
+SOLUTION (__init__.py file in Test Directory with)
+````markdown
+import sys
+sys.path.append('.')
+````
+
+````markdown
+@huichen __init__.py tells Python that the folder is a module. Without it, the folder is not a module and so Python cannot find its name when used in import statements. – 
+theberzi
+Commented Sep 6, 2022 at 7:35
+````
+
+
+
+Solution 1: PYTHONPATH env. var 
+
+Crate fiel "__init__.py":
+
+````markdown
+# better
+import sys
+sys.path.append('.')
+````
+
+<hr><br>
+
+Solution 2: use the PYTHONPATH env. var (see on [stackoverflow pythonpath])
 
 [stackoverflow pythonpath]: /https://stackoverflow.com/questions/54895002/modulenotfounderror-with-pytest  "https://stackoverflow.com/questions/54895002/modulenotfounderror-with-pytest"
 
 ````markdown
 PYTHONPATH=. pytest
+````
 
 As mentioned by @J_H, you need to explicitly add the root directory of your project, 
-since pytest only adds to sys.path directories where test files are (which is why @Mak2006's answer worked.)
+since pytest only adds to sys.path directories where test files are 
+(which is why @Mak2006's answer worked.)
+
 Good practice: use a Makefile or some other automation tool
 
-If you do not want to type that long command all the time, one option is to create a Makefile in your project's root dir with, e.g., the following:
+If you do not want to type that long command all the time, 
+one option is to create a Makefile in your 
+project's root dir with, e.g., the following:
 
+````markdown
 .PHONY: test
 test:
     PYTHONPATH=. pytest
+````
 
 Which allows you to simply run:
+
+````markdown
 make test
 ````
 
