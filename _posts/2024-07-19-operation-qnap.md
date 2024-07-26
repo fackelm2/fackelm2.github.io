@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QNAP NAS Informations (Entwurf)
+title: QNAP NAS Informations (draft)
 date: 2024-07-23 17:01:13
 description: Compatibility Harddisks for QNAP 
 tags: operation qnap
@@ -8,7 +8,7 @@ categories: operation
 featured: false
 ---
 
-Entwurf 
+draft 
 
 HDD SUPPORT QNAP TS-659 Pro HD SUPPORT
 Bis zu 6 TB

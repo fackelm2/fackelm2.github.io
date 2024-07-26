@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux NVIDIA (Entwurf)
+title: Linux NVIDIA (draft)
 date: 2024-07-22 17:37:00
 description: Linux NVIDIA
 tags: linux nvidia
@@ -8,7 +8,7 @@ categories: linux
 featured: false
 ---
 
-Entwurf
+draft
 
 NVIDIA moeglichst nur über die Distri installieren!!
 aptitude nvidia-driver

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux - terminal (Entwurf)
+title: Linux - terminal (draft)
 date: 2024-07-19 18:35:13
 description: linux sqlite infos 
 tags: linux terminal
@@ -8,7 +8,7 @@ categories: linux
 featured: false
 ---
 
-Entwurf
+draft
 
 Terminal 
 - sakura

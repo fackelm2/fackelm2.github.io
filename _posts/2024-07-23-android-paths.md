@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android Forensic - Android Path Description (Entwurf)
+title: Android Forensic - Android Path Description (draft)
 date: 2024-07-23 19:35:13
 description: Android Path Description and links to references
 tags: android forensic
@@ -8,7 +8,7 @@ categories: android
 featured: true
 ---
 
-Entwurf 
+draft 
 
 <a href="https://github.com/RealityNet/Android-Forensics-References">
 https://github.com/RealityNet/Android-Forensics-References</a>

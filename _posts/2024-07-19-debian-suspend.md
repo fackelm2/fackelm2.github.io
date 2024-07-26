@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Debian Suspend Mode Configuration (Entwurf)
+title: Debian Suspend Mode Configuration (draft)
 date: 2024-07-19 18:35:13
 description: Debian suspend mode  
 tags: linux todo
@@ -8,7 +8,7 @@ categories: linux
 featured: false
 ---
 
-Entwurf
+draft
 
 ````markup 
 nts to blank the screen out of the box. To prevent, try putting:

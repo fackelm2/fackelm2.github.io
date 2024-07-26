@@ -35,10 +35,12 @@ Use a Browser to connect to your instance
 localhost:8080
 ````
 
+A god starting point is <a href="https://github.com/alshedivat/al-folio">https://github.com/alshedivat/al-folio</a>
 
 also a good instruction site on medium.com:<br> 
 <a href="https://medium.com/@carlbettosi/create-a-personal-academic-website-easily-with-github-pages-and-jekyll-minimal-coding-f1115eeb5ab7">
 https://medium.com/@carlbettosi/create-a-personal-academic-website-easily-with-github-pages-and-jekyll-minimal-coding-f1115eeb5ab7</a>
+
 
 
 

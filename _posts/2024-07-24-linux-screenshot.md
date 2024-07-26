@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux - how to make a screenshot (Entwurf)
+title: Linux - how to make a screenshot (draft)
 date: 2024-07-19 18:35:13
 description: linux screenshot with import 
 tags: linux tool
@@ -8,7 +8,7 @@ categories: linux
 featured: false
 ---
 
-Entwurf
+draft
 
 ### screenshot
 

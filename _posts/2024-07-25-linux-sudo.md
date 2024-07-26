@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux - sudo (Entwurf)
+title: Linux - sudo (draft)
 date: 2024-07-19 18:35:13
 description: linux sqlite infos 
 tags: linux sudo
@@ -8,7 +8,7 @@ categories: linux
 featured: false
 ---
 
-Entwurf
+draft
 
 als root ausführen, dann nutzer unter USER einfügen:
 ````
