@@ -8,6 +8,33 @@ categories: python
 featured: true
 ---
 
+
+<hr><br>
+
+[pytest.org]: https://docs.pytest.org/en/stable/ "https://docs.pytest.org/en/stable/"
+[pytest.org]
+
+[pytest.org index]: https://docs.pytest.org/en/stable/index.html "https://docs.pytest.org/en/stable/index.html"
+[pytest.org index]
+
+<hr><br>
+
+Testing through the Python interpreter is almost equivalent, except it will add the current directory to sys.path
+````
+python -m pytest [...]
+````
+
+TOCHECK
+Calling pytest from Python code
+You can invoke pytest from Python code directly:
+
+````
+retcode = pytest.main()
+````
+
+this acts as if you would call “pytest” from the command line. It will not raise SystemExit but return the exit code instead.
+
+
 <hr><br>
 pytest support tests in tree or out of tree ..
 
@@ -38,6 +65,10 @@ def test_square2(input_n, expected):
 $ pytest -s 
 ````
 
+<hr><br>
+
+[YOUTUBE write pytest for argparser]: https://youtu.be/sv46294LoP8?si=rTbVTeV3korkeH9M&t=450 "https://youtu.be/sv46294LoP8?si=rTbVTeV3korkeH9M&t=450"
+[YOUTUBE write pytest for argparser]
 
 <hr><br>
 pytest for python cli (argparser)
