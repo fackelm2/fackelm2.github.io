@@ -24,7 +24,8 @@ gem install github-linguist
 [Display false Language in Github]
 
 ### Example pictures 
-Screenshot
+
+The screenshot on the right shows the used language used in this repository. The main language is Python, but it shows rich-text
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
