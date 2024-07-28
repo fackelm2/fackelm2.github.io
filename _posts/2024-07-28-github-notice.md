@@ -29,7 +29,7 @@ The screenshot on the right shows the used language used in this repository. The
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/github-linguist-01.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/github-language-01.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
