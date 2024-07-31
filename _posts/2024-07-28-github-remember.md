@@ -23,6 +23,13 @@ gem install github-linguist
 You need a working [ruby environment]!
 
 Install on Debian https://github.com/github-linguist/linguist/tree/master?tab=readme-ov-file
+
+[https://github.com/github-linguist/linguist/tree/master?tab=readme-ov-file]: https://github.com/github-linguist/linguist/tree/master?tab=readme-ov-file "https://github.com/github-linguist/linguist/tree/master?tab=readme-ov-file"
+[https://github.com/github-linguist/linguist/tree/master?tab=readme-ov-file]
+
+https://github.com/github-linguist/linguist/tree/master?tab=readme-ov-file
+
+
 ```
 sudo apt-get install build-essential cmake pkg-config libicu-dev zlib1g-dev libcurl4-openssl-dev libssl-dev ruby-dev
 sudo apt-get install ruby-github-linguist

@@ -10,6 +10,9 @@ featured: false
 
 draft 
 
+[https://android.stackexchange.com]: https://android.stackexchange.com/questions/257663/how-can-i-export-my-location-history-now-that-this-data-is-only-stored-locally-o "https://android.stackexchange.com/questions/257663/how-can-i-export-my-location-history-now-that-this-data-is-only-stored-locally-o"
+[https://android.stackexchange.com]
+
 https://android.stackexchange.com/questions/257663/how-can-i-export-my-location-history-now-that-this-data-is-only-stored-locally-o
 
 Google Location Data
@@ -26,6 +29,9 @@ and pick a folder and filename to export to.
 Wait a little while and then go check the folder and a new JSON file with your complete location history should be there."
 
 Credit to vijaykes for finding this (I would have never found this new option on my own)...
+
+[https://www.reddit.com/]: https://www.reddit.com/r/GoogleMaps/comments/1chlsst/export_google_maps_timeline_data_on_android/la6n0k2/ "https://www.reddit.com/r/GoogleMaps/comments/1chlsst/export_google_maps_timeline_data_on_android/la6n0k2/"
+[https://www.reddit.com/]
 
 https://www.reddit.com/r/GoogleMaps/comments/1chlsst/export_google_maps_timeline_data_on_android/la6n0k2/
 

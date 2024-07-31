@@ -10,10 +10,18 @@ featured: false
 
 draft 
 
-Samsung Power Status (Logfiles)
+[Samsung Power Status (Logfiles)]: https://thebinaryhick.blog/2024/04/07/__trashed/ "https://thebinaryhick.blog/2024/04/07/__trashed/"
+[Samsung Power Status (Logfiles)]
 
-https://www.sans.org/blog/Spring-2024-Update-Explore-the-Latest-Enhancements/
+
+[https://www.sans.org/blog/Spring-2024-Update-Explore-the-Latest-Enhancements/]: https://www.sans.org/blog/Spring-2024-Update-Explore-the-Latest-Enhancements/ "https://www.sans.org/blog/Spring-2024-Update-Explore-the-Latest-Enhancements/"
+[https://www.sans.org/blog/Spring-2024-Update-Explore-the-Latest-Enhancements/]
  
-https://thebinaryhick.blog/2024/04/07/__trashed/
- 
-https://en.ppt-online.org/118837 
+[https://thebinaryhick.blog/2024/04/07/__trashed/]: https://thebinaryhick.blog/2024/04/07/__trashed/ "https://thebinaryhick.blog/2024/04/07/__trashed/"
+[https://thebinaryhick.blog/2024/04/07/__trashed/]
+
+
+[https://en.ppt-online.org/118837]: https://en.ppt-online.org/118837 "https://en.ppt-online.org/118837"
+[https://en.ppt-online.org/118837]
+
+
