@@ -10,7 +10,7 @@ using of python as programming language
 
 ---
 
-I started programming more intensively with the Python programming language.
+Started programming more intensively with the Python programming language
   
 
 #### Links 

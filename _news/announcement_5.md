@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
   
-start integrating more and more things into my posts
+Start integrating more and more things into my posts

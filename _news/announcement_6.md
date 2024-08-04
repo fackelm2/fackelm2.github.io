@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
   
-Started using i3wm as the window manager for Linux (Debian)
+Start using pytest, a testing framework to write various tpyes of software tests
