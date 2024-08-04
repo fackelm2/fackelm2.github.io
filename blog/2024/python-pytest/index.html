@@ -14,7 +14,7 @@ def test_square2(input_n, expected):
         assert t.square(input_n) == expected
 
 $ pytest -s 
-</code></pre></div></div> <p><br></p> <hr> <p><br></p> <p><a href="https://youtu.be/sv46294LoP8?si=rTbVTeV3korkeH9M&amp;t=450" title="https://youtu.be/sv46294LoP8?si=rTbVTeV3korkeH9M&amp;t=450" rel="external nofollow noopener" target="_blank">YOUTUBE write pytest for argparser</a></p> <p><br>&lt;hr&gt;<br></p> <p>pytest for python cli (argparser)</p> <p>capsys (capture system output)</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>def test_main(capsys):
+</code></pre></div></div> <p><br></p> <hr> <p><br></p> <p><a href="https://youtu.be/sv46294LoP8?si=rTbVTeV3korkeH9M&amp;t=450" title="https://youtu.be/sv46294LoP8?si=rTbVTeV3korkeH9M&amp;t=450" rel="external nofollow noopener" target="_blank">YOUTUBE: write pytest for argparser</a></p> <p><br></p> <hr> <p><br></p> <p>pytest for python cli (argparser)</p> <p>capsys (capture system output)</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>def test_main(capsys):
 </code></pre></div></div> <p><br></p> <hr> <p><br></p> <p>Troubleshooting Pytest Error:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>E   ModuleNotFoundError: No module named 
 </code></pre></div></div> <p>SOLUTION (<strong>init</strong>.py file in Test Directory with)</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>import sys
 sys.path.append('.')
