@@ -2,7 +2,7 @@
 layout: post
 title: using the python programming language
 date: 2019-01-01 16:11:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 
