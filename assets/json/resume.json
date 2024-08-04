@@ -48,7 +48,7 @@
   ],
   "certificates": [
     {
-      "name": "TODO",
+      "name": "todo",
       "date": "",
       "issuer": "",
       "url": "",
@@ -56,11 +56,18 @@
     }
   ],
   "publications": [
+     {
+      "name": "Rechtekonzept für die Mobile Agent System Architecture",
+      "publisher": "Dietmar Fackelmann",
+      "releaseDate": "2001",
+      "url": "https://www.mnm-team.org/pub/Diplomarbeiten/fack01/",
+      "summary": ""
+    },
     {
-      "name": "TODO",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
+      "name": "IPSec Integration in einer Linux-Umgebung, Fortgeschrittenenpraktikum",
+      "publisher": "Dietmar Fackelmann",
+      "releaseDate": "2000",
+      "url": "https://www.nm.informatik.uni-muenchen.de/pub/Fopras/fack00/",
       "summary": ""
     }
   ],
@@ -70,9 +77,9 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Systemprogrammierung",
+        "IT Forensics",
         "IT Security",
-        "IT Forensics"
+        "Programming (Python, Git)"
       ]
     }
   ],
