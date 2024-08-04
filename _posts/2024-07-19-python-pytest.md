@@ -84,10 +84,12 @@ $ pytest -s
 <hr>
 <br>
 
-[YOUTUBE write pytest for argparser]: https://youtu.be/sv46294LoP8?si=rTbVTeV3korkeH9M&t=450 "https://youtu.be/sv46294LoP8?si=rTbVTeV3korkeH9M&t=450"
-[YOUTUBE write pytest for argparser]
+[YOUTUBE: write pytest for argparser]: https://youtu.be/sv46294LoP8?si=rTbVTeV3korkeH9M&t=450 "https://youtu.be/sv46294LoP8?si=rTbVTeV3korkeH9M&t=450"
+[YOUTUBE: write pytest for argparser]
 
-<br><hr><br>
+<br>
+<hr>
+<br>
 
 pytest for python cli (argparser)
 
