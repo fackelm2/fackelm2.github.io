@@ -15,8 +15,7 @@ It includes parametrized testing, fixtures and assert re-writing.
 [wiki pytest]: https://en.wikipedia.org/wiki/Pytest "https://en.wikipedia.org/wiki/Pytest"
 [wiki pytest]
 
-
-<hr><br>
+<br><hr><br>
 
 [pytest.org]: https://docs.pytest.org/en/stable/ "https://docs.pytest.org/en/stable/"
 [pytest.org]
@@ -24,7 +23,7 @@ It includes parametrized testing, fixtures and assert re-writing.
 [pytest.org index]: https://docs.pytest.org/en/stable/index.html "https://docs.pytest.org/en/stable/index.html"
 [pytest.org index]
 
-<hr><br>
+<br><hr><br>
 
 Testing through the Python interpreter is almost equivalent, except it will add the current directory to sys.path
 ````
@@ -42,7 +41,8 @@ retcode = pytest.main()
 this acts as if you would call “pytest” from the command line. It will not raise SystemExit but return the exit code instead.
 
 
-<hr><br>
+<br><hr><br>
+
 pytest support tests in tree or out of tree ..
 
 [how organize your tests]: https://youtu.be/mzlH8lp4ISA?si=udu_GKCNWIqJYYug&t=623
@@ -72,12 +72,13 @@ def test_square2(input_n, expected):
 $ pytest -s 
 ````
 
-<hr><br>
+<br><hr><br>
 
 [YOUTUBE write pytest for argparser]: https://youtu.be/sv46294LoP8?si=rTbVTeV3korkeH9M&t=450 "https://youtu.be/sv46294LoP8?si=rTbVTeV3korkeH9M&t=450"
 [YOUTUBE write pytest for argparser]
 
-<hr><br>
+<br><hr><br>
+
 pytest for python cli (argparser)
 
 capsys (capture system output)
@@ -86,9 +87,8 @@ capsys (capture system output)
 def test_main(capsys):
 ````
 
+<br><hr><br>
 
-
-<hr><br>
 Troubleshooting Pytest Error: 
 ````markdown
 E   ModuleNotFoundError: No module named 
@@ -106,8 +106,6 @@ theberzi
 Commented Sep 6, 2022 at 7:35
 ````
 
-
-
 Solution 1: PYTHONPATH env. var 
 
 Crate fiel "__init__.py":
@@ -118,7 +116,7 @@ import sys
 sys.path.append('.')
 ````
 
-<hr><br>
+<br><hr><br>
 
 Solution 2: use the PYTHONPATH env. var (see on [stackoverflow pythonpath])
 
@@ -150,7 +148,8 @@ Which allows you to simply run:
 make test
 ````
 
-<hr><br>
+<br><hr><br>
+
 Pytest Links from antonywritescode
 
 [Youtube: search pytest anthonywritescode]: https://www.youtube.com/@anthonywritescode/search?query=pytest
@@ -213,13 +212,15 @@ Pytest Links from antonywritescode
 [I don't use pytest-cov (intermediate) anthony explains #489]: https://www.youtube.com/watch?v=sPgvHGkmd0U 
 [I don't use pytest-cov (intermediate) anthony explains #489]
 
-<hr><br>
+<br><hr><br>
+
 Pytest Links from Pycharm
 
 [How to write unit tests in Python using pytest and PyCharm]: https://www.youtube.com/watch?v=Z0f00BdJ3yw
 [How to write unit tests in Python using pytest and PyCharm]
 
-<hr><br>
+<br><hr><br>
+
 Pytest links from others
 
 [pytest Basics: Introduction to Tests]: https://www.youtube.com/watch?v=3slDyeQYq8A&t=14s
@@ -228,7 +229,8 @@ Pytest links from others
 [Pytest Tutorial – How to Test Python Code (freeCodeCamp.org)]: https://www.youtube.com/watch?v=cHYq1MRoyI0
 [Pytest Tutorial – How to Test Python Code (freeCodeCamp.org)]
 
-<hr><br>
+<br><hr><br>
+
 TOX (anthonywritescode)
 
 Command line driven CI frontend and development task automation tool 
