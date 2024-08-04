@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recursive search for a word in files under Linux 
-date: 2024-03-04 09:00:10
+date: 2024-08-04 18:00:10
 description: The moment we stopped understanding AI
 tags: ai howto
 categories: ai
