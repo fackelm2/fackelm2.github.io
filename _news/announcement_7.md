@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Artificial AI - think about what is and what do AI to humans (see posts)
+Artificial AI - think about what is and what do AI to our world (see posts)

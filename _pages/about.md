@@ -19,13 +19,13 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Hello, I have been a computer scientist since 2001.
+I have been a computer scientist since 2001.
 I studied at the Ludwig-Maximilians-University in Munich. 
-Since then i have been interested in IT security and IT networks.
+Since then I have been interested in IT security and IT networks.
 I worked for about four years as an IT security employee in a large insurance company.
 I worked with firewalls, routers and VPNs.
 Then I worked for five years as a manager for the IT infrastructure of the state of Baden-Württemberg.
-This involved running a data centre with security devices and many remote sites.
+This involved running a data centre with security equipment and remote sites.
 
 > Since 2021 my focus has been on Android smartphone forensics
 
