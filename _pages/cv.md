@@ -5,7 +5,7 @@ title: cv (draft)
 nav: true
 nav_order: 5
 cv_pdf:
-description: 
-toc:
-sidebar: left
+description: curriculum vitae
+toc: 
+    sidebar: left
 ---
