@@ -10,6 +10,20 @@ featured: false
 
 DRAFT 
 
+search for apps
+
+[search https://reviewed.app]: https://reviewed.app "https://reviewed.app"
+[search https://reviewed.app]
+
+[search en.uptodown.com/android/search]: https://en.uptodown.com/android/search "https://en.uptodown.com/android/search""
+[search en.uptodown.com/android/search]
+
+```angular2html
+<form method="post" action="https://en.uptodown.com/android/search">
+<input type="hidden" name="q" value="com.whatsapp"/>
+<input type="submit" name="submit" value=""/>
+```
+
 search for papers
 
 [search www.emerald.com]: https://www.emerald.com/insight/search?q=WhatsApp "https://www.emerald.com/insight/search?q=WhatsApp"
