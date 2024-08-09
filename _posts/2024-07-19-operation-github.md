@@ -31,4 +31,8 @@ or even share your résumé. This guide will help get you started on creating yo
 [docs.github.com]
 
 
+### Github Certifications
+
+[examregistration.github.com/overview]: https://examregistration.github.com/overview "https://examregistration.github.com/overview"
+[examregistration.github.com/overview]
 
