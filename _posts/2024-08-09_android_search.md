@@ -10,60 +10,64 @@ featured: false
 
 DRAFT 
 
-Search Links 
+search for papers
 
-[Search www.emerald.com]: https://www.emerald.com/insight/search?q=WhatsApp "https://www.emerald.com/insight/search?q=WhatsApp"
-[Search www.emerald.com]
+[search www.emerald.com]: https://www.emerald.com/insight/search?q=WhatsApp "https://www.emerald.com/insight/search?q=WhatsApp"
+[search www.emerald.com]
 
-https://colab.ws/
+[search colab.ws]: https://colab.ws "https://colab.ws"
+[search colab.ws]
 
-https://www.researchgate.net
+[search www.researchgate.net]: https://www.researchgate.net "https://www.researchgate.net" 
+[search www.researchgate.net]
 
-https://strathprints.strath.ac.uk/
+[search strathprints.strath.ac.uk]: https://strathprints.strath.ac.uk "https://strathprints.strath.ac.uk"
+[search strathprints.strath.ac.uk]
 
-https://files.eric.ed.gov/
+[search files.eric.ed.gov]: https://files.eric.ed.gov "https://files.eric.ed.gov" 
+[search files.eric.ed.gov]
+
+search for articles 
+
+[search thehackernews.com]: https://thehackernews.com "https://thehackernews.com"
+[search thehackernews.com]
+
+[search www.forensicfocus.com]: https://www.forensicfocus.com "https://www.forensicfocus.com"
+[search www.forensicfocus.com]
+
+Search example: https://www.forensicfocus.com/?s=com.whatsapp
+
+[search www.forensicfocus.com]: https://www.forensicfocus.com "https://www.forensicfocus.com"
+[search www.forensicfocus.com]
 
 
-search in 
+search for solutions tools (android forensic tools)
 
-https://thehackernews.com
-
-
-https://www.forensicfocus.com/?s=com.whatsapp
-
-Forensic Tools
-
-https://github.com/mesquidar/ForensicsTools
+[search github.com/mesquidar/ForensicsTools]: https://github.com/mesquidar/ForensicsTools "https://github.com/mesquidar/ForensicsTools"
+[search github.com/mesquidar/ForensicsTools]
 
 
 
+<hr>
 
-Programmable Search Engine from Google (Insert Search in your Website with special configurations)
+On your website you can offer a Programmable Search Engine from Google (Google search only on specified pages - NOT FREE)
 
 https://support.google.com/programmable-search/answer/4513751?hl=de&ref_topic=4513742&sjid=6517704335003127735-EU
 
-Wie unterscheidet sich die programmierbare Suchmaschine von der Google Websuche?
-Sie können Ihre benutzerdefinierte Suchmaschine so einrichten, dass sie das gesamte Web durchsucht, ähnlich wie bei einer normalen Suche auf Google.de. Dabei gibt es aber einige Unterschiede. Die benutzerdefinierte Suchmaschine hat folgende Eigenschaften:
+"Wie unterscheidet sich die programmierbare Suchmaschine von der Google Websuche?
+Sie können Ihre benutzerdefinierte Suchmaschine so einrichten, dass sie das gesamte Web durchsucht, ähnlich wie bei einer normalen Suche auf Google.de. Dabei gibt es aber einige Unterschiede. Die benutzerdefinierte Suchmaschine hat folgende Eigenschaften:"
 
-Suchergebnisse von Ihrer Website werden gegenüber anderen Websites bevorzugt
+"Suchergebnisse von Ihrer Website werden gegenüber anderen Websites bevorzugt
 Manche Suchfunktionen der Google Websuche gibt es in Ihrer Suchmaschine nicht, z. B. personalisierte Ergebnisse
-Wenn Sie mehr als zehn Websites angegeben haben, wird möglicherweise eine Untergruppe der Suchergebnisse aus dem Google-Index angezeigt
+Wenn Sie mehr als zehn Websites angegeben haben, wird möglicherweise eine Untergruppe der Suchergebnisse aus dem Google-Index angezeigt"
+
+"Information for non-profits
+Programmable Search Engine integrates with Google For Nonprofits, https://www.google.com/nonprofits/, and with Google For Education, https://edu.google.com/products/productivity-tools/, to offer Programmable Search Engine on your nonprofit, government agency, or school's website for free without advertising.
+
+Please note that this applies only to the client side Programmable Search Engine Element. Using the JSON API will still cost $5 per 1000 queries."
 
 https://programmablesearchengine.google.com/about/
 
 https://programmablesearchengine.google.com/controlpanel/create
-
-````
-<script async src="https://cse.google.com/cse.js?cx=81faf3e3419f847b6">
-</script>
-<div class="gcse-search"></div>
-````
-
-<script async src="https://cse.google.com/cse.js?cx=81faf3e3419f847b6">
-</script>
-<div class="gcse-search"></div>
-
-
-
 
 
