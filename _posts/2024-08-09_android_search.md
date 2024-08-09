@@ -11,6 +11,11 @@ featured: false
 DRAFT 
 
 search for apps
+[seasrch https://kagi.com]: https://kagi.com "https://kagi.com"
+[seasrch https://kagi.com]
+
+example: https://kagi.com/search?q=com.whatsapp
+
 
 [search https://reviewed.app]: https://reviewed.app "https://reviewed.app"
 [search https://reviewed.app]
