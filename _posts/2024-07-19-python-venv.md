@@ -3,7 +3,7 @@ layout: post
 title: Using Virtual Environment in Python
 date: 2024-07-19 05:10:00
 description: cheatsheat for using venv in python
-tags: python
+tags: python personalnote
 categories: python
 featured: true
 ---

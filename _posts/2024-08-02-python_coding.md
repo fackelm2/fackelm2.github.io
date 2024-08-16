@@ -3,7 +3,7 @@ layout: post
 title: Python Variables
 date: 2024-08-04 19:38:10
 description: how to choose Python variables 
-tags: python howto
+tags: python howto personalnote
 categories: python
 featured: false
 ---

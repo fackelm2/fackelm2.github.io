@@ -3,7 +3,7 @@ layout: post
 title: Linux NVIDIA (draft)
 date: 2024-07-22 17:37:00
 description: Linux NVIDIA
-tags: linux nvidia
+tags: linux nvidia personalnote
 categories: linux
 featured: false
 ---

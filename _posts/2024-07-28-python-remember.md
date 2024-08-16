@@ -3,7 +3,7 @@ layout: post
 title: Python notice informations (draft)
 date: 2024-07-28 22:11:10
 description: Python notice informations for using python
-tags: python notice
+tags: python notice personalnote
 categories: python
 featured: false
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Connect to GitHub via ssh
 date: 2024-07-19 18:32:13
 description: using and configure ssh for GitHub
-tags: operation linux github
+tags: operation linux github personalnote
 categories: operation
 featured: false
 ---

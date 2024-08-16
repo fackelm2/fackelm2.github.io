@@ -3,7 +3,7 @@ layout: post
 title: Python links collection (draft)
 date: 2024-07-19 05:09:00
 description: A collection of useful Python links
-tags: python links
+tags: python links 
 categories: python
 featured: false
 ---

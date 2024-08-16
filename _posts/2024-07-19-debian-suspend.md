@@ -3,7 +3,7 @@ layout: post
 title: Debian Suspend Mode Configuration (draft)
 date: 2024-07-26 10:26:13
 description: Debian suspend mode  
-tags: linux todo
+tags: linux todo personalnote
 categories: linux
 featured: false
 ---

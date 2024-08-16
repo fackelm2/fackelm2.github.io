@@ -3,7 +3,7 @@ layout: post
 title: Linux - sudo (draft)
 date: 2024-07-26 10:27:13
 description: linux sqlite infos 
-tags: linux sudo
+tags: linux sudo personalnote
 categories: linux
 featured: false
 ---

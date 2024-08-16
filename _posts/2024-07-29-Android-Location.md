@@ -3,7 +3,7 @@ layout: post
 title: Google Location Data
 date: 2024-08-01 21:29:10
 description: Google Location Data
-tags: android google location
+tags: android google location personalnote
 categories: android
 featured: false
 ---

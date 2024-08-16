@@ -3,7 +3,7 @@ layout: post
 title: Forensic browser geo location (firefox)
 date: 2024-08-04 19:28:10
 description: Forensic browser geo location (firefox)
-tags: forensic firefox
+tags: forensic firefox personalnote
 categories: forensic
 featured: false
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Android Developer
 date: 2024-08-01 21:15:10
 description: Android Developer
-tags: android developer
+tags: android developer personalnote
 categories: android
 featured: false
 ---

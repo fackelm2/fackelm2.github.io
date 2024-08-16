@@ -3,7 +3,7 @@ layout: post
 title: Linux - encrpyt (draft)
 date: 2024-07-27 22:03:13
 description: linux sqlite infos 
-tags: linux encrypt
+tags: linux encrypt personalnote
 categories: linux
 featured: false
 ---

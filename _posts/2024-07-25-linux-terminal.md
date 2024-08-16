@@ -3,7 +3,7 @@ layout: post
 title: Linux - terminal (draft)
 date: 2024-07-26 10:27:13
 description: linux sqlite infos 
-tags: linux terminal
+tags: linux terminal personalnote
 categories: linux
 featured: false
 ---

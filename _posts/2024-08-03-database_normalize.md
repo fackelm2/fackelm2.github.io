@@ -3,7 +3,7 @@ layout: post
 title: Database - Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF
 date: 2024-08-03 12:54:10
 description: Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF
-tags: python howto
+tags: python howto personalnote
 categories: python
 featured: false
 ---

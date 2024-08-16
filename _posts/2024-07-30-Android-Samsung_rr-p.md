@@ -3,7 +3,7 @@ layout: post
 title: Android Samsung File RR.p
 date: 2024-08-01 21:20:10
 description: Android 
-tags: android samsung
+tags: android samsung personalnote
 categories: android
 featured: false
 ---

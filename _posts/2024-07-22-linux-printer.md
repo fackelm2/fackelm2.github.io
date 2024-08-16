@@ -3,7 +3,7 @@ layout: post
 title: Linux Printer (draft)
 date: 2024-07-22 17:37:00
 description: Linux Printer
-tags: linux printer
+tags: linux printer personalnote
 categories: linux
 featured: false
 ---

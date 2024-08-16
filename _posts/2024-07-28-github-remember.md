@@ -3,7 +3,7 @@ layout: post
 title: Github notice (draft)
 date: 2024-08-01 21:51:10
 description: Github notice
-tags: github notice
+tags: github notice personalnote
 categories: github
 featured: false
 ---

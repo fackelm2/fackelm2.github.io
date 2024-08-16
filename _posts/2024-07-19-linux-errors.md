@@ -3,7 +3,7 @@ layout: post
 title: Linux Debian Errors and Solutions 
 date: 2024-07-23 20:18:13
 description: Linux errors
-tags: linux todo
+tags: linux todo personalnote
 categories: linux
 featured: false
 ---

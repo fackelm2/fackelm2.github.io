@@ -3,8 +3,8 @@ layout: post
 title: Linux local deb paket installation
 date: 2024-08-02 11:24:10
 description: Linux local deb paket installation
-tags: linux
-categories: linux
+tags: linux personalnote
+categories: linux 
 featured: false
 ---
 
