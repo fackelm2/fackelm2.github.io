@@ -1,192 +1,195 @@
 <!DOCTYPE html> <html lang="en"> <head> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <title> Android Forensic - Android Path Description (draft) | Dietmar Fackelmann </title> <meta name="author" content="Dietmar Fackelmann"> <meta name="description" content="Android Path Description and links to references"> <meta name="keywords" content="android, forensic, linux"> <link rel="stylesheet" href="/assets/css/bootstrap.min.css?a4b3f509e79c54a512b890d73235ef04"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous"> <link defer rel="stylesheet" href="/assets/css/academicons.min.css?f0b7046b84e425c55f3463ac249818f5"> <link defer rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&amp;display=swap"> <link defer rel="stylesheet" href="/assets/css/jekyll-pygments-themes-github.css?591dab5a4e56573bf4ef7fd332894c99" media="" id="highlight_theme_light"> <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;"> <link rel="stylesheet" href="/assets/css/main.css?d41d8cd98f00b204e9800998ecf8427e"> <link rel="canonical" href="https://fackelm2.github.io/blog/2024/android-paths/"> <script src="/assets/js/theme.js?9a0c749ec5240d9cda97bc72359a72c0"></script> <link defer rel="stylesheet" href="/assets/css/jekyll-pygments-themes-native.css?5847e5ed4a4568527aa6cfab446049ca" media="none" id="highlight_theme_dark"> <script>initTheme();</script> </head> <body class="fixed-top-nav "> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <a class="navbar-brand title font-weight-lighter" href="/"> <span class="font-weight-bold">Dietmar</span> Fackelmann </a> <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse text-right" id="navbarNav"> <ul class="navbar-nav ml-auto flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/">about </a> </li> <li class="nav-item active"> <a class="nav-link" href="/blog/">blog </a> </li> <li class="nav-item "> <a class="nav-link" href="/projects/">projects </a> </li> <li class="nav-item "> <a class="nav-link" href="/repositories/">repositories </a> </li> <li class="nav-item "> <a class="nav-link" href="/cv/">cv (draft) </a> </li> <li class="nav-item dropdown "> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">submenus </a> <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown"> <div class="dropdown-divider"></div> <a class="dropdown-item " href="/projects/">projects</a> <div class="dropdown-divider"></div> <a class="dropdown-item " href="/blog/">blog</a> </div> </li> <li class="nav-item"> <button id="search-toggle" title="Search" onclick="openSearchModal()"> <span class="nav-link">ctrl k <i class="ti ti-search"></i></span> </button> </li> <li class="toggle-container"> <button id="light-toggle" title="Change theme"> <i class="ti ti-sun-moon" id="light-toggle-system"></i> <i class="ti ti-moon-filled" id="light-toggle-dark"></i> <i class="ti ti-sun-filled" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header> <div class="container mt-5" role="main"> <div class="post"> <header class="post-header"> <h1 class="post-title">Android Forensic - Android Path Description (draft)</h1> <p class="post-meta"> Created in July 26, 2024 , last updated in August 16, 2024 </p> <p class="post-tags"> <a href="/blog/2024"> <i class="fa-solid fa-calendar fa-sm"></i> 2024 </a>   ·   <a href="/blog/tag/android"> <i class="fa-solid fa-hashtag fa-sm"></i> android</a>   <a href="/blog/tag/forensic"> <i class="fa-solid fa-hashtag fa-sm"></i> forensic</a>   <a href="/blog/tag/personalnote"> <i class="fa-solid fa-hashtag fa-sm"></i> personalnote</a>   ·   <a href="/blog/category/android"> <i class="fa-solid fa-tag fa-sm"></i> android</a> </p> </header> <article class="post-content"> <div id="markdown-content"> <p>draft</p> <p><a href="https://github.com/RealityNet/Android-Forensics-References" rel="external nofollow noopener" target="_blank"> https://github.com/RealityNet/Android-Forensics-References</a></p> <p>for example:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/log/batterystats
-    Cellebrite CTF 2021 - Heisenberg's Android
-    https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-heisenbergs-android.html
-    Part 1: Walk-Through of Answers to the 2021 CTF – Investigating Heisenberg’s Android Device
-    https://cellebrite.com/en/part-1-walk-through-of-answers-to-the-2021-ctf-investigating-heisenbergs-android-device/
-    Artefacts of Android device power off due to depleted battery
-    https://instatronic.com/artefacts-of-android-device-power-off-due-to-depleted-battery
+Cellebrite CTF 2021 - Heisenberg's Android
+https://www.stark4n6.com/2021/10/cellebrite-ctf-2021-heisenbergs-android.html
+Part 1: Walk-Through of Answers to the 2021 CTF – Investigating Heisenberg’s Android Device
+https://cellebrite.com/en/part-1-walk-through-of-answers-to-the-2021-ctf-investigating-heisenbergs-android-device/
+Artefacts of Android device power off due to depleted battery
+https://instatronic.com/artefacts-of-android-device-power-off-due-to-depleted-battery
 </code></pre></div></div> <p>ALEAPP https://github.com/abrignoni/ALEAPP Android Logs Events And Protobuf Parser</p> <p>Autopsy Plugin Android extraction and analysis framework with an integrated Autopsy Module. Dump easily user data from a device and generate powerful reports for Autopsy or external applications. https://github.com/labcif/FAMA</p> <p>Android Forensic Bash Script (extract data from Android Smartphone bash script) <a href="https://github.com/RealityNet/android_triage" rel="external nofollow noopener" target="_blank">https://github.com/RealityNet/android_triage</a></p> <p>Excel Attack Vector (TODO) https://github.com/RealityNet/attack-coverages</p> <p>Teleparser (Telegram Parser) 2020 https://github.com/RealityNet/teleparser</p> <p>Amdroid Forensic https://blog.digital-forensics.it/</p> <ul> <li>Dissecting the Android WiFiConfigStore.xml for forensic analysis</li> <li>A first look at Android 14 forensics</li> <li>Analysis of Android settings during a forensic investigation</li> <li>Has the user ever used the XYZ application? aka traces of application execution on mobile devices</li> </ul> <p>https://github.com/orgs/nowsecure/repositories?q=mirror%3Afalse+fork%3Afalse+archived%3Afalse</p> <p>SQLite Queries https://github.com/kacos2000/Queries?tab=readme-ov-file</p> <p>Google Drive</p> <ul> <li>Query Google Drive’s snapshot.db found at the ‘\AppData\Local\Google\Drive\user@’ folder .</li> <li>Query Google Drive’s cloud_graph.db found at the ‘\AppData\Local\Google\Drive\user@\cloud_graph’ folder</li> </ul> <p>Android</p> <ul> <li>Android 7 Calllog.db (Call history)</li> <li>Android 7 Contacts2.db (Contacts)</li> <li>Android 9 Contacts2.db (Call history)</li> <li>Android logs.db (Samsung Calls/messages)</li> </ul> <p>example Logs_db.sql:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>-- sec = (Samsung Electronics Corporation)
 -- <span class="se">\d</span>ata<span class="se">\c</span>om.sec.android.provider.logsproviders<span class="se">\l</span>ogs.db
 
-Select 
-	logs._id as 'id',
-	logs.geocoded_location||' ('||logs.countryiso||')' as 'Location',
-	logs.name,
-	logs.number,
-	case logs.numbertype 
-		when 1 then 'Home'
-		when 2 then 'Mobile'
-		when 3 then 'Work'
-		when 4 then 'Fax_Work'
-		when 5 then 'Fax_Home'
-		when 6 then 'Pager'
-		when 7 then 'Other'
-		when 8 then 'Callback'
-		when 9 then 'Car'
-		when 10 then 'Company_Main'
-		when 11 then 'ISDN'
-		when 12 then 'Main'
-		when 13 then 'Other_Fax'
-		when 14 then 'Radio'
-		when 15 then 'Telex'
-		when 16 then 'TTY_TDD'
-		when 17 then 'Work_Mobile'
-		when 18 then 'Work_Pager'
-		when 19 then 'Assistant'
-		when 20 then 'MMS'
-		else logs.numbertype
-		end as 'numbertype',
-	case logs.presentation
-		when 1 then 'allowed' --Number is allowed to display for caller id
-		when 2 then 'restricted' --Number is blocked by user
-		when 3 then 'unknown'  --Number is not specified or unknown by network
-		when 4 then 'pay phone' --Number is a pay phone
-		else logs.presentation
-		end as 'CallerID',	
-	datetime(logs.date/1000, 'unixepoch') as 'lDate',
-	case 
-		when logs.duration != 0
-		then Time(logs.duration, 'unixepoch') 
-		end as 'Duration',--The duration of the call in seconds
-	case logs.type
-		when 1 then 'incoming' --incoming calls
-		when 2 then 'outgoing' --outgoing calls
-		when 3 then 'missed' --missed calls
-		when 4 then 'voicemail' --Call log type for voicemails
-		when 5 then 'rejected' --rejected by direct user action
-		when 6 then 'blocked' --calls blocked automatically
-		when 7 then 'answered externally' --call which was answered on another device
-		else logs.type
-	end as 'type',	
-	case 
-		when logs.logtype in (100)
-		then 'Call ('||logs.logtype||')'
-		when logs.logtype in (300)
-		then 'SMS ('||logs.logtype||')'
-		when logs.logtype in (400)
-		then 'Email ('||logs.logtype||')'
-		else 'Other ('||logs.logtype||')'
-		end as 'logtype',
-	logs.messageid,		
-	case logs.is_read
-		when 0 then 'No'
-		when 1 then 'Yes'
-		end as 'IsRead',
-	logs.m_subject as 'MessageSubject',
-	logs.m_content as 'MessageContent',
-	case logs."new"
-		when 1 then 'Yes'
-		end as 'New',
-	logs.contactid,
-	logs.raw_contact_id,
-	logs.lookup_uri,
-	logs.photo_id,
-	logs.account_name||' ('||logs.account_id||')' as 'Account'
+Select
+logs._id as 'id',
+logs.geocoded_location||' ('||logs.countryiso||')' as 'Location',
+logs.name,
+logs.number,
+case logs.numbertype
+when 1 then 'Home'
+when 2 then 'Mobile'
+when 3 then 'Work'
+when 4 then 'Fax_Work'
+when 5 then 'Fax_Home'
+when 6 then 'Pager'
+when 7 then 'Other'
+when 8 then 'Callback'
+when 9 then 'Car'
+when 10 then 'Company_Main'
+when 11 then 'ISDN'
+when 12 then 'Main'
+when 13 then 'Other_Fax'
+when 14 then 'Radio'
+when 15 then 'Telex'
+when 16 then 'TTY_TDD'
+when 17 then 'Work_Mobile'
+when 18 then 'Work_Pager'
+when 19 then 'Assistant'
+when 20 then 'MMS'
+else logs.numbertype
+end as 'numbertype',
+case logs.presentation
+when 1 then 'allowed' --Number is allowed to display for caller id
+when 2 then 'restricted' --Number is blocked by user
+when 3 then 'unknown' --Number is not specified or unknown by network
+when 4 then 'pay phone' --Number is a pay phone
+else logs.presentation
+end as 'CallerID',
+datetime(logs.date/1000, 'unixepoch') as 'lDate',
+case
+when logs.duration != 0
+then Time(logs.duration, 'unixepoch')
+end as 'Duration',--The duration of the call in seconds
+case logs.type
+when 1 then 'incoming' --incoming calls
+when 2 then 'outgoing' --outgoing calls
+when 3 then 'missed' --missed calls
+when 4 then 'voicemail' --Call log type for voicemails
+when 5 then 'rejected' --rejected by direct user action
+when 6 then 'blocked' --calls blocked automatically
+when 7 then 'answered externally' --call which was answered on another device
+else logs.type
+end as 'type',
+case
+when logs.logtype in (100)
+then 'Call ('||logs.logtype||')'
+when logs.logtype in (300)
+then 'SMS ('||logs.logtype||')'
+when logs.logtype in (400)
+then 'Email ('||logs.logtype||')'
+else 'Other ('||logs.logtype||')'
+end as 'logtype',
+logs.messageid,		
+case logs.is_read
+when 0 then 'No'
+when 1 then 'Yes'
+end as 'IsRead',
+logs.m_subject as 'MessageSubject',
+logs.m_content as 'MessageContent',
+case logs."new"
+when 1 then 'Yes'
+end as 'New',
+logs.contactid,
+logs.raw_contact_id,
+logs.lookup_uri,
+logs.photo_id,
+logs.account_name||' ('||logs.account_id||')' as 'Account'
 from logs
 order by lDate desc
-</code></pre></div></div> <p>calllog_db.sql</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>-- references: 
+</code></pre></div></div> <p>calllog_db.sql</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>-- references:
 -- https://developer.android.com/reference/android/provider/CallLog.Calls.html
 <span class="gh">-- https://developer.android.com/reference/android/provider/ContactsContract.CommonDataKinds.Phone
 --
 </span>--
--- Costas Katsavounidis © 06/2019 
+-- Costas Katsavounidis © 06/2019
 
 SELECT
 calls._id,
 number, --The phone number as the user entered it.
 case presentation
-	when 1 then 'allowed' --Number is allowed to display for caller id
-	when 2 then 'restricted' --Number is blocked by user
-	when 3 then 'unknown'  --Number is not specified or unknown by network
-	when 4 then 'pay phone' --Number is a pay phone
-	else presentation
-	end as 'CallerID',
+when 1 then 'allowed' --Number is allowed to display for caller id
+when 2 then 'restricted' --Number is blocked by user
+when 3 then 'unknown' --Number is not specified or unknown by network
+when 4 then 'pay phone' --Number is a pay phone
+else presentation
+end as 'CallerID',
 case calls.new -- Whether or not the call has been acknowledged
-	when 1 then 'yes'
-	else ''
-	end as 'New',
+when 1 then 'yes'
+else ''
+end as 'New',
 case type
-	when 1 then 'incoming' --incoming calls
-	when 2 then 'outgoing' --outgoing calls
-	when 3 then 'missed' --missed calls
-	when 4 then 'voicemail' --Call log type for voicemails
-	when 5 then 'rejected' --rejected by direct user action
-	when 6 then 'blocked' --calls blocked automatically
-	when 7 then 'answered externally' --call which was answered on another device
-	else type
-	end as 'type',
--- ISREAD &gt;&gt; Unlike the NEW field, which requires the user to have acknowledged the existence of the entry, 
--- this implies the user has interacted with the entry. 
-case is_read -- Whether this item has been read or otherwise consumed by the user. 
-	when 1 then 'yes'
-	else ''
-	end as 'is read',
+when 1 then 'incoming' --incoming calls
+when 2 then 'outgoing' --outgoing calls
+when 3 then 'missed' --missed calls
+when 4 then 'voicemail' --Call log type for voicemails
+when 5 then 'rejected' --rejected by direct user action
+when 6 then 'blocked' --calls blocked automatically
+when 7 then 'answered externally' --call which was answered on another device
+else type
+end as 'type',
+-- ISREAD &gt;&gt; Unlike the NEW field, which requires the user to have acknowledged the existence of the entry,
+-- this implies the user has interacted with the entry.
+case is_read -- Whether this item has been read or otherwise consumed by the user.
+when 1 then 'yes'
+else ''
+end as 'is read',
 case features
-	when 0 then 'None'
-	when 1 then 'Call had Video'
-	when 2 then 'Call was pulled externally'
-	when 4 then 'HD Call'
-	when 8 then 'Call was WIFI call'
-	when 32 then 'Call was on RTT at some point'
-	else features
-	end as 'features',
+when 0 then 'None'
+when 1 then 'Call had Video'
+when 2 then 'Call was pulled externally'
+when 4 then 'HD Call'
+when 8 then 'Call was WIFI call'
+when 32 then 'Call was on RTT at some point'
+else features
+end as 'features',
 operator||' ('||countryiso||')' as 'Operator',
-geocoded_location, --The string represents a city, state, or country associated with the number associated with this call 
+geocoded_location, --The string represents a city, state, or country associated with the number associated with this
+call
 matched_number,
 case numbertype --cached number type (Home, Work, etc) associated with the phone number
-	when 1 then 'Home'
-	when 2 then 'Mobile'
-	when 3 then 'Work'
-	when 4 then 'Fax_Work'
-	when 5 then 'Fax_Home'
-	when 6 then 'Pager'
-	when 7 then 'Other'
-	when 8 then 'Callback'
-	when 9 then 'Car'
-	when 10 then 'Company_Main'
-	when 11 then 'ISDN'
-	when 12 then 'Main'
-	when 13 then 'Other_Fax'
-	when 14 then 'Radio'
-	when 15 then 'Telex'
-	when 16 then 'TTY_TDD'
-	when 17 then 'Work_Mobile'
-	when 18 then 'Work_Pager'
-	when 19 then 'Assistant'
-	when 20 then 'MMS'
-	else numbertype
-	end as 'numbertype',
+when 1 then 'Home'
+when 2 then 'Mobile'
+when 3 then 'Work'
+when 4 then 'Fax_Work'
+when 5 then 'Fax_Home'
+when 6 then 'Pager'
+when 7 then 'Other'
+when 8 then 'Callback'
+when 9 then 'Car'
+when 10 then 'Company_Main'
+when 11 then 'ISDN'
+when 12 then 'Main'
+when 13 then 'Other_Fax'
+when 14 then 'Radio'
+when 15 then 'Telex'
+when 16 then 'TTY_TDD'
+when 17 then 'Work_Mobile'
+when 18 then 'Work_Pager'
+when 19 then 'Assistant'
+when 20 then 'MMS'
+else numbertype
+end as 'numbertype',
 formatted_number,
 post_dial_digits, --post-dial portion of a dialed number
 name,
-time(duration,'unixepoch') as 'duration', --The duration of the call in seconds 
-datetime(date/1000, 'unixepoch','localtime') as 'call_date', --The date the call occured, in milliseconds since the epoch 
-datetime(last_modified/1000, 'unixepoch','localtime') as 'lastmodified',--The date the row is last inserted, updated, or marked as deleted, in milliseconds since the epoch
+time(duration,'unixepoch') as 'duration', --The duration of the call in seconds
+datetime(date/1000, 'unixepoch','localtime') as 'call_date', --The date the call occured, in milliseconds since the
+epoch
+datetime(last_modified/1000, 'unixepoch','localtime') as 'lastmodified',--The date the row is last inserted, updated, or
+marked as deleted, in milliseconds since the epoch
 photo_id,
 photo_uri,
 via_number, -- the via number indicates which of the numbers associated with the SIM was called
 phone_account_address, --The identifier for the account used to place or receive the call
 subscription_id as 'sid', --The identifier for the account used to place or receive the call,
-case phone_account_hidden 
-	when 0 then 'No'
-	when 1 then 'Yes'
-	end as 'hidden',
+case phone_account_hidden
+when 0 then 'No'
+when 1 then 'Yes'
+end as 'hidden',
 subscription_component_name as 'component',
 calls._data as 'data',
 case has_content
-	when 1 then 'Yes'
-	end as 'has content',
+when 1 then 'Yes'
+end as 'has content',
 data_usage,
-source_package,	
+source_package,
 transcription, --only be populated for call log entries of type VOICEMAIL_TYPE that have valid transcriptions
 mime_type,
 case dirty
-	when 1 then 'yes'
-	end as 'dirty',
-case deleted 
-	when 0 then 'no' 
-	when 1 then 'yes' 
-	end as 'deleted'
+when 1 then 'yes'
+end as 'dirty',
+case deleted
+when 0 then 'no'
+when 1 then 'yes'
+end as 'deleted'
 from calls
 order by calls._id desc
 
