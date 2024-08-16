@@ -2,7 +2,8 @@
 layout: post
 title: Recursive search for a word in files under Linux 
 date: 2024-08-04 20:14:10
-description: The moment we stopped understanding AI
+date_udpate: 2024-08-16 08:14:10
+description: Search for a text in a file in all directories
 tags: ai howto personalnote
 categories: ai
 featured: false

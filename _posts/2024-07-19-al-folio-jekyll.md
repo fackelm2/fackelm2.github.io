@@ -42,5 +42,16 @@ also a good instruction site on medium.com:<br>
 https://medium.com/@carlbettosi/create-a-personal-academic-website-easily-with-github-pages-and-jekyll-minimal-coding-f1115eeb5ab7</a>
 
 
+Github Actions: Al Folio on Github (check links)
 
+````angular2html
+...
+name: Link Checker 🔗
+        uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          fail: true
+          # only check local links
+          args: --offline --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --verbose --no-progress '_site/**/*.html'
+
+````
 

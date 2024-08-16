@@ -15,9 +15,24 @@ Gihub Actions (Activate / Deactivate)
 [Github Action Dectivate]
 
 
+[Predefined Actions on Github]: https://www.github.com/actions "https://www.github.com/actions"
+[Predefined Actions on Github]
+
 
 Warnings from Github:
 
 Warning: To prevent unnecessary workflow runs, scheduled workflows may be disabled automatically. When a public 
 repository is forked, scheduled workflows are disabled by default. In a public repository, scheduled workflows are 
 automatically disabled when no repository activity has occurred in 60 days.
+
+
+Short Intro from Github
+
+https://www.youtube.com/watch?v=URmeTqglS58
+
+
+Good Explanation:
+
+https://www.youtube.com/watch?v=R8_veQiYBjI
+ 
+CI/CD or CICD is the combined practices of continuous integration (CI) and continuous delivery (CD)
