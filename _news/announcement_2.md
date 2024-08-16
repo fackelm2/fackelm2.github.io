@@ -10,7 +10,7 @@ using of python as programming language
 
 Started programming more intensively with the Python programming language
 
-#### Links 
+#### Links
 
 <ul>
     <li><a href="https://www.youtube.com/anthonywritescode">https://www.youtube.com/anthonywritescode</a></li>
