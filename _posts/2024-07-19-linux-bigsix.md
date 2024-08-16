@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SSL BigSix as soundcard for Linux
-date: 2024-07-19 18:35:13
+date: 2024-07-19 23:28:13
 description: Using BigSix as a soundcard for Linux Debian 
 tags: linux todo
 categories: linux

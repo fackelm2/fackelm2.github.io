@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to update Linux Debian (draft)
-date: 2024-07-19 18:35:13
+date: 2024-07-26 10:27:13
 description: update mechanism for linux debian
 tags: linux todo
 categories: linux

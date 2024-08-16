@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linux Debian Errors and Solutions 
-date: 2024-07-19 18:35:13
+date: 2024-07-23 20:18:13
 description: Linux errors
 tags: linux todo
 categories: linux

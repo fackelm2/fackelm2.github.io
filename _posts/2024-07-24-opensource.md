@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Opencode - opensource (draft)
-date: 2024-07-19 18:35:13
+date: 2024-07-31 20:02:13
 description: opencode opensource 
 tags: opencode
 categories: linux 

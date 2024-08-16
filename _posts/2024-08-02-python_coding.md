@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python Variables
-date: 2024-08-02 15:00:10
+date: 2024-08-04 19:38:10
 description: how to choose Python variables 
 tags: python howto
 categories: python

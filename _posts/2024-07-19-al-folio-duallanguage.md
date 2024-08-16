@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dual Language in the Jekyll Al-Folio Theme
-date: 2024-07-19 12:28:00
+date: 2024-07-19 23:06:00
 description: Using the Al-Folio Theme with more languages
 tags: linux al-folio jekyll tool
 categories: linux

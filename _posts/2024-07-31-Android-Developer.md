@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android Developer
-date: 2024-07-31 17:00:10
+date: 2024-08-01 21:15:10
 description: Android Developer
 tags: android developer
 categories: android

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Forensic browser geo location (firefox)
-date: 2024-08-02 1ß:00:10
+date: 2024-08-04 19:28:10
 description: Forensic browser geo location (firefox)
 tags: forensic firefox
 categories: forensic

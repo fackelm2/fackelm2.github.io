@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linux local deb paket installation
-date: 2024-08-02 1ß:00:10
+date: 2024-08-02 11:24:10
 description: Linux local deb paket installation
 tags: linux
 categories: linux

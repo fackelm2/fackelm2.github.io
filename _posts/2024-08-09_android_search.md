@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Search for Informations 
-date: 2024-08-08 07:00:10
+date: 2024-08-09 11:07:10
 description: Starting point to search for papers
 tags: android search
 categories: android
