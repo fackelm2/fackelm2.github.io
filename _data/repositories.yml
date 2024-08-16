@@ -5,10 +5,13 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - fackelm2/fackelm2.github.io
+  - fackelm2/pomodoro-logger
+  - fackelm2/priority-order-decision
+  - bkerler/mtkclient
+  - vinta/awesome-python
+  - OWASP/owasp-mastg
+  - latextemplates/scientific-thesis-template
+  - matomo-org/matomo-log-analytics
+  - 504ensicsLabs/LiME
+  - IBM/fhe-toolkit-android

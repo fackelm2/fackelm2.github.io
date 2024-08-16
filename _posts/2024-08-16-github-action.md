@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Github Actoions (draft)
+title: Github Actions (draft)
 date: 2024-08-16 10:00:10
 last_updated: 2024-08-16 08:14:10
 description: Github Actions Howto
