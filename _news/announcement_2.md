@@ -8,10 +8,7 @@ related_posts: false
 
 using of python as programming language
 
----
-
 Started programming more intensively with the Python programming language
-  
 
 #### Links 
 
@@ -20,7 +17,3 @@ Started programming more intensively with the Python programming language
     <li><a href="https://github.com/anthonywritescode">https://github.com/anthonywritescode</a></li>
     <li><a href="https://www.twitch.tv/anthonywritescode?lang=de">https://www.twitch.tv/anthonywritescode?lang=de</a></li>
 </ul>
-
-
----
-
