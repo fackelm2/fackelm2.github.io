@@ -9,7 +9,7 @@ categories: python
 featured: false
 ---
 
-draft 
+draft
 
 [python-pretty-print]: https://realpython.com/python-pretty-print/ "https://realpython.com/python-pretty-print/"
 
