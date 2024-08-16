@@ -2,6 +2,7 @@
 layout: post
 title: Music with Linux (draft)
 date: 2024-07-21 14:00:00
+last_updated: 2024-08-16 08:14:10
 description: linux music links and stuff
 tags: hobby music
 categories: hobby

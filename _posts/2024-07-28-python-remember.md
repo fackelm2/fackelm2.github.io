@@ -2,6 +2,7 @@
 layout: post
 title: Python notice informations (draft)
 date: 2024-07-28 22:11:10
+last_updated: 2024-08-16 08:14:10
 description: Python notice informations for using python
 tags: python notice personalnote
 categories: python

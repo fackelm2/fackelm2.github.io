@@ -2,6 +2,7 @@
 layout: post
 title: How to Unit-Tests with Pytest  
 date: 2024-07-19 05:01:13
+last_updated: 2024-08-16 08:14:10
 description: Writing unit tests with the Pytest framework for Python
 tags: python personalnote
 categories: python

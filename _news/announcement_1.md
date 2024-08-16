@@ -6,8 +6,10 @@ inline: true
 related_posts: false
 ---
    
-Started using al-folio to host a static website on GitHub Pages (github.io)
-
 [Al-Folio]: https://github.com/alshedivat/al-folio "https://github.com/alshedivat/al-folio"
-A god starting point is [Al-Folio]
+
+Started using al-folio [Al-Folio] to host a static website on GitHub Pages (github.io)
+
+
+
 

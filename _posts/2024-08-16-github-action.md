@@ -2,6 +2,7 @@
 layout: post
 title: Github Actoions (draft) 
 date: 2024-08-16 10:00:10
+last_updated: 2024-08-16 08:14:10
 description: Github Actions Howto
 tags: github notice personalnote
 categories: github

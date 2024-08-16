@@ -2,6 +2,7 @@
 layout: post
 title: Android Developer
 date: 2024-08-01 21:15:10
+last_updated: 2024-08-16 08:14:10
 description: Android Developer
 tags: android developer personalnote
 categories: android

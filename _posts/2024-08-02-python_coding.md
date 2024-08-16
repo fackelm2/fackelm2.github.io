@@ -2,6 +2,7 @@
 layout: post
 title: Python Variables
 date: 2024-08-04 19:38:10
+last_updated: 2024-08-16 08:14:10
 description: how to choose Python variables 
 tags: python howto personalnote
 categories: python

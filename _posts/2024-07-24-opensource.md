@@ -2,6 +2,7 @@
 layout: post
 title: Opencode - opensource (draft)
 date: 2024-07-31 20:02:13
+last_updated: 2024-08-16 08:14:10
 description: opencode opensource 
 tags: opencode personalnote
 categories: linux 

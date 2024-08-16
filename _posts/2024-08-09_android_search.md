@@ -2,6 +2,7 @@
 layout: post
 title: Search for Informations 
 date: 2024-08-09 11:07:10
+last_updated: 2024-08-16 08:14:10
 description: Starting point to search for papers
 tags: android search personalnote
 categories: android

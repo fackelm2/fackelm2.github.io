@@ -2,6 +2,7 @@
 layout: post
 title: Linux - terminal (draft)
 date: 2024-07-26 10:27:13
+last_updated: 2024-08-16 08:14:10
 description: linux sqlite infos 
 tags: linux terminal personalnote
 categories: linux

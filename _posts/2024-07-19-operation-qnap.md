@@ -2,6 +2,7 @@
 layout: post
 title: QNAP NAS Informations (draft)
 date: 2024-07-23 17:01:13
+last_updated: 2024-08-16 08:14:10
 description: Compatibility Harddisks for QNAP 
 tags: operation qnap personalnote
 categories: operation
