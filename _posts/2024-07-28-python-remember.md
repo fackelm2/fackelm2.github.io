@@ -9,23 +9,24 @@ categories: python
 featured: false
 ---
 
-draft 
+draft
 
 Python programming notice
- 
+
 Show functions in module / program
+
 ````markdown
->>> dir(progname)
+> > > dir(progname)
 ````
 
+build main function (def main()) with no "side effects" while importing (if __name__ == '__main__')
 
-build main function (def main()) with no "side effects" while importing (if __name__ == '__main__') 
 ````markdown
 def main():
-        print('hello i am userA')
+print('hello i am userA')
 
 if __name__ == '__main__':
-        main()  
+main()  
 ````
 
 <hr><br>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux Debian Errors and Solutions 
+title: Linux Debian Errors and Solutions
 date: 2024-07-23 20:18:13
 last_updated: 2024-08-16 08:14:10
 description: Linux errors

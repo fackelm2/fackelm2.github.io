@@ -3,13 +3,13 @@ layout: post
 title: Android Samsung File RR.p
 date: 2024-08-01 21:20:10
 last_updated: 2024-08-16 08:14:10
-description: Android 
+description: Android
 tags: android samsung personalnote
 categories: android
 featured: false
 ---
 
-draft 
+draft
 
 [Samsung Power Status (Logfiles)]: https://thebinaryhick.blog/2024/04/07/__trashed/ "https://thebinaryhick.blog/2024/04/07/__trashed/"
 [Samsung Power Status (Logfiles)]
@@ -19,7 +19,7 @@ draft
 [SANS Smartphone Forensic Analysis In-Depth]: https://www.sans.org/blog/Spring-2024-Update-Explore-the-Latest-Enhancements/ "https://www.sans.org/blog/Spring-2024-Update-Explore-the-Latest-Enhancements/"
 [SANS Smartphone Forensic Analysis In-Depth]
 (https://www.sans.org/blog/Spring-2024-Update-Explore-the-Latest-Enhancements)
- 
+
 
 [DeRR.p. Investigating Power Events on Samsung Devices]: https://thebinaryhick.blog/2024/04/07/__trashed/ "https://thebinaryhick.blog/2024/04/07/__trashed/"
 [DeRR.p. Investigating Power Events on Samsung Devices]

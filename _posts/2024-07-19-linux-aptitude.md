@@ -12,13 +12,15 @@ featured: false
 draft
 
 ## Update debian
-Debian update 
+
+Debian update
 
 ````markup
 # sudo apt-get update
 ````
 
 or with aptitude (F10)
+
 1. Paketliste aktualisieren (u)
 2. aktualisierbare markieren (U)
 3. Installieren/Entfernen von Paketen (g)
@@ -26,7 +28,6 @@ or with aptitude (F10)
 ````markup
 # sudo aptitude update
 ````
-
 
 update are relevant for example also after changes in source.list like adding "contrib non-free"
 

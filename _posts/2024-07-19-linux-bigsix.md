@@ -3,13 +3,13 @@ layout: post
 title: SSL BigSix as soundcard for Linux
 date: 2024-07-19 23:28:13
 last_updated: 2024-08-16 08:14:10
-description: Using BigSix as a soundcard for Linux Debian 
+description: Using BigSix as a soundcard for Linux Debian
 tags: linux todo personalnote
 categories: linux
 featured: false
 ---
 
-No problems. Linux Debian see the BigSix after USB Connect. I use pavucontrol for configurations. 
+No problems. Linux Debian see the BigSix after USB Connect. I use pavucontrol for configurations.
 
 ````markup 
 # pavucontrol 
@@ -43,8 +43,8 @@ systemctl --user unmask pulseaudio.socket
 systemctl --user start pulseaudio.service
 ````
 
-
 More bash history infos ;-) (todo)
+
 ````markup
 #wire plumber conrtrol CLI 
 $wpctl status

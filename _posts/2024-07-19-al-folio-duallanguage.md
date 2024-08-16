@@ -9,9 +9,10 @@ categories: linux
 featured: false
 ---
 
-At this moment the Jekyll Al-Folio Theme does not support dual languages. 
+At this moment the Jekyll Al-Folio Theme does not support dual languages.
 
 For Dual Language support there are some solutions:
+
 - <a href="https://github.com/kurtsson/jekyll-multiple-languages-plugin">https://github.com/kurtsson/jekyll-multiple-languages-plugin</a>
 - <a href="https://george-gca.github.io/blog/2022/dual-language-al-folio/">https://george-gca.github.io/blog/2022/dual-language-al-folio/</a>
 

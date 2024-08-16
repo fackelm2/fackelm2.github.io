@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Unit-Tests with Pytest  
+title: How to Unit-Tests with Pytest
 date: 2024-07-19 05:01:13
 last_updated: 2024-08-16 08:14:10
 description: Writing unit tests with the Pytest framework for Python
@@ -31,6 +31,7 @@ It includes parametrized testing, fixtures and assert re-writing.
 <br>
 
 Testing through the Python interpreter is almost equivalent, except it will add the current directory to sys.path
+
 ````
 python -m pytest [...]
 ````
@@ -43,7 +44,8 @@ You can invoke pytest from Python code directly:
 retcode = pytest.main()
 ````
 
-this acts as if you would call “pytest” from the command line. It will not raise SystemExit but return the exit code instead.
+this acts as if you would call “pytest” from the command line. It will not raise SystemExit but return the exit code
+instead.
 
 <br>
 <hr>
@@ -60,23 +62,25 @@ pytest support tests in tree or out of tree ..
 <br>
 
 Pytest is quiet so use "-v"
+
 ````markdown
 $ pytest -v 
 ````
 
 to print print statements in prog_test.py or prog.py file use "pytest -s"
+
 ````markdown
 @pytest.mark.parametrize(
-        ('input_n', 'expected'),
-        (
-                (7, 49),
-                (8, 64)
-        )
+('input_n', 'expected'),
+(
+(7, 49),
+(8, 64)
+)
 )
 
 def test_square2(input_n, expected):
-        print(f'{input_n=}')        # print output in pytest file
-        assert t.square(input_n) == expected
+print(f'{input_n=}')        # print output in pytest file
+assert t.square(input_n) == expected
 
 $ pytest -s 
 ````
@@ -104,29 +108,33 @@ def test_main(capsys):
 <hr>
 <br>
 
-Troubleshooting Pytest Error: 
+Troubleshooting Pytest Error:
+
 ````markdown
-E   ModuleNotFoundError: No module named 
+E ModuleNotFoundError: No module named 
 ````
 
 SOLUTION (__init__.py file in Test Directory with)
+
 ````markdown
 import sys
 sys.path.append('.')
 ````
 
 ````markdown
-@huichen __init__.py tells Python that the folder is a module. Without it, the folder is not a module and so Python cannot find its name when used in import statements. – 
+@huichen __init__.py tells Python that the folder is a module. Without it, the folder is not a module and so Python
+cannot find its name when used in import statements. –
 theberzi
 Commented Sep 6, 2022 at 7:35
 ````
 
-Solution 1: PYTHONPATH env. var 
+Solution 1: PYTHONPATH env. var
 
 Crate fiel "__init__.py":
 
 ````markdown
 # better
+
 import sys
 sys.path.append('.')
 ````
@@ -143,20 +151,20 @@ Solution 2: use the PYTHONPATH env. var (see on [stackoverflow pythonpath])
 PYTHONPATH=. pytest
 ````
 
-As mentioned by @J_H, you need to explicitly add the root directory of your project, 
-since pytest only adds to sys.path directories where test files are 
+As mentioned by @J_H, you need to explicitly add the root directory of your project,
+since pytest only adds to sys.path directories where test files are
 (which is why @Mak2006's answer worked.)
 
 Good practice: use a Makefile or some other automation tool
 
-If you do not want to type that long command all the time, 
-one option is to create a Makefile in your 
+If you do not want to type that long command all the time,
+one option is to create a Makefile in your
 project's root dir with, e.g., the following:
 
 ````markdown
 .PHONY: test
 test:
-    PYTHONPATH=. pytest
+PYTHONPATH=. pytest
 ````
 
 Which allows you to simply run:
@@ -180,7 +188,7 @@ Pytest Links from antonywritescode
 [Test Driven Development]: https://www.youtube.com/watch?v=JmMxU8ljiOg
 [Test Driven Development]
 
-[python: raise SystemExit (beginner - intermediate) anthony explains #331]: https://www.youtube.com/watch?v=ZbeSPc5wL0g  
+[python: raise SystemExit (beginner - intermediate) anthony explains #331]: https://www.youtube.com/watch?v=ZbeSPc5wL0g
 [python: raise SystemExit (beginner - intermediate) anthony explains #331]
 
 [pytest: testing env variables (intermediate) anthony explains #317]: https://www.youtube.com/watch?v=N15X_pQHckQ
@@ -216,19 +224,19 @@ Pytest Links from antonywritescode
 [are your python tests even running? (intermediate) anthony explains #438]: https://www.youtube.com/watch?v=0nPS_vVmhp0
 [are your python tests even running? (intermediate) anthony explains #438]
 
-[why pytest.mark.usefixtures? (intermediate) anthony explains #098]: https://www.youtube.com/watch?v=BE2v1VCmGwg 
+[why pytest.mark.usefixtures? (intermediate) anthony explains #098]: https://www.youtube.com/watch?v=BE2v1VCmGwg
 [why pytest.mark.usefixtures? (intermediate) anthony explains #098]
 
-[replay - pytest capfd fixing - 2021-04-26]: https://www.youtube.com/watch?v=a33dRrLO8ws 
+[replay - pytest capfd fixing - 2021-04-26]: https://www.youtube.com/watch?v=a33dRrLO8ws
 [replay - pytest capfd fixing - 2021-04-26]
 
-[pytest: everything you need to know about fixtures (intermediate) anthony explains #487]: https://www.youtube.com/watch?v=ScEQRKwUePI  
+[pytest: everything you need to know about fixtures (intermediate) anthony explains #487]: https://www.youtube.com/watch?v=ScEQRKwUePI
 [pytest: everything you need to know about fixtures (intermediate) anthony explains #487]
 
-[testing output with pytest (beginner - intermediate) anthony explains #246]: https://www.youtube.com/watch?v=dN-pVt7i4Us 
+[testing output with pytest (beginner - intermediate) anthony explains #246]: https://www.youtube.com/watch?v=dN-pVt7i4Us
 [testing output with pytest (beginner - intermediate) anthony explains #246]
 
-[I don't use pytest-cov (intermediate) anthony explains #489]: https://www.youtube.com/watch?v=sPgvHGkmd0U 
+[I don't use pytest-cov (intermediate) anthony explains #489]: https://www.youtube.com/watch?v=sPgvHGkmd0U
 [I don't use pytest-cov (intermediate) anthony explains #489]
 
 <br>
@@ -258,10 +266,10 @@ Pytest links from others
 
 TOX (anthonywritescode)
 
-Command line driven CI frontend and development task automation tool 
+Command line driven CI frontend and development task automation tool
 (<a href="https://github.com/tox-dev/tox">https://github.com/tox-dev/tox</a>)
 
-Tox aims to automate and standardize testing in Python. It is part of a larger vision of easing the packaging, 
+Tox aims to automate and standardize testing in Python. It is part of a larger vision of easing the packaging,
 testing and release process of Python software (alongside pytest and devpi).
 
 Links:

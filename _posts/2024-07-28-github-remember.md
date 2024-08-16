@@ -9,22 +9,23 @@ categories: github
 featured: false
 ---
 
-draft 
+draft
 
 [GitHub Linguist]: https://github.com/github/linguist "https://github.com/github/linguist"
-GitHub Display Language of Code [GitHub Linguist] 
-
+GitHub Display Language of Code [GitHub Linguist]
 
 Install the gem: (debian package: ruby-github-linguist)
+
 ```
 gem install github-linguist
 ```
+
 [ruby environment]: https://rvm.io/rvm/install "https://rvm.io/rvm/install"
 You need a working [ruby environment]!
 
 [github: linguist]: https://github.com/github-linguist/linguist/tree/master?tab=readme-ov-file "https://github.com/github-linguist/linguist/tree/master?tab=readme-ov-file"
 [github: linguist]
-Report language on repository (Install on Debian) [github: linguist] 
+Report language on repository (Install on Debian) [github: linguist]
 
 ```
 sudo apt-get install build-essential cmake pkg-config libicu-dev zlib1g-dev libcurl4-openssl-dev libssl-dev ruby-dev
@@ -46,15 +47,14 @@ sudo apt-get install ruby-github-linguist
 
 ```
 
-
 [Paths not excluded from Github language statistics]: https://stackoverflow.com/questions/42544813/paths-not-excluded-from-github-language-statistics "https://stackoverflow.com/questions/42544813/paths-not-excluded-from-github-language-statistics"
 [Paths not excluded from Github language statistics]
 (https://stackoverflow.com/questions/42544813/paths-not-excluded-from-github-language-statistics)
 
+### Example pictures
 
-### Example pictures 
-
-The screenshot on the right shows the used language used in this repository (right side down: Languages). The main language is "Python", but you can see "Rich Text Format"
+The screenshot on the right shows the used language used in this repository (right side down: Languages). The main
+language is "Python", but you can see "Rich Text Format"
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

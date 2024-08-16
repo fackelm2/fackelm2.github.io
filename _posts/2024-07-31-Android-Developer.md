@@ -9,7 +9,7 @@ categories: android
 featured: false
 ---
 
-draft 
+draft
 
 [Android Developer]: https://developer.android.com/?hl=de "https://developer.android.com/?hl=de"
 [Android Developer]
@@ -24,7 +24,7 @@ draft
 [Sicherheit bei der Entwicklung]
 (https://developer.android.com/quality/privacy-and-security?hl=de)
 
-"Hier finden Sie Informationen dazu, wie Sie sichere und private Apps entwickeln, implementieren und bereitstellen." 
+"Hier finden Sie Informationen dazu, wie Sie sichere und private Apps entwickeln, implementieren und bereitstellen."
 
 [Identify the device that's running an instance of your app]: https://developer.android.com/privacy-and-security/minimize-permission-requests#pair-over-bluetooth "https://developer.android.com/privacy-and-security/minimize-permission-requests#pair-over-bluetooth"
 [Identify the device that's running an instance of your app]
@@ -32,11 +32,12 @@ draft
 
 Pair with a device over Bluetooth
 
-[Use nearby Bluetooth or Wi-Fi devices]: https://developer.android.com/privacy-and-security/about "https://developer.android.com/privacy-and-security/about" 
+[Use nearby Bluetooth or Wi-Fi devices]: https://developer.android.com/privacy-and-security/about "https://developer.android.com/privacy-and-security/about"
 [Use nearby Bluetooth or Wi-Fi devices]
 
-Use nearby Bluetooth or Wi-Fi devices: <br> 
-if your app needs to pair the user's device with a nearby device over Bluetooth or Wi-Fi, use the companion device manager, 
+Use nearby Bluetooth or Wi-Fi devices: <br>
+if your app needs to pair the user's device with a nearby device over Bluetooth or Wi-Fi, use the companion device
+manager,
 which doesn't require location permissions. Learn more about Bluetooth and Wi-Fi permissions.
 
 [Im Hintergrund auf Standort zugreifen]: https://developer.android.com/develop/sensors-and-location/location/background?hl=de "https://developer.android.com/develop/sensors-and-location/location/background?hl=de"

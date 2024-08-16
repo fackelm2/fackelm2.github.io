@@ -3,9 +3,9 @@ layout: post
 title: Opencode - opensource (draft)
 date: 2024-07-31 20:02:13
 last_updated: 2024-08-16 08:14:10
-description: opencode opensource 
+description: opencode opensource
 tags: opencode personalnote
-categories: linux 
+categories: linux
 featured: false
 ---
 
@@ -24,7 +24,6 @@ Open Source Code für die Öffentliche Verwaltung (Opencode https://opencode.de/
 [Vorteile]: https://gitlab.opencode.de/bwi/bundesmessenger/info/-/blob/main/warum-bum.md "https://gitlab.opencode.de/bwi/bundesmessenger/info/-/blob/main/warum-bum.md"
 [Vorteile]
 
-
 "Backend"
 "Alle Bestandteile des Backends für den eigenen Betrieb findest Du unter
 BundesMessenger Backend.
@@ -36,11 +35,11 @@ BundesMessenger ist eine Gesamtlösung. Es ist nicht beabsichtigt ein beliebiges
 Matrix Backend für den Betrieb mit den BundesMessenger Apps zu verwenden."
 
 On Premise
+
 - IaaS
 - SaaS
 
 "Basis für das SaaS Angebot werden die Releases auf OpenCoDE sein."
-
 
 <br><hr><br>
 
@@ -50,5 +49,6 @@ On Premise
 https://kubernetes.io/de/docs/concepts/overview/what-is-kubernetes/
 
 Was bedeutet Kubernetes? K8s?
-Der Name Kubernetes stammt aus dem Griechischen, bedeutet Steuermann oder Pilot, und ist der Ursprung von 
-Gouverneur und cybernetic. K8s ist eine Abkürzung, die durch Ersetzen der 8 Buchstaben "ubernete" mit "8" abgeleitet wird
+Der Name Kubernetes stammt aus dem Griechischen, bedeutet Steuermann oder Pilot, und ist der Ursprung von
+Gouverneur und cybernetic. K8s ist eine Abkürzung, die durch Ersetzen der 8 Buchstaben "ubernete" mit "8" abgeleitet
+wird

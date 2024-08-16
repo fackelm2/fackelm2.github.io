@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recursive search for a word in files under Linux 
+title: Recursive search for a word in files under Linux
 date: 2024-08-04 20:14:10
 last_updated: 2024-08-16 08:14:10
 description: Search for a text in a file in all directories
@@ -22,9 +22,8 @@ $ egrep -r -e "serch term"
 <hr>
 <br>
 
-For example, if you want to enable or disable the "last_updated" tag in your al-folio tree, 
+For example, if you want to enable or disable the "last_updated" tag in your al-folio tree,
 you can find the configuration file "_config.yml"
-
 
 ````commandline
 mypc:~/Projects/mysite.github.io$ egrep -r -e "last_updated"

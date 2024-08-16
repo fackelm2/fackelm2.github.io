@@ -8,16 +8,17 @@ tags: linux al-folio jekyll tool personalnote
 categories: linux
 featured: false
 ---
+
 What is [markup]?
 
 [markup]: /https://github.github.com/gfm/#introduction "markup"
 
-"markup is a plain text format for writing structured documents, based on conventions for indicating formatting in 
-email and usenet posts. It was developed by John Gruber (with help from Aaron Swartz) and released in 2004 in the 
-form of a syntax description and a Perl script (markup.pl) for converting markup to HTML. In the next decade, 
-dozens of implementations were developed in many languages. Some extended the original markup syntax with 
-conventions for footnotes, tables, and other document elements. Some allowed markup documents to be rendered in 
-formats other than HTML. Websites like Reddit, StackOverflow, and GitHub had millions of people using markup. 
+"markup is a plain text format for writing structured documents, based on conventions for indicating formatting in
+email and usenet posts. It was developed by John Gruber (with help from Aaron Swartz) and released in 2004 in the
+form of a syntax description and a Perl script (markup.pl) for converting markup to HTML. In the next decade,
+dozens of implementations were developed in many languages. Some extended the original markup syntax with
+conventions for footnotes, tables, and other document elements. Some allowed markup documents to be rendered in
+formats other than HTML. Websites like Reddit, StackOverflow, and GitHub had millions of people using markup.
 And markup started to be used beyond the web, to author books, articles, slide shows, letters, and lecture notes."
 
 Default Al-folio Markup is GitHub Flavored markup - GFM
@@ -28,24 +29,25 @@ Default Al-folio Markup is GitHub Flavored markup - GFM
 Example 1 [ markup / markdown ]
 
 \`\`\`\`
+
 ````
 [example text]: /https://nmit.de "Network Management IT" 
 [example text]
 ````
 
 \`\`\`\`markup
+
 ````markup
 [example text]: /https://nmit.de "Network Management IT" 
 [example text]
 ````
 
 \`\`\`\`markdown
+
 ````markdown
-[example text]: /https://nmit.de "Network Management IT" 
+[example text]: /https://nmit.de "Network Management IT"
 [example text]
 ````
-
-
 
 <hr>
 Example 2 [ LINK ]
@@ -57,7 +59,7 @@ Example 2 [ LINK ]
 
 become to:
 
-[Markup Instructions]: /https://github.github.com/gfm/ "Markup Instructions" 
+[Markup Instructions]: /https://github.github.com/gfm/ "Markup Instructions"
 [Markup Instructions]
 
 <hr>
@@ -70,6 +72,7 @@ What is [markup]?
 
 [markup]: /https://github.github.com/gfm/#introduction "markup"
 ````
+
 become to:
 
 What is [markup]?
@@ -91,6 +94,7 @@ become to:
 def Code example
     just a test
 ````
+
 <hr>
 
 Example 4 [ CODE FORMAT]
@@ -100,12 +104,14 @@ import pandas as pd ...
 \`\`\`
 
 becomes to:
+
 ```python
 import pandas as pd
 
 numbers = []
 for i in numbers:
-    echo i
+    echo
+    i
 ```
 
 
