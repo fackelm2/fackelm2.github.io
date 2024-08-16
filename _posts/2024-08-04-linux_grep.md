@@ -17,3 +17,20 @@ The following command searches all files in the current directory and all subdir
 $ egrep -r -e "serch term"
 ````
 
+<br>
+<hr>
+<br>
+
+For example search for activate or deactivate the "last_updated" tag in al-folio you can find the configuration
+file "_config.yml"
+````commandline
+mypc:~/Projects/mysite.github.io$ egrep -r -e "last_updated"
+_posts/2024-07-22-linux-printer.md:last_updated: 2024-08-16 08:14:10
+_layouts/post.liquid:      {% if page.last_updated %}, last updated in {{ page.last_updated | date: '%B %d, %Y' }}{% endif %}
+..
+_includes/footer.liquid:      {% if site.last_updated %}
+_includes/footer.liquid:      {% if site.last_updated %}
+..
+_config.yml:last_updated: true # set to true if you want to display last updated in the footer
+..
+````
