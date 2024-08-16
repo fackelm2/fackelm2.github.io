@@ -17,15 +17,11 @@ https://github.com/MyActionWay/lighthouse-badger-workflows#lighthouse-badger-eas
 
 https://github.com/myactionway/lighthouse-badger-workflows?tab=readme-ov-file#-setups
 
-
 https://github.com/settings/tokens?type=beta
 
 https://github.com/fackelm2/fackelm2.github.io/settings/secrets/actions
 
 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-fine-grained-personal-access-token
-
-
-
 
 PAT (fine-grained): repository permissions
 
