@@ -1,6 +1,6 @@
 ---
 layout: page
-title: APK
+title: APK Info
 description: apkinfo.py - Android App Classification based on the unique apkid name
 importance: 1
 category: work

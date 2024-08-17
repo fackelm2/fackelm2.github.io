@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Smartwatch
+title: Smartwatch Forensic
 description: Android Smartwatch Forensics
 img: assets/img/smartwatch_forensic.png
 importance: 3
