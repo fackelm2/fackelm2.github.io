@@ -1,12 +1,13 @@
 ---
 layout: page
-title: android
-description: a project that redirects to another website
-img: assets/img/pomodoro-clock-02.png
-redirect: https://unsplash.com
+title: Android Smartwatch Forensic
+description: Android Smartwatch Forensics
+img: assets/img/smartwatch_forensic.png
 importance: 3
-category: test
+category: work
 ---
+
+draft 
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
