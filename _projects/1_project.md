@@ -1,6 +1,6 @@
 ---
 layout: page
-title: APK Info
+title: App Forensic
 description: apkinfo.py - Android App Classification based on the unique apkid name
 importance: 1
 category: work
