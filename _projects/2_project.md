@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pomodoro Timer
-description: pomodoro-logger.py - Pomodoro Timer for OBS Studio
+description: Pomodoro Timer for OBS Studio (pomodoro-logger.py)
 img: assets/img/pomodoro-clock-02.png
 importance: 2
 category: fun
