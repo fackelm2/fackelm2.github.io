@@ -11,6 +11,14 @@ featured: false
 
 draft
 
+
+### Opensource Faces
+
+Faces of Opensource 
+[Opensource Peoples]:https://www.facesofopensource.com/ "https://www.facesofopensource.com/"
+[Opensource Peoples]
+
+
 ### Opencode
 
 Open Source Code für die Öffentliche Verwaltung (Opencode https://opencode.de/de)
