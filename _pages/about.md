@@ -26,7 +26,7 @@ Since then I have been interested in IT security and IT networks.
 I worked for about four years as an IT security employee in a large insurance company.
 I worked with firewalls, routers and VPNs.
 Then I worked for five years as a manager for the IT infrastructure of the state of Baden-Württemberg.
-This involved running a data centre with security equipment and remote sites.
+This involved be part of running a data centre with security equipment and remote sites.
 
 > Since 2021 my focus has been on Android smartphone forensics
 
