@@ -18,9 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+[Ludwig-Maximilians-University]:https://www.lmu.de/de/index.html "https://www.lmu.de/de/index.html"
 
 I have been a computer scientist since 2001.
-I studied at the Ludwig-Maximilians-University in Munich. 
+I studied at the [Ludwig-Maximilians-University] in Munich. 
 Since then I have been interested in IT security and IT networks.
 I worked for about four years as an IT security employee in a large insurance company.
 I worked with firewalls, routers and VPNs.
