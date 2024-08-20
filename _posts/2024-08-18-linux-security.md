@@ -11,7 +11,8 @@ featured: false
 
 draft
 
-Linus Torvalds: Speaks on XZ Hack in Linux and Trust in Open Source Dev 
+Linus Torvalds: Speaks on XZ Hack in Linux and Trust in Open Source Dev
+
 [XZ Hack in Linux]:https://www.youtube.com/watch?v=ErN5GVHVJ3M "https://www.youtube.com/watch?v=ErN5GVHVJ3M"
 [XZ Hack in Linux]
 
