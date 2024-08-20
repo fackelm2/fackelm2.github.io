@@ -11,6 +11,9 @@ featured: false
 
 draft
 
+[chatgpt]:https://chatgpt.com/ "https://chatgpt.com/"
+[chatgpt]
+
 [kagi]:https://kagi.com/signin "https://kagi.com/signin"
 [kagi]
 
