@@ -11,17 +11,21 @@ featured: false
 
 draft
 
-kagi https://kagi.com/signin
+[kagi]:https://kagi.com/signin "https://kagi.com/signin"
+[kagi]
 
-claude https://claude.ai/login?returnTo=%2F%3F
+[claude]: https://claude.ai/login?returnTo=%2F%3F "https://claude.ai/login?returnTo=%2F%3F"
+[claude]
 
-claude https://claude.ai/login?returnTo=%2F%3F
+[perplexity]:https://www.perplexity.ai/ "https://www.perplexity.ai/"
+[perplexity]
 
-perplexity https://www.perplexity.ai/
+[you.com]:https://you.com/ "https://you.com/"
+[you.com]
 
-you.com https://you.com/
+[consnsus]:https://consensus.app/ "https://consensus.app/"
+[consnsus]
 
-consnsus https://consensus.app/
 
 
 
