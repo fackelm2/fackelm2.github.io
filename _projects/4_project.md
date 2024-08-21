@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Network Forensic
-description: Network Forensic Tools
+description: Network Forensic Tools (Cloud Forensic)
 img: assets/img/network_forensic.png
 importance: 4
 category: work
