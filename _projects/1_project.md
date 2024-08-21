@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Android Forensic
-description: Android App Classification based on the unique apkid name (apkinfo.py)
+description: Forensic Tools for Android
 importance: 1
 category: work
 related_publications: false
@@ -9,6 +9,9 @@ img: /assets/img/smartphone_app_install-2.png
 ---
 
 Disclaimer : This is an internal project which may not (yet) be published
+
+# apkinfo.py
+An Android App Classification based on the unique apkid name (apkinfo.py)
 
 Android Package IDs (apkid) are the unique package identifiers for Android packages. 
 For example, the Threema messenger app has the apkid "ch.threema.app".
