@@ -5,7 +5,7 @@ description: Android Smartphone Forensic Tools
 importance: 1
 category: work
 related_publications: false
-img: /assets/img/smartphone_forensic.png
+img: assets/img/smartphone_forensic.png
 ---
 
 Disclaimer : This is an internal project which may not (yet) be published
