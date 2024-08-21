@@ -29,6 +29,7 @@ draft
 [consnsus]:https://consensus.app/ "https://consensus.app/"
 [consnsus]
 
+https://chatgpt.com/g/g-bo0FiWLY7-consensus
 
 
 
