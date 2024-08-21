@@ -9,6 +9,12 @@ category: work
 
 Disclaimer : This is an internal project which may not (yet) be published
 
+Analysing the relevance and methodological approaches of smartwatch forensics: available tools, their application value and the expected findings
+
+Analyse der Relevanz und methodischen Ansätze der Smartwatch-Forensik: Verfügbare Tools, deren Anwendungswert und die erwartbaren Erkenntnisse
+
+<hr>
+
 Smartwatch Forensic Tools
 
 [Smartwatch Forensic Oxygen]:https://oxygenforensics.com/en/resources/smartwatch-forensics/ "https://oxygenforensics.com/en/resources/smartwatch-forensics/"
