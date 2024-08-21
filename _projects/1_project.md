@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Android Forensic
-description: Forensic Tools for Android
+description: Android Smartphone Forensic Tools
 importance: 1
 category: work
 related_publications: false
