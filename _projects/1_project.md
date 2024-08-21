@@ -11,7 +11,7 @@ img: assets/img/smartphone_forensic.png
 Disclaimer : This is an internal project which may not (yet) be published
 
 ### Forensic evaluation of installed Android applications: Automated detection, classification and 
-prioritisation based on the Android Package List of a smartphone
+### prioritisation based on the Android Package List of a smartphone
 
 Forensische Bewertung installierter Android-Anwendungen: Automatisierte Erkennung, Klassifizierung und 
 Priorisierung anhand der Android Package List eines Smartphones
