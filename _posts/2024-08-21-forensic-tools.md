@@ -14,6 +14,12 @@ draft
 [Oxygen Forensic]:https://oxygenforensics.com/en/ "https://oxygenforensics.com/en/"
 [Oxygen Forensic]
 
+https://oxygenforensics.com/en/resources/category/blog/
+
+Searchable (for example "telegram"):
+https://oxygenforensics.com/en/resources/category/blog/?s=telegram&post_type=post
+
+
 ---
 
 [Belkasoft]:https://belkasoft.com/articles#article "https://belkasoft.com/articles#article"
