@@ -2,7 +2,7 @@
 layout: page
 title: Network Forensic
 description: Network Forensic Tools
-img: assets/img/smartwatch_forensic.png
+img: assets/img/network_forensic.png
 importance: 3
 category: test
 ---
