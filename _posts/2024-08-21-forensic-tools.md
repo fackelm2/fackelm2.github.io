@@ -19,6 +19,9 @@ https://oxygenforensics.com/en/resources/category/blog/
 Searchable (for example "telegram"):
 https://oxygenforensics.com/en/resources/category/blog/?s=telegram&post_type=post
 
+https://oxygenforensics.com/en/resources/telegram-forensics/
+
+"Chat or channel owners have access to the page on which the most recent changes are listed and recorded up to 48 hours."
 
 ---
 
