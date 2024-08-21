@@ -10,13 +10,12 @@ img: assets/img/smartphone_forensic.png
 
 Disclaimer : This is an internal project which may not (yet) be published
 
-# apkinfo.py
-An Android App Classification based on the unique apkid name (apkinfo.py)
+# An Android App Classification based on the unique apkid name
 
-Android Package IDs (apkid) are the unique package identifiers for Android packages. 
+Android Package-IDs are the unique package identifiers for Android packages (APKs). 
 For example, the Threema messenger app has the apkid "ch.threema.app".
-You can use the unique apkid to search the web for the intention of the app.
+You can use the unique apk id to search the web for the intention of the app.
 
-Android Package IDs (APK IDs) sind eindeutige Bezeichner für Android Packages (APKs). 
+Android Package-IDs sind eindeutige Bezeichner für Android Packages (APKs). 
 Zum Beispiel hat die Messenger-App Threema die APK-ID "ch.threema.app".
 Diese eindeutige APK ID kann verwendet werden, um die Funktion und den Zweck der App im Internet herauszufinden.
