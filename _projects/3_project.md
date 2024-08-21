@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Smartwatch Forensic
-description: Android Smartwatch Forensic Tools
+description: Android Smartwatch Forensic
 img: assets/img/smartwatch_forensic.png
 importance: 3
 category: work

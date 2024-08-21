@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Network Forensic
-description: Network Forensic Tools (Cloud Forensic)
+description: Network Forensic (Cloud Forensic)
 img: assets/img/network_forensic.png
 importance: 4
 category: work
@@ -9,4 +9,9 @@ category: work
 
 Disclaimer : This is an internal project which may not (yet) be published
 
-Network Forensic Tools
+Forensic challenges and methods for securing, processing and analysing 
+cloud-based data from different services and applications
+
+Forensische Herausforderungen und Methoden zur Sicherung, Aufbereitung und Analyse von
+Cloud-basierten Daten unterschiedlicher Dienste und Anwendungen
+
