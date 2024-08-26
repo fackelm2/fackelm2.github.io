@@ -18,19 +18,11 @@ It includes parametrized testing, fixtures and assert re-writing.
 [wiki pytest]: https://en.wikipedia.org/wiki/Pytest "https://en.wikipedia.org/wiki/Pytest"
 [wiki pytest]
 
-<br>
-<hr>
-<br>
-
 [pytest.org]: https://docs.pytest.org/en/stable/ "https://docs.pytest.org/en/stable/"
 [pytest.org]
 
 [pytest.org index]: https://docs.pytest.org/en/stable/index.html "https://docs.pytest.org/en/stable/index.html"
 [pytest.org index]
-
-<br>
-<hr>
-<br>
 
 Testing through the Python interpreter is almost equivalent, except it will add the current directory to sys.path
 
