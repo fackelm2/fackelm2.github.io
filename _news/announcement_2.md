@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-using of python as programming language
+Use of Python as a programming language
 
 Started programming more intensively with the Python programming language
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Start using pytest, a testing framework to write various tpyes of software tests
+Start using pytest, a testing framework for writing different types of software tests
