@@ -11,6 +11,8 @@ featured: false
 
 draft
 
-Python SQLite Doku
-[Python SQLite]:https://docs.python.org/3/library/sqlite3.html "https://docs.python.org/3/library/sqlite3.html"
-[Python SQLite]
+[Python SQLite Tutorial (how to create db)]: https://www.sqlitetutorial.net/sqlite-python/ "https://www.sqlitetutorial.net/sqlite-python/"
+[Python SQLite Tutorial (how to create db)]
+
+[Python SQLite Doku]: https://docs.python.org/3/library/sqlite3.html "https://docs.python.org/3/library/sqlite3.html"
+[Python SQLite Doku]

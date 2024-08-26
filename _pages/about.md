@@ -23,9 +23,9 @@ social: true # includes social icons at the bottom of the page
 I have been a computer scientist since 2001.
 I studied at the [Ludwig-Maximilians-University] in Munich. 
 Since then I have been interested in IT security and IT networks.
-I worked for about four years as an IT security employee in a large insurance company.
-I managed and configured firewalls, routers, and VPNs.
-Then I worked for five years as an IT infrastructure manager for the state of Baden-Württemberg.
+I worked for about four years in the IT security department of a large insurance company.
+Among other things, I was responsible for planning firewalls, routers and VPNs.
+I then worked for five years as an IT infrastructure manager for the state of Baden-Württemberg.
 This involved running a data centre with security equipment and remote sites.
 
 > Since 2021, my focus has been on Android smartphone forensics
