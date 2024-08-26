@@ -9,6 +9,8 @@ categories: python
 featured: true
 ---
 
+draft 
+
 Start using pytest, a testing framework to write various tpyes of software tests.
 Possible tests: unit tests, integration tests, end-to-end tests and functional tests.
 It includes parametrized testing, fixtures and assert re-writing.
