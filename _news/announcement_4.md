@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Started using i3wm as a window manager for Linux (Debian)
+[i3wm]:https://fackelm2.github.io/blog/2024/i3wm/ "https://fackelm2.github.io/blog/2024/i3wm/"
+
+Started using [i3wm] as a window manager for Linux (Debian)
