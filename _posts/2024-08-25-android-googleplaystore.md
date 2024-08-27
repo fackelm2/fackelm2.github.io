@@ -11,6 +11,8 @@ featured: false
 
 draft
 
+"Google Play is one of the most popular mobile app vendors on the planet, offering 2,300,630 apps."
+
 [Google Playstore Statistics]:https://42matters.com/google-play-statistics-and-trends#available-apps-count "https://42matters.com/google-play-statistics-and-trends#available-apps-count"
 [Google Playstore Statistics]
 
