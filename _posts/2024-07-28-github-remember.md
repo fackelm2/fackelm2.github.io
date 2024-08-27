@@ -11,6 +11,9 @@ featured: false
 
 draft
 
+[Github activity]:https://docs.github.com/de/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository "https://docs.github.com/de/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository"
+[Github activity]
+
 [GitHub Linguist]: https://github.com/github/linguist "https://github.com/github/linguist"
 GitHub Display Language of Code [GitHub Linguist]
 
