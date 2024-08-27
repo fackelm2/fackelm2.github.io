@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Searching 
+title: Search online 
 date: 2024-08-20 22:00:10
 last_updated: 2024-08-20 22:00:10
-description: Searching
+description: Search the internet
 tags: searching
 categories: searching
 featured: false
