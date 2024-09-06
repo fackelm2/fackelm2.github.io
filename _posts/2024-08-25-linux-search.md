@@ -10,11 +10,18 @@ featured: false
 ---
 
 draft
+Linux 
 
-how to find file from 15.05.2024 in linux filesystem
+find file(s) from 15.05.2024
 ````
 find /path/to/directory -type f -newermt 2024-05-15 ! -newermt 2024-05-16
+
+````
+
+find string in file(s)
+````
 
 egrep -r -e "text"
 
 ````
+d
