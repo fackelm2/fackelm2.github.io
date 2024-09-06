@@ -1,6 +1,6 @@
 ---
 layout: post
-title: android sim  
+title: SIM Card (Android)  
 date: 2024-08-28 14:00:10
 last_updated: 2024-08-28 14:00:10
 description: Android SIM 
