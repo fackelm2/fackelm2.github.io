@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Security Conferences
+title: Android SIM
 date: 2024-09-07 10:10:10
 last_updated: 2024-09-07 10:10:10
-description: Security Conference Links 
-tags: security management
-categories: security
+description: Android SIM
+tags: android python
+categories: android
 featured: false
 ---
 

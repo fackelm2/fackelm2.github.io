@@ -1,11 +1,11 @@
 ---
 layout: post
-title: android sim  
+title: Security Conference
 date: 2024-08-28 14:00:10
 last_updated: 2024-08-28 14:00:10
-description: Android SIM 
-tags: android forensic
-categories: forensic
+description: Security Conference List
+tags: management security
+categories: seccurity
 featured: false
 ---
 
