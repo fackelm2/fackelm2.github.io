@@ -11,12 +11,7 @@ featured: false
 
 draft
 
-Implementing SIM Change Detection in Your Android App: A Comprehensive Guide
-
-[Android SIM]:https://medium.com/@ssvaghasiya61/implementing-sim-change-detection-in-your-android-app-a-comprehensive-guide-8db84197241c "https://medium.com/@ssvaghasiya61/implementing-sim-change-detection-in-your-android-app-a-comprehensive-guide-8db84197241c"
-[Android SIM]
-
-[Android SIM_STATE_ABSENT]:https://developer.android.com/reference/android/telephony/TelephonyManager#SIM_STATE_ABSENT "https://developer.android.com/reference/android/telephony/TelephonyManager#SIM_STATE_ABSENT"
-[Android SIM_STATE_ABSENT]
+[Security Conferences]:https://infosec-conferences.com/ "https://infosec-conferences.com/"
+[Security Conferences]
 
 
