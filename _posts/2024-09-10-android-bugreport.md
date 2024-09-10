@@ -17,6 +17,8 @@ draft
 [Read Bugreport]:https://source.android.com/docs/core/tests/debug/read-bug-reports?hl=de "https://source.android.com/docs/core/tests/debug/read-bug-reports?hl=de"
 [Read Bugreport]
 
+[Create Bugreport (avast)]:https://support.avast.com/de-de/article/create-android-bug-report/#pc "https://support.avast.com/de-de/article/create-android-bug-report/#pc"
+[Create Bugreport (avast)]
 
 ````
 adb bugreport 
