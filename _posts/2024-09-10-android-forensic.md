@@ -11,6 +11,15 @@ featured: false
 
 draft
 
+[Android Source Code]:https://cs.android.com/android/platform/superproject/main/+/main:frameworks/base/core/java/android/provider/Settings.java "https://cs.android.com/android/platform/superproject/main/+/main:frameworks/base/core/java/android/provider/Settings.java"
+[Android Source Code]
+
+[Android Analyse]:https://blog.digital-forensics.it/2024/01/analysis-of-android-settings-during.html "https://blog.digital-forensics.it/2024/01/analysis-of-android-settings-during.html"
+[Android Analyse]
+
+[Order of Volatility in Modern Smartphone Forensics]:https://www.youtube.com/watch?v=gXN4rRs77Ts " Order of Volatility in Modern Smartphone Forensics "
+[Order of Volatility in Modern Smartphone Forensics]
+
 [Android 14 Forensic]:https://blog.digital-forensics.it/2024/01/a-first-look-at-android-14-forensics.html "https://blog.digital-forensics.it/2024/01/a-first-look-at-android-14-forensics.html"
 [Android 14 Forensic]
 
