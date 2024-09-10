@@ -11,6 +11,19 @@ featured: false
 
 draft
 
+Example (Get all Databases, Diskstats (of package name), ..)
+````
+dumpsys dbinfo -v 
+dumpsys diskstats 
+dumpsys notifications
+dumpsys notifications --noredact
+dumpsys package
+dumpsys usagestats
+dumpsys vibrator
+dumpsys wifi
+
+````
+
 [Android Dumpsys]:https://developer.android.com/tools/dumpsys?hl=de "https://developer.android.com/tools/dumpsys?hl=de"
 [Android Dumpsys]
 
