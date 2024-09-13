@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Android Forensic
-description: Android Smartphone Forensic
+description: Android Smartphone Forensic - Non-public
 importance: 1
 category: work
 related_publications: false

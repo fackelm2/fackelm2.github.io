@@ -1,14 +1,23 @@
 ---
 layout: page
 title: Pomodoro Timer
-description: Pomodoro Timer for OBS Studio (pomodoro-logger.py)
+description: A Pomodoro Timer for OBS Studio (pomodoro-logger.py)
 img: assets/img/pomodoro-clock-02.png
 importance: 2
 category: fun
 giscus_comments: false
 ---
 
-A simple command-line tool to write a pomodoro timer in a log to integrate the timer in OBS (Text(GDI+))
+A simple command-line tool to write a pomodoro timer in a log file to integrate the timer in OBS (Text(GDI+)).
+The following screenshot illustrates the display merged with OBS Studio with the Pomodoro timer line in Courier New at the top:
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/pomodoro-example-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+### Python Script pomodoro-logger.py
 
 This is a small Python script that writes text (text with date) to a log file.
 You can use this log file for OBS, to record working hours or to analyse your "action times".
@@ -63,12 +72,6 @@ As an example, the Python script will write the following to the log file
 
 The Pomodoro log file can be used with OBS Studio (Open Broadcaster Software) as a Pomodoro timer.
 The following image show the screen with the log file entries at the top of the image.
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pomodoro-example-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
 
 <br>
 ### OBS configuration
