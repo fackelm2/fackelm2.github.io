@@ -14,6 +14,10 @@ draft
 [Android Log]:https://source.android.com/docs/core/tests/debug/understanding-logging?hl=de "https://source.android.com/docs/core/tests/debug/understanding-logging?hl=de"
 [Android Log]
 
+LogExtractor: Extracting Digital Evidence From Android Log Messages Via String & Taint Analysis
+
+[Android Log Extract]:https://www.forensicfocus.com/webinars/logextractor-extracting-digital-evidence-from-android-log-messages-via-string-taint-analysis/ "https://www.forensicfocus.com/webinars/logextractor-extracting-digital-evidence-from-android-log-messages-via-string-taint-analysis/"
+[Android Log Extract]
 
 
 
