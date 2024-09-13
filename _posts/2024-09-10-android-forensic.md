@@ -56,3 +56,13 @@ draft
 [Android Factory Resets]:https://dfir.pubpub.org/pub/xmjxofpd/release/1 "https://dfir.pubpub.org/pub/xmjxofpd/release/1"
 [Android Factory Resets]
 
+Identifying Crypto API Usages In Android Apps Using A Static Analysis Framework
+
+[Android Crypto API Usage YT]:https://www.youtube.com/watch?v=NT1Yff3n1ZQ&t=1s "https://www.youtube.com/watch?v=NT1Yff3n1ZQ&t=1s"
+[Android Crypto API Usage YT]
+
+[Android Crypto API Usage]:https://www.forensicfocus.com/webinars/identifying-crypto-api-usages-in-android-apps-using-a-static-analysis-framework/ "https://www.forensicfocus.com/webinars/identifying-crypto-api-usages-in-android-apps-using-a-static-analysis-framework/"
+[Android Crypto API Usage]
+
+
+4
