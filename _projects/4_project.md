@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Network Forensic
-description: Network Forensic (Cloud Forensic) - Non-public
+description: Network Forensic (Cloud Forensic) - Restricted
 img: assets/img/network_forensic.png
 importance: 4
 category: work
