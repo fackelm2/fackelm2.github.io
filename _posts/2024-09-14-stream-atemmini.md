@@ -11,7 +11,7 @@ featured: false
 
 draft
 
-Stremaing in OBS with ATEMMINI and Linux
+Stremaing in OBS with ATEM MINI and Linux
 
 ````commandline
 switcher-control
