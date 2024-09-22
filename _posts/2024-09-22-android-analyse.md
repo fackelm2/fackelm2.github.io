@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Android Analyse
-date: 2024-09-22 20:00:10
-last_updated: 2024-09-22 20:00:10
+date: 2024-09-22 19:00:10
+last_updated: 2024-09-22 19:00:10
 description: Android Analyse Definitions
 tags: android forensic
 categories: android
