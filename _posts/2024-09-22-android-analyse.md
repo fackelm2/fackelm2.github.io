@@ -4,7 +4,7 @@ title: Android Analyse
 date: 2024-09-22 20:00:10
 last_updated: 2024-09-22 20:00:10
 description: Android Analyse Definitions
-tags: android forensic
+tags: android forensics
 categories: android
 featured: false
 ---
@@ -67,7 +67,7 @@ die darauf abzielt, die Herkunft und Bedeutung von forensischen Artefakten zu ve
 
 ### Experimentelle Validierung (forensische Verifikation durch Reproduktion) 
 
-Die experimentelle Validierung führt eine bekannte Handlungen in einer kontrollierten Umgebung auf Testgeräten durch, 
+Die experimentelle Validierung führt eine bekannte Handlung in einer kontrollierten Umgebung auf Testgeräten durch, 
 um die resultierenden Artefakte mit denen aus der untersuchten Sicherung zu vergleichen.
 Dies ermöglicht es, das Verhalten der App zu analysieren und spezifische Artefakte 
 bestimmten Benutzeraktionen zuzuordnen. 
