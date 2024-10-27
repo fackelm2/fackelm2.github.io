@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sachverstaendiger
+title: Sachverständiger
 date: 2024-10-27 07:00:10
 last_updated: 2024-10-27 07:00:10
 description: Was macht ein Sachvertständiger?
