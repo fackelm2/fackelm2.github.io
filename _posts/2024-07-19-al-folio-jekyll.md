@@ -57,3 +57,5 @@ args: --offline --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --verbose --no
 
 ````
 
+[jekyll formatting informations]:https://idratherbewriting.com/documentation-theme-jekyll/mydoc_lists.html "jekyll formatting"
+[jekyll formatting informations]
