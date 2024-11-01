@@ -11,14 +11,10 @@ featured: false
 
 draft
 
-Stremaing in OBS with ATEM MINI and Linux
+Streaming in OBS with ATEM MINI and Linux
 
 ````commandline
 switcher-control
-
-
-
-
 
 ````
 
