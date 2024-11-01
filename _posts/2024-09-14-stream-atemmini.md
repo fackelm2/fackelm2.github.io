@@ -3,7 +3,7 @@ layout: post
 title: Streaming with ATEM Mini Pro
 date: 2024-09-14 10:00:10
 last_updated: 2024-09-14 10:00:10
-description: Steraming with Linux and Atemmini
+description: Linux and ATEM Mini Pro
 tags: streaming
 categories: Streaming
 featured: false
