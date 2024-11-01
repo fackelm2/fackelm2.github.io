@@ -47,7 +47,7 @@ process
 ## LaTex foiltex
 solid and small solution for minimalistic presentations 
 
-````commandline
+````text
 latex x.tex
 dvi2ps x.dvi > x.ps
 ps2pdf x.ps 
