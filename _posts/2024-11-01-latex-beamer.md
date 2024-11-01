@@ -9,8 +9,6 @@ categories: linux
 featured: false
 ---
 
-draft - german
-
 ## LaTex beamer
 
 "Beamer is a LaTeX document class for creating presentation slides, with a wide range of templates and a set of features for making slideshow effects." (wikipedia)
