@@ -9,18 +9,16 @@ categories: android
 featured: false
 ---
 
-darft
+draft
 
 ## Android Forensics - Chats
 how to analyse android chats
 
-## Internet URLs
-[Analyse Android Chats]:https://cellebrite.com/en/chat-capture-add-unsupported-chats-to-your-investigation/ "Android Chats"
-[Analyse Android Chats]
+[link: Analyse Android Chats]:https://cellebrite.com/en/chat-capture-add-unsupported-chats-to-your-investigation/ "Android Chats"
+[link: Analyse Android Chats]
 
 ## Important - extra directory 
-
 "If the ‘Extras’ directory is missing, some applications may not be parsed correctly .."
 
-[extra dircetory]:https://cellebrite.com/en/android-mobile-device-forensics-why-the-extras-directory-is-essential-to-parse-android-apps-in-cellebrite-physical-analyzer/ "Extra Directory"
-[extra dircetory]
+[link: Extra Directory]:https://cellebrite.com/en/android-mobile-device-forensics-why-the-extras-directory-is-essential-to-parse-android-apps-in-cellebrite-physical-analyzer/ "Extra Directory"
+[link: Extra Directory]
