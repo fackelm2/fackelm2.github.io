@@ -8,10 +8,10 @@ tags: management
 categories: management
 featured: false
 ---
-darft
-## Management - Deviation Circle 
+draft
 
+## Management - Deviation Circle 
 as long as all goes well it will get worse ...
 
-[The Deviation Circle]: https://youtu.be/OFwoExC__MQ?si=1seOoeH1VxLm3iBU&t=692 "Deviation Circle"
-[The Deviation Circle]
+[external link: The Deviation Circle]: https://youtu.be/OFwoExC__MQ?si=1seOoeH1VxLm3iBU&t=692 "Deviation Circle"
+[external link: The Deviation Circle]
