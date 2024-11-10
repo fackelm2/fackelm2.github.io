@@ -9,7 +9,7 @@ categories: android
 featured: false
 ---
 
-darft
+draft
 
 ## Android Forensics - Samsung 
 [Analyse Samsuing Rubin / Pass]:https://cellebrite.com/en/physical-analyzer-7-58-updated-android-artifacts-and-support/ "Samsung Rubin / Pass"
@@ -23,8 +23,6 @@ darft
   * device connectivity
 
 /data/data/com.samsung.android.rubin.app/databases/inferenceengine_logging.db/inferenceengine_logging.db.decrypted
-
-
 
 ## Samsung Pass
 The Samsung Password Manager 
