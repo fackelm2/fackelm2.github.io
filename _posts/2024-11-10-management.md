@@ -11,5 +11,7 @@ featured: false
 darft
 ## Management - Deviation Circle 
 
+as long as all goes well it will get worse ...
+
 [The Deviation Circle]: https://youtu.be/OFwoExC__MQ?si=1seOoeH1VxLm3iBU&t=692 "Deviation Circle"
 [The Deviation Circle]
