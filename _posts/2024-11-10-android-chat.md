@@ -17,3 +17,8 @@ how to analyse android chats
 ## Internet URLs
 [Analyse Android Chats]:https://cellebrite.com/en/chat-capture-add-unsupported-chats-to-your-investigation/ "Android Chats"
 [Analyse Android Chats]
+
+## Important - extra directory 
+
+[extra dircetory]:https://cellebrite.com/en/android-mobile-device-forensics-why-the-extras-directory-is-essential-to-parse-android-apps-in-cellebrite-physical-analyzer/ "Extra Directory"
+[extra dircetory]
