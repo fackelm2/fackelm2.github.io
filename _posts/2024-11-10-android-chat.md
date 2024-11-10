@@ -20,5 +20,7 @@ how to analyse android chats
 
 ## Important - extra directory 
 
+"If the ‘Extras’ directory is missing, some applications may not be parsed correctly .."
+
 [extra dircetory]:https://cellebrite.com/en/android-mobile-device-forensics-why-the-extras-directory-is-essential-to-parse-android-apps-in-cellebrite-physical-analyzer/ "Extra Directory"
 [extra dircetory]
