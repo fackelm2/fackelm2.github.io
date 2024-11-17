@@ -27,7 +27,7 @@ Output: Using this task each media file (audio, video) will get the following ad
 [Web User Interface] (JavaScript)
 
 
-## IPED
+## IPED (Forensic Tool)
 [IPED Digital Forensic Tool]: https://github.com/sepinf-inc/IPED "IPED Digital Forensic Tool"
 [IPED Digital Forensic Tool]
 IPED is an open source software that can be used to process and analyze digital evidence, 
