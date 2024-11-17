@@ -38,7 +38,7 @@ I worked in Windows forensics and Linux forensics for five years.
 Then I had the opportunity to work in network forensics. 
 The rise of smartphones led me to move into smartphone forensics.
 After three years and a steady increase in topics, 
-I was able to focus on Android smartphones.
+I was able to focus on Android smartphones and Android smartwatches.
 
 
 
