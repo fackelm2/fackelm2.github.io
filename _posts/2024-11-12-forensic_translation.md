@@ -21,6 +21,11 @@ Uses Task Bridge together with Transcribe and Translate workers for distributing
 * [transcribe]: https://github.com/hilderonny/taskworker-transcribe "transcribe" [transcribe]
 * [translate]: https://github.com/hilderonny/taskworker-translate "translate" [translate]
 
+Output: Using this task each media file (audio, video) will get the following additional metadata.
+
+[Web User Interface]: https://github.com/hilderonny/taskbridge-webui?tab=readme-ov-file "Web User Interface"
+[Web User Interface] (JavaScript)
+
 
 ## IPED
 [IPED Digital Forensic Tool]: https://github.com/sepinf-inc/IPED "IPED Digital Forensic Tool"
