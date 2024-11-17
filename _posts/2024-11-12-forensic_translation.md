@@ -28,12 +28,15 @@ Output: Using this task each media file (audio, video) will get the following ad
 
 
 ## IPED (Forensic Tool)
+
 [IPED Digital Forensic Tool]: https://github.com/sepinf-inc/IPED "IPED Digital Forensic Tool"
 [IPED Digital Forensic Tool]
+
 IPED is an open source software that can be used to process and analyze digital evidence, 
 often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.
 
 New to IPED?
+
 [IPED Starting Guide]: https://github.com/sepinf-inc/IPED/wiki/Beginner's-Start-Guide "IPED Starting Guide"
 [IPED Starting Guide]
 
@@ -58,3 +61,7 @@ so the same image formats are supported:
 * AD1 (AccessData) 
 * UFDR (Cellebrite)
 
+## PDF Translater
+
+[PDF Translator]: https://github.com/hilderonny/pdf-translator "PDF Translater"
+[PDF Translator]
