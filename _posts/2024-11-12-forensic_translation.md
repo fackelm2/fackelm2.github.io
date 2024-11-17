@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Forensic Translation Tools 
+title: Forensic Translation / Transcription Tools 
 date: 2024-11-17 07:00:10
 last_updated: 2024-11-17 07:00:10
-description: Translation Tools
+description: Translation and Transcription Tools
 tags: forensic
 categories: forensic
 featured: false
