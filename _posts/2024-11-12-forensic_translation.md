@@ -74,3 +74,13 @@ so the same image formats are supported:
 
 [PDF Translator]: https://github.com/hilderonny/pdf-translator "PDF Translater"
 [PDF Translator]
+
+
+## Transcription
+
+[whisperX]: https://github.com/m-bain/whisperX "whisperX"
+[whisperX]
+
+Whisper is an ASR model developed by OpenAI, trained on a large dataset of diverse audio. 
+Whilst it does produces highly accurate transcriptions, the corresponding timestamps are at the utterance-level, 
+not per word, and can be inaccurate by several seconds. OpenAI's whisper does not natively support batching.
