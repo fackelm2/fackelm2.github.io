@@ -11,6 +11,18 @@ featured: false
 draft
 
 ## Automatic Translation
+
+[iped audiotranslatetask]: https://github.com/hilderonny/iped-audiotranslatetask "iped audiotranslatetask"
+[iped audiotranslatetask]
+
+IPED task for audio translation via distributed workers. 
+Uses Task Bridge together with Transcribe and Translate workers for distributing and doing the work.
+* [taskbridge]: https://github.com/hilderonny/taskbridge "taskbridge" [taskbridge]
+* [transcribe]: https://github.com/hilderonny/taskworker-transcribe "transcribe" [transcribe]
+* [translate]: https://github.com/hilderonny/taskworker-translate "translate" [translate]
+
+
+## IPED
 [IPED Digital Forensic Tool]: https://github.com/sepinf-inc/IPED "IPED Digital Forensic Tool"
 [IPED Digital Forensic Tool]
 IPED is an open source software that can be used to process and analyze digital evidence, 
