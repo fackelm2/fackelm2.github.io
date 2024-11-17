@@ -17,9 +17,14 @@ draft
 
 IPED task for audio translation via distributed workers. 
 Uses Task Bridge together with Transcribe and Translate workers for distributing and doing the work.
-* [taskbridge]: https://github.com/hilderonny/taskbridge "taskbridge" [taskbridge]
-* [transcribe]: https://github.com/hilderonny/taskworker-transcribe "transcribe" [transcribe]
-* [translate]: https://github.com/hilderonny/taskworker-translate "translate" [translate]
+
+[taskbridge]: https://github.com/hilderonny/taskbridge "taskbridge" 
+[transcribe]: https://github.com/hilderonny/taskworker-transcribe "transcribe" 
+[translate]: https://github.com/hilderonny/taskworker-translate "translate" 
+
+* [taskbridge]
+* [transcribe]
+* [translate]
 
 Output: Using this task each media file (audio, video) will get the following additional metadata.
 
