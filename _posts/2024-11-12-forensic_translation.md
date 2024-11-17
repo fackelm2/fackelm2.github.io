@@ -16,6 +16,10 @@ draft
 IPED is an open source software that can be used to process and analyze digital evidence, 
 often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.
 
+New to IPED?
+[IPED Starting Guide]: https://github.com/sepinf-inc/IPED/wiki/Beginner's-Start-Guide "IPED Starting Guide"
+[IPED Starting Guide]
+
 Main goals efficient data processing and stability
 * Command line data processing for batch case creation 
 * Multiplatform support, tested on Windows and Linux systems 
