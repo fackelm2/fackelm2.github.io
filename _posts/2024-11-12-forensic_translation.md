@@ -35,15 +35,14 @@ Output: Using this task each media file (audio, video) will get the following ad
 
 ## IPED (Forensic Tool)
  
-Serviço de Perícias em Informática
+IPED is an open source software that can be used to process and analyze digital evidence, 
+often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.
 
-Brazilian Federal Police Digital Forensics Unit at National Institute of Criminalistics
+Serviço de Perícias em Informática - Brazilian Federal Police Digital Forensics Unit at National Institute of Criminalistics
 
 [IPED Digital Forensic Tool]: https://github.com/sepinf-inc/IPED "IPED Digital Forensic Tool"
 [IPED Digital Forensic Tool]
 
-IPED is an open source software that can be used to process and analyze digital evidence, 
-often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.
 
 New to IPED?
 
