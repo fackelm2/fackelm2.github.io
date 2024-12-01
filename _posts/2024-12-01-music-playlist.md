@@ -11,7 +11,7 @@ featured: false
 
 draft
 
-## music playlist 2024
+## Music playlist 2024
 
 [Yana Ponura HÖR Sep 30 2023 (Youtube)]: https://www.youtube.com/watch?v=g-RQbXDiGIU "Yana Ponura YT"
 [Yana Ponura HÖR Sep 30 2023 (Youtube)]
