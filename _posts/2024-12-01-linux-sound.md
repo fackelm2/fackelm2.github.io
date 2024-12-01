@@ -16,6 +16,11 @@ draft
 [Introduction to Pipewire]: https://bootlin.com/blog/an-introduction-to-pipewire/ "Introduction to Pipewire"
 [Introduction to Pipewire]
 
+## OBS Integration (Pipewire Plugin)
+[OBS Pipewire Plugin]: https://obsproject.com/forum/resources/pipewire-audio-capture.1458/ "OBS Integration"
+[OBS Pipewire Plugin]
+
+## Pipewire Download and Documents
 [Pipewire]: https://pipewire.org/ "Pipewire"
 [Pipewire]
 
