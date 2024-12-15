@@ -21,3 +21,16 @@ draft
 "This time it's going to be about BlueZ, the Linux Bluetooth stack. Note that there are other Bluetooth stacks for Linux such as BTstack, but I didn't find the time to play around with these, and BlueZ is still what you get these days if you install a normal Linux distribution."
 
 "Linux Bluetooth stack vs. mobile stacks"
+
+
+## Bluetooth Helper
+
+[https://github.com/ThomasHabets/bthelper]: https://github.com/ThomasHabets/bthelper "Bluetooth Helper"
+[https://github.com/ThomasHabets/bthelper]
+
+"SSH Helper program so that you can SSH over bluetooth. This can be a useful second way in in case you have a 
+raspberry pi with broken network or firewall config."
+
+[https://blog.habets.se/2022/02/SSH-over-Bluetooth-cleanly.html]: https://blog.habets.se/2022/02/SSH-over-Bluetooth-cleanly.html "blog"
+[https://blog.habets.se/2022/02/SSH-over-Bluetooth-cleanly.html]
+
