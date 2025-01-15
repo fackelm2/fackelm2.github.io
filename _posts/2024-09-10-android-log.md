@@ -22,3 +22,14 @@ LogExtractor: Extracting Digital Evidence From Android Log Messages Via String &
 [Android Log Extract]:https://www.forensicfocus.com/webinars/logextractor-extracting-digital-evidence-from-android-log-messages-via-string-taint-analysis/ "https://www.forensicfocus.com/webinars/logextractor-extracting-digital-evidence-from-android-log-messages-via-string-taint-analysis/"
 [Android Log Extract]
 
+
+## Logfile Links
+
+[https://www.magnetforensics.com/blog/8-log-files-you-can-collect-from-ios-and-android-devices/]: https://www.magnetforensics.com/blog/8-log-files-you-can-collect-from-ios-and-android-devices/ "Logfiles Hints"
+[https://www.magnetforensics.com/blog/8-log-files-you-can-collect-from-ios-and-android-devices/]
+
+## Logging in Android
+
+https://medium.com/musings-of-a-latvian-developer/english-logging-things-on-the-device-in-android-9cc92c6c4719
+
+https://sureshjoshi.com/mobile/file-logging-in-android-with-timber
