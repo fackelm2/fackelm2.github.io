@@ -6,4 +6,5 @@ related_posts: false
 ---
 
 [Ransomware]:https://fackelm2.github.io/blog/2025/ransomware/ "https://fackelm2.github.io/blog/2025/ransomware/"
+
 [Ransomware] - Living with Ransomware 
