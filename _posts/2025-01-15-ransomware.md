@@ -12,7 +12,7 @@ featured: false
 draft - english - Translated with DeepL.com (free version)
 
 
-### Ransomware Infos
+### Ransomware Informations
 
 [FiRST on Medium]:https://malienist.medium.com/living-with-ransomware-4f74ceae0a39 "Medium"
 [FiRST on Medium]
