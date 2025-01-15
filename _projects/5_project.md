@@ -2,7 +2,7 @@
 layout: page
 title: AI Learning
 description: Learning by dynamic analysis of smartphone apps - Restricted
-img: assets/img/ailearning-02.jpg
+img: assets/img/ailearning-02.png
 importance: 2
 category: fun
 ---
