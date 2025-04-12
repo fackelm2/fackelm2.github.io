@@ -9,7 +9,8 @@ category: work
 
 Disclaimer : This is an internal project which may not (yet) be published
 
-Analysing the relevance and methodological approaches of smartwatch forensics: available tools, their application value and the expected findings
+Analysing the relevance and methodological approaches of smartwatch forensics: available tools, 
+their application value and the expected findings
 
-Analyse der Relevanz und methodischen Ansätze der Smartwatch-Forensik: Verfügbare Tools, deren Anwendungswert und die erwartbaren Erkenntnisse
-
+Analyse der Relevanz und methodischen Ansätze der Smartwatch-Forensik: Verfügbare Tools, 
+deren Anwendungswert und die erwartbaren Erkenntnisse
