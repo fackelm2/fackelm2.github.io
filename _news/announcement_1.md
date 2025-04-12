@@ -9,7 +9,3 @@ related_posts: false
 [Al-Folio]: https://github.com/alshedivat/al-folio "https://github.com/alshedivat/al-folio"
 
 Started using al-folio [Al-Folio] to host a static website on GitHub Pages (github.io)
-
-
-
-
