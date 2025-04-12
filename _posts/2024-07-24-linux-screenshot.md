@@ -13,8 +13,6 @@ draft
 
 ### screenshot
 
-````markup
+```markup
 $ import -window 0x0240002d screenshot.jpg
-````
-
-
+```

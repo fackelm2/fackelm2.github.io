@@ -30,4 +30,3 @@ Links
 - <a href="https://supercollider.github.io/">https://supercollider.github.io/</a>
 - <a href="https://sccode.org/">https://sccode.org/</a>
 - <a href="https://vimeo.com/20241649">https://vimeo.com/20241649</a>
-

@@ -11,11 +11,6 @@ featured: false
 
 draft
 
+[Security Conference HackInBo]: https://www.youtube.com/watch?v=0VjHNfUmYFg "https://www.youtube.com/watch?v=0VjHNfUmYFg"
 
-[Security Conference HackInBo]:https://www.youtube.com/watch?v=0VjHNfUmYFg "https://www.youtube.com/watch?v=0VjHNfUmYFg"
 [Security Conference HackInBo]
-
-
-
-
-

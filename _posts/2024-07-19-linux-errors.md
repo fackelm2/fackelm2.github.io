@@ -11,9 +11,9 @@ featured: false
 
 ### ldconfig not found
 
-````markup
+```markup
 $ echo $PATH
 /usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
 
 # export PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
-````
+```

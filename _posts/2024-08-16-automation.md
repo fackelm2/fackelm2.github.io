@@ -15,6 +15,6 @@ automation
 
 Github Actions (automation)
 
-[YT Github Action Howto]:https://www.youtube.com/watch?v=yfBtjLxn_6k "https://www.youtube.com/watch?v=yfBtjLxn_6k"
-[YT Github Action Howto]
+[YT Github Action Howto]: https://www.youtube.com/watch?v=yfBtjLxn_6k "https://www.youtube.com/watch?v=yfBtjLxn_6k"
 
+[YT Github Action Howto]

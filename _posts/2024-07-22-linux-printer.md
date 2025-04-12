@@ -45,4 +45,3 @@ var/log/cups/error.log
 
 #Verwaltungsschnittstelle CUPS
 http://localhost:631/admin
-

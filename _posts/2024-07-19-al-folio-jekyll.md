@@ -10,7 +10,7 @@ featured: false
 ---
 
 What is
-Jekyll? <a href="https://de.wikipedia.org/wiki/Jekyll_(Software)">https://de.wikipedia.org/wiki/Jekyll_(Software)</a>
+Jekyll? <a href="https://de.wikipedia.org/wiki/Jekyll_(Software)">https://de.wikipedia.org/wiki/Jekyll\_(Software)</a>
 
 Jekyll ist eine in der Programmiersprache Ruby geschriebene Software,
 die zur Erstellung statischer Webseiten dient.
@@ -28,15 +28,15 @@ to use the Al-Folio Theme you must follow the instructions on the Al-Folio githu
 - change informations, text and images etc.
 - start local <name>.github.io$
 
-````markdown
+```markdown
 sudo docker-compose up
-````
+```
 
 Use a Browser to connect to your instance
 
-````markdown
+```markdown
 localhost:8080
-````
+```
 
 A god starting point is <a href="https://github.com/alshedivat/al-folio">https://github.com/alshedivat/al-folio</a>
 
@@ -46,7 +46,7 @@ https://medium.com/@carlbettosi/create-a-personal-academic-website-easily-with-g
 
 Github Actions: Al Folio on Github (check links)
 
-````angular2html
+```angular2html
 ...
 name: Link Checker 🔗
 uses: lycheeverse/lychee-action@v1.9.0
@@ -55,7 +55,8 @@ fail: true
 # only check local links
 args: --offline --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --verbose --no-progress '_site/**/*.html'
 
-````
+```
 
-[jekyll formatting informations]:https://idratherbewriting.com/documentation-theme-jekyll/mydoc_lists.html "jekyll formatting"
+[jekyll formatting informations]: https://idratherbewriting.com/documentation-theme-jekyll/mydoc_lists.html "jekyll formatting"
+
 [jekyll formatting informations]

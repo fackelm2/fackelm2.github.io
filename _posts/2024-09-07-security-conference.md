@@ -11,7 +11,6 @@ featured: false
 
 draft
 
-[Security Conferences]:https://infosec-conferences.com/ "https://infosec-conferences.com/"
+[Security Conferences]: https://infosec-conferences.com/ "https://infosec-conferences.com/"
+
 [Security Conferences]
-
-

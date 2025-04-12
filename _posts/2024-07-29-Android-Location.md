@@ -12,6 +12,7 @@ featured: false
 draft
 
 [export Location History]: https://android.stackexchange.com/questions/257663/how-can-i-export-my-location-history-now-that-this-data-is-only-stored-locally-o "https://android.stackexchange.com/questions/257663/how-can-i-export-my-location-history-now-that-this-data-is-only-stored-locally-o"
+
 [export Location History]
 (https://android.stackexchange.com/questions/257663/how-can-i-export-my-location-history-now-that-this-data-is-only-stored-locally-o)
 
@@ -33,6 +34,7 @@ there."
 "Credit to vijaykes for finding this (I would have never found this new option on my own)..."
 
 [Export Google Maps Timeline Data on Android]: https://www.reddit.com/r/GoogleMaps/comments/1chlsst/export_google_maps_timeline_data_on_android/la6n0k2/ "https://www.reddit.com/r/GoogleMaps/comments/1chlsst/export_google_maps_timeline_data_on_android/la6n0k2/"
+
 [Export Google Maps Timeline Data on Android]
 (https://www.reddit.com/r/GoogleMaps/comments/1chlsst/export_google_maps_timeline_data_on_android/la6n0k2)
 

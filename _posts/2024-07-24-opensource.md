@@ -11,25 +11,26 @@ featured: false
 
 draft
 
-
 ### Opensource Faces
 
-Faces of Opensource 
+Faces of Opensource
 [Opensource Peoples]:https://www.facesofopensource.com/ "https://www.facesofopensource.com/"
 [Opensource Peoples]
-
 
 ### Opencode
 
 Open Source Code für die Öffentliche Verwaltung (Opencode https://opencode.de/de)
 
 [Bundesmessenger]: https://gitlab.opencode.de/bwi/bundesmessenger/info "https://gitlab.opencode.de/bwi/bundesmessenger/info"
+
 [Bundesmessenger]
 
 [Synapse Server]: https://github.com/element-hq/synapse "https://github.com/element-hq/synapse"
+
 [Synapse Server]
 
 [Vorteile]: https://gitlab.opencode.de/bwi/bundesmessenger/info/-/blob/main/warum-bum.md "https://gitlab.opencode.de/bwi/bundesmessenger/info/-/blob/main/warum-bum.md"
+
 [Vorteile]
 
 "Backend"
@@ -52,6 +53,7 @@ On Premise
 <br><hr><br>
 
 [Was bedeutet Kubernetes? K8s?]: https://kubernetes.io/de/docs/concepts/overview/what-is-kubernetes/ "https://kubernetes.io/de/docs/concepts/overview/what-is-kubernetes/"
+
 [Was bedeutet Kubernetes? K8s?]
 
 https://kubernetes.io/de/docs/concepts/overview/what-is-kubernetes/

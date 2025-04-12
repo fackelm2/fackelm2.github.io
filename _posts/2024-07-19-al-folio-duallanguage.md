@@ -17,6 +17,3 @@ For Dual Language support there are some solutions:
 - <a href="https://george-gca.github.io/blog/2022/dual-language-al-folio/">https://george-gca.github.io/blog/2022/dual-language-al-folio/</a>
 
 until now i do not use dual languages ..
-
-
-

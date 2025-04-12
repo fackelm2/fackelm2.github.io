@@ -11,17 +11,17 @@ featured: false
 
 No problems. Linux Debian see the BigSix after USB Connect. I use pavucontrol for configurations.
 
-````markup 
-# pavucontrol 
-````
+```markup
+# pavucontrol
+```
 
 <a href="https://wiki.debian.org/PulseAudio#Basic_Configuration">https://wiki.debian.org/PulseAudio#Basic_Configuration</a>
 
 To reread the config files ~/.config/pulse/daemon.conf and /etc/pulse/daemon.conf, one can restart pulse:
 
-````markup 
+```markup
 $ systemctl --user restart pulseaudio.service
-````
+```
 
 - ALSA (works for Bitwig and BiGSiX)
 - PulseAudio is on top of ALSA
@@ -31,28 +31,28 @@ Stop running the PulseAudio daemon for a while
 
 If you suspect trouble with a running PulseAudio daemon in your systemd user session, you can switch it off:
 
-````markup 
+```markup
 systemctl --user mask pulseaudio.socket
 systemctl --user stop pulseaudio.service
-````
+```
 
 and then to switch it on:
 
-````markup 
+```markup
 systemctl --user unmask pulseaudio.socket
 systemctl --user start pulseaudio.service
-````
+```
 
 More bash history infos ;-) (todo)
 
-````markup
-#wire plumber conrtrol CLI 
+```markup
+#wire plumber conrtrol CLI
 $wpctl status
 
 aplay -lL (liste der Karten / Devices)
 
 TIPPS: (NOT FOR ME)
-amixer -c2 #or correct card index (Angabe der Kartennummer von "aplay -lL" 
+amixer -c2 #or correct card index (Angabe der Kartennummer von "aplay -lL"
 pactl list cards
 pactl list sources
 #During a recording
@@ -78,9 +78,9 @@ pw-link -h
 pw-link -d 96
 
 pw-mon | egrep "card_name" (zeigt alle erkannten devices an)
-pw-mon | grep SiX 
+pw-mon | grep SiX
 pw-mon | egrep "SiX"
-pw-mon 
+pw-mon
 
 ########################################################################
 speaker-test (vorsicht rauschen laut)
@@ -88,7 +88,7 @@ speaker-test -c 2 -t /usr/lib/libreoffice/share/gallery/sounds/applause.wav
 speaker-test -c 2 -t wav
 ########################################################################
 SHOW AUDIO DEVICES (no usb?)
-lspci | grep Audio 
+lspci | grep Audio
 
 
 lspci card0
@@ -125,16 +125,16 @@ more /proc/asound/card2/pcm0c/sub0/hw_params
 more /proc/asound/card2/stream0
 more /proc/asound/devices (to show all audio devices ..)
 
-more /proc/asound/oss/sndstat 
-more /proc/asound/oss/devices 
-more /proc/asound/pcm0c/sub0/info 
-more /proc/asound/pcm0c/sub0/hw_params 
-more /proc/asound/pcm0c/sub0/status 
-more /proc/asound/pcm0p/info 
+more /proc/asound/oss/sndstat
+more /proc/asound/oss/devices
+more /proc/asound/pcm0c/sub0/info
+more /proc/asound/pcm0c/sub0/hw_params
+more /proc/asound/pcm0c/sub0/status
+more /proc/asound/pcm0p/info
 
 more /proc/asound/oss/sndstat
 Sound Driver:3.8.1a-980706 (ALSA emulation code)
-Card config: 
+Card config:
 HDA Intel PCH at 0xa3230000 irq 127
 HDA NVidia at 0xa3080000 irq 17
 Solid State Logic BiG SiX at usb-0000:00:14.0-5, high speed
@@ -162,5 +162,4 @@ stream: CAPTURE
 more /proc/asound/Design/stream0
 Blackmagic Design Blackmagic Design at usb-0000:00:14.0-6, high speed : USB Audio
 
-````
-
+```

@@ -17,8 +17,8 @@ search for apps
 
 example: https://kagi.com/search?q=com.whatsapp
 
-
 [search https://reviewed.app]: https://reviewed.app "https://reviewed.app"
+
 [search https://reviewed.app]
 
 [search en.uptodown.com/android/search]: https://en.uptodown.com/android/search "https://en.uptodown.com/android/search""
@@ -34,39 +34,46 @@ example: https://kagi.com/search?q=com.whatsapp
 search for papers
 
 [search www.emerald.com]: https://www.emerald.com/insight/search?q=WhatsApp "https://www.emerald.com/insight/search?q=WhatsApp"
+
 [search www.emerald.com]
 
 [search colab.ws]: https://colab.ws "https://colab.ws"
+
 [search colab.ws]
 
 [search www.researchgate.net]: https://www.researchgate.net "https://www.researchgate.net"
+
 [search www.researchgate.net]
 
 [search strathprints.strath.ac.uk]: https://strathprints.strath.ac.uk "https://strathprints.strath.ac.uk"
+
 [search strathprints.strath.ac.uk]
 
 [search files.eric.ed.gov]: https://files.eric.ed.gov "https://files.eric.ed.gov"
+
 [search files.eric.ed.gov]
 
 search for articles
 
 [search thehackernews.com]: https://thehackernews.com "https://thehackernews.com"
+
 [search thehackernews.com]
 
 [search www.forensicfocus.com]: https://www.forensicfocus.com "https://www.forensicfocus.com"
+
 [search www.forensicfocus.com]
 
 Search example: https://www.forensicfocus.com/?s=com.whatsapp
 
 [search www.forensicfocus.com]: https://www.forensicfocus.com "https://www.forensicfocus.com"
+
 [search www.forensicfocus.com]
 
 search for solutions tools (android forensic tools)
 
 [search github.com/mesquidar/ForensicsTools]: https://github.com/mesquidar/ForensicsTools "https://github.com/mesquidar/ForensicsTools"
+
 [search github.com/mesquidar/ForensicsTools]
-
-
 
 <hr>
 
@@ -96,5 +103,3 @@ cost $5 per 1000 queries."
 https://programmablesearchengine.google.com/about/
 
 https://programmablesearchengine.google.com/controlpanel/create
-
-

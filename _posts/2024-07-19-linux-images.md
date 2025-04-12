@@ -11,9 +11,9 @@ featured: false
 
 to work with images under linux i use thunnar
 
-````markup
+```markup
 $thunnar
-````
+```
 
 ### linux tools
 

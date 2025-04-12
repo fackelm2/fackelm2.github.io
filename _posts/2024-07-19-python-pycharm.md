@@ -9,20 +9,21 @@ categories: python
 featured: false
 ---
 
-draft 
+draft
 
 Linux Debian Pycharm Install
- 
-````markdown
+
+```markdown
 #debian install
 apt-get install openjdk-XX-jdk
 
 tar -xvfz professional-pycharm....gz
 ./bin/pycharm.sh
-````
+```
 
-Set pycharm to PATH directory 
-````commandline
+Set pycharm to PATH directory
+
+```commandline
 linux:~$ ls -al /usr/local/bin
 insgesamt 200
 drwxr-xr-x  2 root root   4096 13. Jul 12:49 .
@@ -32,4 +33,4 @@ lrwxrwxrwx  1 root root     52 13. Jul 12:49 pycharm -> /home/fackelm2/Tools/pyc
 
 linux:~$ echo $PATH
 /usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
-````
+```

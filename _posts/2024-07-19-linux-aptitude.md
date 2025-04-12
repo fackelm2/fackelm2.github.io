@@ -15,9 +15,9 @@ draft
 
 Debian update
 
-````markup
+```markup
 # sudo apt-get update
-````
+```
 
 or with aptitude (F10)
 
@@ -25,9 +25,8 @@ or with aptitude (F10)
 2. aktualisierbare markieren (U)
 3. Installieren/Entfernen von Paketen (g)
 
-````markup
+```markup
 # sudo aptitude update
-````
+```
 
 update are relevant for example also after changes in source.list like adding "contrib non-free"
-

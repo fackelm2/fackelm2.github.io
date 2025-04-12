@@ -9,15 +9,15 @@ categories: operation
 featured: false
 ---
 
-````markup
+```markup
 $ ssh-add .ssh/id_github_username
-Enter passphrase for .ssh/id_github_username: 
+Enter passphrase for .ssh/id_github_username:
 Identity added: .ssh/id_github_userna<me (user@name.de)
 
 $ ssh-add .ssh/id_github_username (user@name.de)
 
 $ ssh -i id_github_username -T git@github.com
-````
+```
 
 ### Github Pages
 
@@ -29,10 +29,11 @@ or even share your résumé. This guide will help get you started on creating yo
 ### Github Docs
 
 [docs.github.com]: https://docs.github.com/de "https://docs.github.com/de"
+
 [docs.github.com]
 
 ### Github Certifications
 
 [examregistration.github.com/overview]: https://examregistration.github.com/overview "https://examregistration.github.com/overview"
-[examregistration.github.com/overview]
 
+[examregistration.github.com/overview]

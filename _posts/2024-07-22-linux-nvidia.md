@@ -17,7 +17,7 @@ oder
 apt-get install nvidia-driver
 
 alles deinstallieren hat nur funktioniert mit:
-apt-get purge *nvidia*
+apt-get purge _nvidia_
 
 (Kernelquellen muessen vorhanden sein ..)
 root@mutterschiff:~# uname -r
@@ -32,7 +32,7 @@ check nvidia driver installed
 https://linuxconfig.org/how-to-check-nvidia-driver-version-on-your-linux-system
 
 root@mutterschiff:/home/fackelm2# nvidia-smi
-Sun Mar 3 13:06:21 2024       
+Sun Mar 3 13:06:21 2024  
 +-----------------------------------------------------------------------------------------+
 | NVIDIA-SMI 550.54.14 Driver Version: 550.54.14 CUDA Version: 12.4 |
 |-----------------------------------------+------------------------+----------------------+
@@ -46,7 +46,7 @@ Sun Mar 3 13:06:21 2024
 +-----------------------------------------+------------------------+----------------------+
 
 +-----------------------------------------------------------------------------------------+
-| Processes:                                                                              |
+| Processes: |
 | GPU GI CI PID Type Process name GPU Memory |
 | ID ID Usage |
 |=========================================================================================|
@@ -58,7 +58,7 @@ Please note that both above solutions will work only if the actual NVIDIA module
 
 Another place where to find NVIDIA driver version is to consult Xorg X server log files:
 root@mutterschiff:/home/fackelm2# more /var/log/Xorg.0.log | grep "X Driver"
-[     6.031] (II) NVIDIA dlloader X Driver 550.54.14 Thu Feb 22 01:31:16 UTC 2024
+[ 6.031] (II) NVIDIA dlloader X Driver 550.54.14 Thu Feb 22 01:31:16 UTC 2024
 
 Retrieve module version
 If all above commands fail because you are unable to load NVIDIA module you can always see NVIDIA version number by
@@ -106,7 +106,7 @@ systemctl stop lightdm.service
 
 Now it’s up to you, friends, it’s you I’m counting on.
 
-    I gave up installing by the runfile installer. I preferred to install with this command: sudo apt-get install nvidia-driver-515 
+    I gave up installing by the runfile installer. I preferred to install with this command: sudo apt-get install nvidia-driver-515
 
     erstellt
     Juli 2022
@@ -135,5 +135,3 @@ Aug. 2022
 I gave up installing by the runfile installer. I preferred to install with this command:
 
 sudo apt-get install nvidia-driver-515
-
-

@@ -15,6 +15,3 @@ GM Hammer: best opening for beginners
 
 - manchend "menschend"
 - french opening
-
-
-

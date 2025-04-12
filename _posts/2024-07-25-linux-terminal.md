@@ -22,4 +22,3 @@ Pros
 - Opacity level customization
 - Allows the use of tabs
 - Renaming of tabs is allowed
-

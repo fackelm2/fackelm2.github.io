@@ -14,7 +14,3 @@ draft
 [python-pretty-print]: https://realpython.com/python-pretty-print/ "https://realpython.com/python-pretty-print/"
 
 Python Pretty Print [python-pretty-print]
-
-
-
-

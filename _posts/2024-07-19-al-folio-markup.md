@@ -24,42 +24,43 @@ And markup started to be used beyond the web, to author books, articles, slide s
 Default Al-folio Markup is GitHub Flavored markup - GFM
 (<a href="https://github.github.com/gfm/">https://github.github.com/gfm/</a>)
 
-
 <hr>
 Example 1 [ markup / markdown ]
 
 \`\`\`\`
 
-````
-[example text]: /https://nmit.de "Network Management IT" 
+```
+[example text]: /https://nmit.de "Network Management IT"
 [example text]
-````
+```
 
 \`\`\`\`markup
 
-````markup
-[example text]: /https://nmit.de "Network Management IT" 
+```markup
+[example text]: /https://nmit.de "Network Management IT"
 [example text]
-````
+```
 
 \`\`\`\`markdown
 
-````markdown
+```markdown
 [example text]: /https://nmit.de "Network Management IT"
+
 [example text]
-````
+```
 
 <hr>
 Example 2 [ LINK ]
 
-````markup
-[Markup Instructions]: /https://github.github.com/gfm/ "Markup Instructions" 
+```markup
+[Markup Instructions]: /https://github.github.com/gfm/ "Markup Instructions"
 [Markup Instructions]
-````
+```
 
 become to:
 
 [Markup Instructions]: /https://github.github.com/gfm/ "Markup Instructions"
+
 [Markup Instructions]
 
 <hr>
@@ -67,33 +68,34 @@ Example 3 [ LINK in text]
 
 First write the "palceholder" in text, than you can define the URL at any place ..
 
-````
+```
 What is [markup]?
 
 [markup]: /https://github.github.com/gfm/#introduction "markup"
-````
+```
 
 become to:
 
 What is [markup]?
 
 [markup]: /https://github.github.com/gfm/#introduction "markup"
+
 <hr>
 Example 2 [ CODE FORMAT]
 
-````markup
+`````markup
 \````
 def Code example
     just a test
 \````
-````
+`````
 
 become to:
 
-````
+```
 def Code example
     just a test
-````
+```
 
 <hr>
 
@@ -113,5 +115,3 @@ for i in numbers:
     echo
     i
 ```
-
-

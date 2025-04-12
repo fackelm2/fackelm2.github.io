@@ -15,8 +15,6 @@ draft
 
 Tool for sqlite (not free)
 
-````markup
+```markup
 $ navicat
-````
-
-
+```

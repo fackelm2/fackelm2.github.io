@@ -11,10 +11,12 @@ featured: false
 
 draft
 
-[Github activity]:https://docs.github.com/de/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository "https://docs.github.com/de/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository"
+[Github activity]: https://docs.github.com/de/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository "https://docs.github.com/de/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository"
+
 [Github activity]
 
 [GitHub Linguist]: https://github.com/github/linguist "https://github.com/github/linguist"
+
 GitHub Display Language of Code [GitHub Linguist]
 
 Install the gem: (debian package: ruby-github-linguist)
@@ -24,9 +26,11 @@ gem install github-linguist
 ```
 
 [ruby environment]: https://rvm.io/rvm/install "https://rvm.io/rvm/install"
+
 You need a working [ruby environment]!
 
 [github: linguist]: https://github.com/github-linguist/linguist/tree/master?tab=readme-ov-file "https://github.com/github-linguist/linguist/tree/master?tab=readme-ov-file"
+
 [github: linguist]
 Report language on repository (Install on Debian) [github: linguist]
 
@@ -36,7 +40,7 @@ sudo apt-get install ruby-github-linguist
 
 /Projects/RepositoryDirectory$ github-linguist
 
-/Projects/RepositoryDirectory$ github-linguist 
+/Projects/RepositoryDirectory$ github-linguist
 67.73%  5490455    HTML
 15.45%  1252144    SCSS
 12.40%  1005102    JavaScript
@@ -51,6 +55,7 @@ sudo apt-get install ruby-github-linguist
 ```
 
 [Paths not excluded from Github language statistics]: https://stackoverflow.com/questions/42544813/paths-not-excluded-from-github-language-statistics "https://stackoverflow.com/questions/42544813/paths-not-excluded-from-github-language-statistics"
+
 [Paths not excluded from Github language statistics]
 (https://stackoverflow.com/questions/42544813/paths-not-excluded-from-github-language-statistics)
 
@@ -64,6 +69,3 @@ language is "Python", but you can see "Rich Text Format"
         {% include figure.liquid loading="eager" path="assets/img/github-language-01.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
-
-

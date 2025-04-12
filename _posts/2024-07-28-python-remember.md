@@ -15,24 +15,24 @@ Python programming notice
 
 Show functions in module / program
 
-````markdown
+```markdown
 > > > dir(progname)
-````
+```
 
-build main function (def main()) with no "side effects" while importing (if __name__ == '__main__')
+build main function (def main()) with no "side effects" while importing (if **name** == '**main**')
 
-````markdown
+```markdown
 def main():
 print('hello i am userA')
 
-if __name__ == '__main__':
-main()  
-````
+if **name** == '**main**':
+main()
+```
 
 <hr><br>
 calendar
 
-````
+```
 $ python3 -m calendar
                                   2024
 
@@ -69,4 +69,4 @@ Mo Tu We Th Fr Sa Su      Mo Tu We Th Fr Sa Su      Mo Tu We Th Fr Sa Su
 21 22 23 24 25 26 27      18 19 20 21 22 23 24      16 17 18 19 20 21 22
 28 29 30 31               25 26 27 28 29 30         23 24 25 26 27 28 29
                                                     30 31
-````
+```

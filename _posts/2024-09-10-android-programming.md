@@ -11,8 +11,6 @@ featured: false
 
 draft
 
-[Android Programming on Medium]:https://medium.com/make-android "https://medium.com/make-android"
+[Android Programming on Medium]: https://medium.com/make-android "https://medium.com/make-android"
+
 [Android Programming on Medium]
-
-
-

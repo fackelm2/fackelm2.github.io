@@ -20,5 +20,3 @@ https://amirpourmand.ir/posts/2023/how-to-sync-obsidian/
 
 Docker Cheat Sheat
 https://dockerlabs.collabnix.com/docker/cheatsheet/
-
-

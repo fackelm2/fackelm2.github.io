@@ -12,6 +12,7 @@ featured: false
 draft
 
 [Linux lokale Pakete installieren]: https://debianforum.de/forum/viewtopic.php?t=183470 "https://debianforum.de/forum/viewtopic.php?t=183470"
+
 [Linux lokale Pakete installieren]
 
 helpfull information: apt zur Installation lokaler deb-Pakete?
@@ -22,8 +23,7 @@ das der Pfad eindeutig als solcher zu erkennen ist, also mit einem / oder ./ anf
 
 Code: Alles auswählen
 
-````
+```
 # apt install /home/user/foobar.deb
 # apt install ./foobar.deb
-````
-
+```

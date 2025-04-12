@@ -14,5 +14,5 @@ draft
 Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF
 
 [Database Normalization]: https://www.youtube.com/watch?v=GFQaEYEc8_8 "https://www.youtube.com/watch?v=GFQaEYEc8_8"
-[Database Normalization]
 
+[Database Normalization]

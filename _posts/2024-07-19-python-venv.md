@@ -9,15 +9,15 @@ categories: python
 featured: true
 ---
 
-````markdown
+```markdown
 source .venv/bin/activate
-````
+```
 
 <a href="https://python.land/virtual-environments/virtualenv#Python_venv_activation">
 https://python.land/virtual-environments/virtualenv#Python_venv_activation</a>
 
-````markdown
+```markdown
 user@device:~/PycharmProjects/apk_apkidinfo$ source .venv/bin/activate
 (.venv) user@device:~/PycharmProjects/apk_apkidinfo$ echo $VIRTUAL_ENV
 /home/user/PycharmProjects/apk_apkidinfo/.venv31
-````
+```
