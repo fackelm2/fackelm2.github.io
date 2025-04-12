@@ -6,6 +6,6 @@ nav: true
 nav_order: 5
 cv_pdf:
 description: curriculum vitae
-toc: 
-    sidebar: left
+toc:
+  sidebar: left
 ---

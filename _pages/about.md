@@ -18,10 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-[Ludwig-Maximilians-University]:https://www.lmu.de/de/index.html "https://www.lmu.de/de/index.html"
+[Ludwig-Maximilians-University]: https://www.lmu.de/de/index.html "https://www.lmu.de/de/index.html"
 
 I have been a computer scientist since 2001.
-I studied at the [Ludwig-Maximilians-University] in Munich. 
+I studied at the [Ludwig-Maximilians-University] in Munich.
 Since then I have been interested in IT security and IT networks.
 I worked for about four years in the IT security department of a large insurance company.
 Among other things, I was responsible for planning firewalls, routers and VPNs.
@@ -35,12 +35,8 @@ At first I was afraid that the IT forensic topics would be very limited.
 Coming from the wide range of networking topics, I was initially unable to see
 the diversity of topics in IT forensics.
 I worked in Windows forensics and Linux forensics for five years.
-Then I had the opportunity to work in network forensics. 
+Then I had the opportunity to work in network forensics.
 The rise of smartphones led me to move into smartphone forensics.
 
-After three years and a steady increase in topics, 
+After three years and a steady increase in topics,
 I was able to focus on Android smartphones and Android smartwatches.
-
-
-
-
