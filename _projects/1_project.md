@@ -15,15 +15,15 @@ Forensic evaluation of installed Android applications: Automated detection, clas
 prioritisation based on the Android Package List of a smartphone
 </b>
 
-Forensische Bewertung installierter Android-Anwendungen: Automatisierte Erkennung, Klassifizierung und 
+Forensische Bewertung installierter Android-Anwendungen: Automatisierte Erkennung, Klassifizierung und
 Priorisierung anhand der Android Package List eines Smartphones
 
 <b>An Android App Classification based on the unique apkid name</b>
 
-Android Package-IDs are the unique package identifiers for Android packages (APKs). 
+Android Package-IDs are the unique package identifiers for Android packages (APKs).
 For example, the Threema messenger app has the apkid "ch.threema.app".
 You can use the unique apk id to search the web for the intention of the app.
 
-Android Package-IDs sind eindeutige Bezeichner für Android Packages (APKs). 
+Android Package-IDs sind eindeutige Bezeichner für Android Packages (APKs).
 Zum Beispiel hat die Messenger-App Threema die APK-ID "ch.threema.app".
 Diese eindeutige APK ID kann verwendet werden, um die Funktion und den Zweck der App im Internet herauszufinden.
