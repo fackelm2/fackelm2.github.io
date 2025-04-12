@@ -50,7 +50,7 @@
       "summary": "Network Forensics",
       "highlights": ["Expert witness in court"]
     },
-        {
+    {
       "name": "Land Baden-Württemberg",
       "position": "Forensic Analyst",
       "url": "https://www.baden-wuerttemberg.de/de/startseite/",
@@ -100,7 +100,7 @@
     }
   ],
   "publications": [
-     {
+    {
       "name": "Rechtekonzept für die Mobile Agent System Architecture",
       "publisher": "Dietmar Fackelmann",
       "releaseDate": "2001",
