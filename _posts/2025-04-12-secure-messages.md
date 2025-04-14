@@ -32,4 +32,4 @@ echo "U2FsdGVkX1+0x5v3Z4Q6g7Q==" | openssl enc -d -aes-256-cbc -pbkdf2 -a -pass 
 
 [Secure and Secret Messages YT]: https://www.youtube.com/watch?v=ADpJUY19-eQ "https://www.youtube.com/watch?v=ADpJUY19-eQ"
 
-[Secure and Secret Messages YT] Secret and Secure Messages (on Youtube)
+[Secure and Secret Messages YT]
