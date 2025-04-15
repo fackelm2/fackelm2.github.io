@@ -44,7 +44,7 @@ bank transfer. Or buying from an ATM is even more expensive (up to 20%).
 There are also many pitfalls when buying cryptocurrency with 
 FIAT money - be patient and always think twice.
 
-
+  
 ## Links
 * [Ledger Homepage] 
 * Buying with Bank Transfer (SEPA) https://support.ledger.com/de/article/11906356899869-zd
