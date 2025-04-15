@@ -10,13 +10,32 @@ featured: false
 ---
 
 [Ledger Tutorial]: https://www.youtube.com/watch?v=-iAYbp-u3JA "https://www.youtube.com/watch?v=-iAYbp-u3JA"
-[Ledger]: https://www.youtube.com/watch?v=ADpJUY19-eQ "https://www.youtube.com/watch?v=ADpJUY19-eQ"
-[Ledger Homepage]: https://shop.ledger.com/de/pages/ledger-nano-s-plus?srsltid=AfmBOop0nAQOoTSpZC4uwCMZTswLgCQQzOEdxbFFfDeIqrg6tCrEo2ql "Ledger Homepage"
+[Ledger YT]: https://www.youtube.com/watch?v=ADpJUY19-eQ "https://www.youtube.com/watch?v=ADpJUY19-eQ"
+[Ledger]: https://shop.ledger.com/de/pages/ledger-nano-s-plus?srsltid=AfmBOop0nAQOoTSpZC4uwCMZTswLgCQQzOEdxbFFfDeIqrg6tCrEo2ql "Ledger Homepage"
 [Ledger Security Tips]: https://www.youtube.com/watch?v=GGcwmbLWgo8 "Best Tips for Keeping Your Crypto Safe"
-
 [Ledger Tutorial Guide]: https://www.youtube.com/watch?v=vHjtcPxFFTM " How to Buy, Sell, Stake, and Swap Crypto in Ledger Live | Step-by-Step Tutorial Guide"
+[Ledger Shop]: https://shop.ledger.com/ "https://shop.ledger.com/"
 
 ## Cryptocurrency
+Cryptocurrency is a digital currency (digital money) based on cryptographic processes 
+and usually managed in a decentralised manner via a blockchain.
+
+
+## Hardware Wallet
+A hardware wallet is required to securely store private keys for cryptocurrencies 
+offline. The main advantage is its separation from the internet 
+(→ 'cold storage'), which means it cannot be compromised by malware or 
+remote attacks, unlike software wallets or exchanges.
+
+* Security
+  * Private keys never leave the device (source: Ledger Whitepaper)
+  * Protection against keyloggers, phishing and remote access
+* Independence 
+  * Full control over your own assets ('Not your keys, not your coins')
+* Support for multiple signatures and passphrases
+  * Additional layers of security possible
+* Consistency
+  * Independent of compromised computers or mobile devices.
 
 [Ledger] is one example of a hardware wallet for storing cryptocurrencies securely. 
 It provides a secure environment for managing private keys and signing transactions, 
@@ -26,19 +45,21 @@ The Ledger Nano S Plus and Ledger Nano X are two popular models that provide
 robust security features, including secure chip technology and a user-friendly 
 interface.
 
-Hardware for cryptocurrency wallets [Ledger Homepage] 
-* LEDGER SAS Nano S Plus Krypto Hardware Wallet
-* LEDGER SAS Nano X Krypto Wallet (with Bluetooth for a Smartphone connection)
+Hardware for cryptocurrency wallets (for example [Ledger Shop]) 
+* Ledger Nano S Plus (with a small display and no Bluetooth)
+* Ledger Nano X (with a small display and Bluetooth)
+* Ledger Flex (with a small display and no Bluetooth)
+* Ledger Stax (with a large display and a touch screen)
 
 ## Security information
 On the Ledger Youtube Channel, you can find a lot of information about 
 the Ledger Wallets and also important instructions how to secure your 
 wallet and your cryptocurrency.
-* [Ledger Security Tips] Tips for Keeping Your Crypto Safe
+* [Ledger Security Tips] - Tips for Keeping Your Crypto Safe
 
 ## Bying Crytptocurrency with FIAT Money
 
-[Ledger Tutorial Guide] How to Buy, Sell, Stake, and Swap Crypto in Ledger Live | Step-by-Step Tutorial Guide
+[Ledger Tutorial Guide] - How to Buy, Sell, Stake, and Swap Crypto in Ledger Live | Step-by-Step Tutorial Guide
 
 A main question is often how to buy cryptocurrency with FIAT money. 
 There are several ways to buy cryptocurrency with FIAT money.
@@ -57,3 +78,6 @@ FIAT money. Be patient and always think twice.
 * Paying with PayPal (US) https://support.ledger.com/de/article/11906356899869-zd
 * Paying with Creditcard https://support.ledger.com/de/article/11906356899869-zd
 * German Tutorial on Youtube [Ledger Tutorial]
+
+
+Translated with DeepL.com (free version)
