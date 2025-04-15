@@ -14,6 +14,8 @@ featured: false
 [Ledger Homepage]: https://shop.ledger.com/de/pages/ledger-nano-s-plus?srsltid=AfmBOop0nAQOoTSpZC4uwCMZTswLgCQQzOEdxbFFfDeIqrg6tCrEo2ql "Ledger Homepage"
 [Ledger Security Tipps]: https://www.youtube.com/watch?v=GGcwmbLWgo8 "Best Tips for Keeping Your Crypto Safe"
 
+[Ledger Tutorial Guide]: https://www.youtube.com/watch?v=vHjtcPxFFTM " How to Buy, Sell, Stake, and Swap Crypto in Ledger Live | Step-by-Step Tutorial Guide"
+
 ## Cryptocurrency
 
 [Ledger] is one example of a hardware wallet for storing cryptocurrencies securely. 
@@ -35,6 +37,9 @@ wallet and your cryptocurrency ([Ledger Security Tipps]).
 * [Ledger Security Tipps] (Best Tips for Keeping Your Crypto Safe)
 
 ## Bying Crytptocurrency with FIAT Money
+
+[Ledger Tutorial Guide] (How to Buy, Sell, Stake, and Swap Crypto in Ledger Live | Step-by-Step Tutorial Guide)
+
 A main question is often how to buy cryptocurrency with FIAT money. 
 There are several ways to buy cryptocurrency with FIAT money.
 Be patient about the costs and scams. 
@@ -44,7 +49,7 @@ bank transfer. Or buying from an ATM is even more expensive (up to 20%).
 There are also many pitfalls when buying cryptocurrency with 
 FIAT money - be patient and always think twice.
 
-  
+
 ## Links
 * [Ledger Homepage] 
 * Buying with Bank Transfer (SEPA) https://support.ledger.com/de/article/11906356899869-zd
