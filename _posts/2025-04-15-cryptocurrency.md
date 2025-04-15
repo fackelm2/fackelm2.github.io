@@ -9,6 +9,7 @@ categories: security
 featured: false
 ---
 
+
 [Ledger Tutorial]: https://www.youtube.com/watch?v=-iAYbp-u3JA "https://www.youtube.com/watch?v=-iAYbp-u3JA"
 [Ledger YT]: https://www.youtube.com/watch?v=ADpJUY19-eQ "https://www.youtube.com/watch?v=ADpJUY19-eQ"
 [Ledger]: https://shop.ledger.com/de/pages/ledger-nano-s-plus?srsltid=AfmBOop0nAQOoTSpZC4uwCMZTswLgCQQzOEdxbFFfDeIqrg6tCrEo2ql "Ledger Homepage"
