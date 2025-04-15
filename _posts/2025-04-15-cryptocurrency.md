@@ -12,7 +12,7 @@ featured: false
 [Ledger Tutorial]: https://www.youtube.com/watch?v=-iAYbp-u3JA "https://www.youtube.com/watch?v=-iAYbp-u3JA"
 [Ledger]: https://www.youtube.com/watch?v=ADpJUY19-eQ "https://www.youtube.com/watch?v=ADpJUY19-eQ"
 [Ledger Homepage]: https://shop.ledger.com/de/pages/ledger-nano-s-plus?srsltid=AfmBOop0nAQOoTSpZC4uwCMZTswLgCQQzOEdxbFFfDeIqrg6tCrEo2ql "Ledger Homepage"
-[Ledger Security Tipps]: https://www.youtube.com/watch?v=GGcwmbLWgo8 "https://www.youtube.com/watch?v=GGcwmbLWgo8"
+[Ledger Security Tipps]: https://www.youtube.com/watch?v=GGcwmbLWgo8 "Best Tips for Keeping Your Crypto Safe"
 
 ## Cryptocurrency
 
@@ -32,7 +32,7 @@ Hardware for cryptocurrency wallets [Ledger Homepage]
 On the Ledger Youtube Channel, you can find a lot of information about 
 the Ledger Wallets and also important instructions how to secure your 
 wallet and your cryptocurrency ([Ledger Security Tipps]).
-* [Ledger Security Tipps]
+* [Ledger Security Tipps] (Best Tips for Keeping Your Crypto Safe)
 
 ## Bying Crytptocurrency with FIAT Money
 A main question is often how to buy cryptocurrency with FIAT money. 
