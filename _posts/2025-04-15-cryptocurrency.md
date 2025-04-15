@@ -12,7 +12,7 @@ featured: false
 [Ledger Tutorial]: https://www.youtube.com/watch?v=-iAYbp-u3JA "https://www.youtube.com/watch?v=-iAYbp-u3JA"
 [Ledger]: https://www.youtube.com/watch?v=ADpJUY19-eQ "https://www.youtube.com/watch?v=ADpJUY19-eQ"
 [Ledger Homepage]: https://shop.ledger.com/de/pages/ledger-nano-s-plus?srsltid=AfmBOop0nAQOoTSpZC4uwCMZTswLgCQQzOEdxbFFfDeIqrg6tCrEo2ql "Ledger Homepage"
-[Ledger Security Tipps]: https://www.youtube.com/watch?v=GGcwmbLWgo8 "Best Tips for Keeping Your Crypto Safe"
+[Ledger Security Tips]: https://www.youtube.com/watch?v=GGcwmbLWgo8 "Best Tips for Keeping Your Crypto Safe"
 
 [Ledger Tutorial Guide]: https://www.youtube.com/watch?v=vHjtcPxFFTM " How to Buy, Sell, Stake, and Swap Crypto in Ledger Live | Step-by-Step Tutorial Guide"
 
@@ -33,12 +33,12 @@ Hardware for cryptocurrency wallets [Ledger Homepage]
 ## Security information
 On the Ledger Youtube Channel, you can find a lot of information about 
 the Ledger Wallets and also important instructions how to secure your 
-wallet and your cryptocurrency ([Ledger Security Tipps]).
-* [Ledger Security Tipps] (Best Tips for Keeping Your Crypto Safe)
+wallet and your cryptocurrency.
+* [Ledger Security Tips] Tips for Keeping Your Crypto Safe
 
 ## Bying Crytptocurrency with FIAT Money
 
-[Ledger Tutorial Guide] (How to Buy, Sell, Stake, and Swap Crypto in Ledger Live | Step-by-Step Tutorial Guide)
+[Ledger Tutorial Guide] How to Buy, Sell, Stake, and Swap Crypto in Ledger Live | Step-by-Step Tutorial Guide
 
 A main question is often how to buy cryptocurrency with FIAT money. 
 There are several ways to buy cryptocurrency with FIAT money.
@@ -47,7 +47,7 @@ Be patient about the costs and scams.
 For example, buying with a credit card is more expensive than buying with a 
 bank transfer. Or buying from an ATM is even more expensive (up to 20%).
 There are also many pitfalls when buying cryptocurrency with 
-FIAT money - be patient and always think twice.
+FIAT money. Be patient and always think twice.
 
 
 ## Links
