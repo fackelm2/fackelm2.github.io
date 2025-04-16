@@ -63,6 +63,11 @@ wallet and your cryptocurrency.
 
 ## Bying Crytptocurrency with FIAT Money
 
+Unterscheiden kann man: 
+* Krypto-Börse (Kryptowährung) (Geld abheben)
+* Krypto Broker (Trading)
+
+
 [Ledger Tutorial Guide] - How to Buy, Sell, Stake, and Swap Crypto in Ledger Live | Step-by-Step Tutorial Guide
 
 A main question is often how to buy cryptocurrency with FIAT money.
