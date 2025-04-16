@@ -89,3 +89,14 @@ FIAT money. Be patient and always think twice.
 - German Tutorial on Youtube [Ledger Tutorial]
 
 Translated with DeepL.com (free version)
+
+## Crypto Exchange Links
+* crypto exchange bitvavo https://account.bitvavo.com
+* crypto exchange kraken https://www.kraken.com
+* crypto exchange binance https://www.binance.com
+* crypto exchange coinbase https://www.coinbase.com
+* crypto exchange bison https://bisonapp.com
+* crypto exchange bsdex https://www.bsdex.de
+* crypto exchange bitpanda https://www.bitpanda.com
+* crypto exchange crypto.com https://crypto.com
+* and many more .. 
