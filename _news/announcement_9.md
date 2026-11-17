@@ -5,6 +5,13 @@ inline: true
 related_posts: false
 ---
 
-[Artificial AI]: https://fackelm2.github.io/blog/2024/ai/ "https://fackelm2.github.io/blog/2024/ai/"
+Using local ai
 
-[Artificial AI] - thinking about what AI is and how it will affect our world (see contributions)
+[Local AI]: https://fackelm2.github.io/blog/2026/localllm/ "https://fackelm2.github.io/blog/2026/localllm/"
+
+[Local AI] - Install Local AI for Independence
+
+Why Independence:
+[Youtube Podcast Kotlin]: https://www.youtube.com/watch?v=9WjPdgOK-68 "https://www.youtube.com/watch?v=9WjPdgOK-68"
+
+[Youtube Podcast Kotlin] - thoughts about Kotlin but also the AI industry
